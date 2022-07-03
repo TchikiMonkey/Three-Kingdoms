@@ -14,19 +14,8 @@ PlayResY: 1076
 Timer: 100.0000
 Synch Point: 
 WrapStyle: 0
-ScaledBorderAndShadow: no
+ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
-
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: I:/torrents2/三国演义 HD raws/三国演义 29 携民渡江.mp4
-Video File: I:/torrents2/三国演义 HD raws/三国演义 29 携民渡江.mp4
-Video AR Mode: 4
-Video AR Value: 1.301115
-Video Zoom Percent: 0.500000
-Scroll Position: 1
-Active Line: 18
-Video Position: 1724
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -47,29 +36,29 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.55,0:00:06.60,Episode Title,,0,0,0,,{\fade(255,0,255,250,520,4000,4800)\pos(720,479.685)}Episode 29
 Dialogue: 0,0:00:00.55,0:00:06.60,Episode Title,,0,0,0,,{\fade(255,0,255,250,520,4000,4800)\pos(713.864,744.854)}Refugees Cross the River
 Dialogue: 0,0:00:00.00,0:00:05.00,Header,,0,0,0,,This is a Gentlemen of the Han free fansub.
-Dialogue: 0,0:00:07.27,0:00:11.16,Thinking,,0,0,0,,Zhuge Liang set Bowang Slope on fire at the start of his career
-Dialogue: 0,0:00:11.16,0:00:13.44,Thinking,,0,0,0,,and bruised the morale of the Cao army.
-Dialogue: 0,0:00:14.84,0:00:18.75,Thinking,,0,0,0,,Not resigned to failure, Cao Cao ordered Cao Ren to attack Xinye again.
-Dialogue: 0,0:00:19.75,0:00:23.10,Thinking,NTP,0,0,0,,Little did he knew, that he was falling into Zhuge Liang's trap.
-Dialogue: 0,0:00:23.10,0:00:28.45,Thinking,NTP,0,0,0,,Cao Ren was fortunate enough to make a narrow escape in the dark.
-Dialogue: 0,0:00:31.99,0:00:33.83,Default,,0,0,0,,Chancellor.
+Dialogue: 0,0:00:07.77,0:00:11.66,Thinking,,0,0,0,,Zhuge Liang set Bowang Slope on fire at the start of his career——
+Dialogue: 0,0:00:11.66,0:00:13.94,Thinking,,0,0,0,,——and hurt the morale of the Cao army.
+Dialogue: 0,0:00:15.34,0:00:19.25,Thinking,,0,0,0,,Not resigned to failure, Cao Cao ordered Cao Ren to attack Xinye again.
+Dialogue: 0,0:00:20.25,0:00:23.60,Thinking,NTP,0,0,0,,Little did he knew, that he was falling into Zhuge Liang's trap.
+Dialogue: 0,0:00:23.60,0:00:28.95,Thinking,NTP,0,0,0,,Cao Ren was fortunate enough to make a narrow escape in the dark.
+Dialogue: 0,0:00:32.49,0:00:34.33,Default,,0,0,0,,Chancellor.
 Dialogue: 0,0:00:35.92,0:00:39.88,Style Names,,0,0,0,,{\fade(255,0,255,0,200,3500,3800)\pos(1146.263,694.356)}Cáo Cāo\NStyled: Mèngdé
-Dialogue: 0,0:00:38.13,0:00:41.66,Default,,0,0,0,,That Zhuge peasant! How dare he?!
+Dialogue: 0,0:00:38.63,0:00:42.16,Default,,0,0,0,,That Zhuge peasant! How dare he?!
 Dialogue: 0,0:00:43.60,0:00:46.74,Default,,0,0,0,,Prepare my armies, we will exterminate Xinye!
 Dialogue: 0,0:00:46.82,0:00:48.74,Default,,0,0,0,,Well...
 Dialogue: 0,0:00:53.68,0:01:00.90,Style Names,,0,0,0,,{\fade(255,0,255,00,550,5600,6000)\pos(1083.67,704.545)}Liú Yè \N Styled: Ziyáng
-Dialogue: 0,0:00:53.72,0:00:57.38,Default,NTP,0,0,0,,Chancellor intents to take Jīng-Xiāng for its masses.
-Dialogue: 0,0:00:58.00,0:01:02.16,Default,NTP,0,0,0,,So this time, when we enter Xiāngyang, \Nwe must conquer the hearts of the populace.
-Dialogue: 0,0:01:02.80,0:01:05.56,Default,,0,0,0,,Liu Bei has already led the people into Fancheng.
-Dialogue: 0,0:01:05.53,0:01:08.18,Default,,0,0,0,,Why not summon him to surrender?
-Dialogue: 0,0:01:08.93,0:01:14.98,Default,,0,0,0,,If Liu Bei refuses, \Nthen the people may see our 'mercy'...
-Dialogue: 0,0:01:15.14,0:01:19.84,Default,,0,0,0,,If he accepts, then the lands of\NJīng-Province are settled without struggle.
-Dialogue: 0,0:01:24.25,0:01:25.71,Default,,0,0,0,,This plan can work.
-Dialogue: 0,0:01:28.95,0:01:31.94,Default,,0,0,0,,Then, who can be the envoy?
-Dialogue: 0,0:01:35.86,0:01:41.10,Default,NTP,0,0,0,,My Chancellor, there is one man among our army very close with Liu Bei.
-Dialogue: 0,0:01:41.20,0:01:43.38,Default,NTP,0,0,0,,He can be our advocate.
-Dialogue: 0,0:01:44.53,0:01:46.66,Default,,0,0,0,,Who is so close with Liu Bei?
-Dialogue: 0,0:01:52.71,0:01:56.22,Default,,0,0,0,,None other than Xu Shu—Xu Yuanzhi.
+Dialogue: 0,0:00:54.06,0:00:57.88,Default,NTP,0,0,0,,Chancellor intents to take Jīng-Xiāng for its masses.
+Dialogue: 0,0:00:58.12,0:01:02.60,Default,NTP,0,0,0,,So this time, when we enter Xiāngyang, \Nwe must conquer the hearts of the populace.
+Dialogue: 0,0:01:02.90,0:01:05.86,Default,,0,0,0,,Liu Bei has already led the people into Fancheng.
+Dialogue: 0,0:01:06.03,0:01:08.68,Default,,0,0,0,,Why not summon him to surrender?
+Dialogue: 0,0:01:09.43,0:01:15.48,Default,,0,0,0,,If Liu Bei refuses, \Nthen the people may see our 'mercy'...
+Dialogue: 0,0:01:15.64,0:01:20.34,Default,,0,0,0,,If he accepts, then the lands of\NJīng-Province are settled without struggle.
+Dialogue: 0,0:01:24.75,0:01:26.21,Default,,0,0,0,,This plan can work.
+Dialogue: 0,0:01:29.45,0:01:32.44,Default,,0,0,0,,Then, who can be the envoy?
+Dialogue: 0,0:01:36.36,0:01:41.60,Default,NTP,0,0,0,,My Chancellor, there is one man among our army very close with Liu Bei.
+Dialogue: 0,0:01:41.70,0:01:43.88,Default,NTP,0,0,0,,He can be our advocate.
+Dialogue: 0,0:01:45.03,0:01:47.16,Default,,0,0,0,,Who is so close with Liu Bei?
+Dialogue: 0,0:01:53.21,0:01:56.72,Default,,0,0,0,,None other than Xu Shu—Xu Yuanzhi.
 Dialogue: 0,0:01:57.30,0:01:58.62,Default,,0,0,0,,No, no.
 Dialogue: 0,0:01:58.98,0:02:01.64,Default,NTP,0,0,0,,He has not offered a single thought to me.
 Dialogue: 0,0:02:01.70,0:02:04.14,Default,NTP,0,0,0,,If we send him away, he will not return!
@@ -78,7 +67,7 @@ Dialogue: 0,0:02:06.12,0:02:10.88,Default,,0,0,0,,Xu Yuanzhi always cared about 
 Dialogue: 0,0:02:11.13,0:02:15.74,Default,,0,0,0,,Whether or not he is successful, he will definitely return.
 Dialogue: 0,0:02:19.90,0:02:24.96,Default,,0,0,0,,Very well then. Order Xu Yuanzhi to set out at once.
 Dialogue: 0,0:02:25.00,0:02:27.44,Style Names,,0,0,0,,{\pos(232.557,735.303)}Xu Shu\NStyled: Yuanzhi
-Dialogue: 0,0:02:26.34,0:02:27.64,Default,,0,0,0,,Lord—
+Dialogue: 0,0:02:26.34,0:02:27.64,Default,,0,0,0,,Sire—
 Dialogue: 0,0:02:33.76,0:02:38.54,Default,,0,0,0,,—Yuanzhi to be sent from the heavens, just like the sweet rain after a long drought!
 Dialogue: 0,0:02:39.05,0:02:42.02,Default,,0,0,0,,I am delighted from the bottom of my heart!
 Dialogue: 0,0:02:43.72,0:02:45.98,Default,NTP,0,0,0,,Mister Shuijing has predicted long ago—
@@ -129,71 +118,71 @@ Dialogue: 0,0:06:12.18,0:06:15.21,Thinking,,0,0,0,,Cross the river for refuge in
 Dialogue: 0,0:06:16.59,0:06:20.10,Default,NTP,0,0,0,,Attention, all ye people,\N the Cao army is coming to attack!
 Dialogue: 0,0:06:20.10,0:06:24.32,Default,NTP,0,0,0,,Those who wish to follow Lord Liu must cross the river for refuge in Xiangyang!
 Dialogue: 0,0:06:30.22,0:06:35.44,Default,,0,0,0,,Follow Lord Liu to Xiangyang to avoid bloodshed! Move quickly, you all!
-Dialogue: 0,0:06:42.34,0:06:46.14,Default,,0,0,0,,{\bord16.318}{\i1}Waves surge on — {\i1}
+Dialogue: 0,0:06:42.34,0:06:46.14,Default,,0,0,0,,{\bord16.318\pos(700,1000)}{\i1}Waves surge on — {\i1}
 Dialogue: 0,0:06:42.34,0:06:45.94,Song,,0,0,0,,{\k129}Shuǐ {\k90}tāo{\k181}tāo
-Dialogue: 0,0:06:46.14,0:06:49.14,Default,,0,0,0,,{\bord16.318}{\i1} — roads go on{\i0}
+Dialogue: 0,0:06:46.14,0:06:49.14,Default,,0,0,0,,{\bord16.318\pos(700,1000)}{\i1} — roads go on{\i0}
 Dialogue: 0,0:06:46.14,0:06:49.14,Song,,0,0,0,,{\k95}lù {\k87}màn{\k118}màn
-Dialogue: 0,0:06:49.14,0:06:56.14,Default,,0,0,0,,{\bord16.318}{\i1}Carrying the old and young, each step strenuous.
+Dialogue: 0,0:06:49.14,0:06:56.14,Default,,0,0,0,,{\bord16.318\pos(700,1000)}{\i1}Carrying the old and young, each step strenuous.
 Dialogue: 0,0:06:49.65,0:06:56.34,Song,,0,0,0,,{\k72}fú {\k28}lǎo {\k43}xié {\k45}yòu {\k104}bù{\k132}lǚ {\k245}jiān
-Dialogue: 0,0:06:56.14,0:07:04.14,Default,,0,0,0,,{\bord16.318}{\i1}What have people done to deserve this exodus —
+Dialogue: 0,0:06:56.14,0:07:04.14,Default,,0,0,0,,{\bord16.318\pos(700,1000)}{\i1}What have people done to deserve this exodus —
 Dialogue: 0,0:06:56.74,0:07:04.14,Song,,0,0,0,,{\k162}Bǎi{\k65}xìng {\k75}hé{\k98}gù {\k80}zāo {\k85}lí{\k175}luàn
-Dialogue: 0,0:07:04.14,0:07:10.14,Default,,0,0,0,,{\bord16.318}{\i1}—wishing to cross, yet the boats are few.
+Dialogue: 0,0:07:04.14,0:07:10.14,Default,,0,0,0,,{\bord16.318\pos(700,1000)}{\i1}—wishing to cross, yet the boats are few.
 Dialogue: 0,0:07:04.34,0:07:11.11,Song,,0,0,0,,{\k69}yù {\k34}dù {\k54}cháng{\k43}hé {\k82}shǎo {\k94}xíng{\k244}chuán{\k57}
 Dialogue: 0,0:07:11.99,0:07:18.14,Default,,0,0,0,,{\bord16.318}{\i1}Common men have not abandoned me, \NI can't rest —
 Dialogue: 0,0:07:11.99,0:07:18.14,Song,,0,0,0,,{\k42}Mín {\k33}bù {\k42}qì {\k49}wǒ {\k84}wǒ {\k116}nán {\k249}shě{\k0}
-Dialogue: 0,0:07:18.94,0:07:25.34,Default,,0,0,0,,{\bord16.318}{\i1} — seeing fore and ailing aft with sorrow.
+Dialogue: 0,0:07:18.94,0:07:25.34,Default,,0,0,0,,{\bord16.318\pos(700,1000)}{\i1} — seeing fore and ailing aft with sorrow.
 Dialogue: 0,0:07:18.94,0:07:25.34,Song,,0,0,0,,{\k68}zhān{\k29}qián{\k38}gù{\k55}hòu {\k93}xīn {\k129}chuàng{\k228}rán
-Dialogue: 0,0:07:25.44,0:07:28.64,Default,,0,0,0,,{\bord16.318}{\i1}For the Cause —
+Dialogue: 0,0:07:25.44,0:07:28.64,Default,,0,0,0,,{\bord16.318\pos(700,1000)}{\i1}For the Cause —
 Dialogue: 0,0:07:25.44,0:07:28.64,Song,,0,0,0,,{\k45}Lì {\k48}dà{\k227}yè
-Dialogue: 0,0:07:29.04,0:07:32.54,Default,,0,0,0,,{\bord16.318}{\i1}— For all men —
+Dialogue: 0,0:07:29.04,0:07:32.54,Default,,0,0,0,,{\bord16.318\pos(700,1000)}{\i1}— For all men —
 Dialogue: 0,0:07:29.04,0:07:32.54,Song,,0,0,0,,{\k107}mín {\k107}wéi {\k86}běn
-Dialogue: 0,0:07:32.84,0:07:39.84,Default,,0,0,0,,{\bord16.318}{\i1} — for if men are safe, can there be peace.
+Dialogue: 0,0:07:32.84,0:07:39.84,Default,,0,0,0,,{\bord16.318\pos(700,1000)}{\i1} — for if men are safe, can there be peace.
 Dialogue: 0,0:07:32.84,0:07:39.84,Song,,0,0,0,,{\k35}mín {\k50}dé {\k67}píng{\k166}ān {\k77}tiān{\k62}xià {\k243}ān
-Dialogue: 0,0:07:48.35,0:07:51.64,Default,,0,0,0,,{\bord16.318}{\i1}Wind howls on—
+Dialogue: 0,0:07:48.35,0:07:51.64,Default,,0,0,0,,{\bord16.318\pos(700,1000)}{\i1}Wind howls on—
 Dialogue: 0,0:07:48.35,0:07:51.64,Song,,0,0,0,,{\k94}Fēng {\k89}sà{\k146}sà
-Dialogue: 0,0:07:51.64,0:07:54.64,Default,,0,0,0,,{\bord16.318}{\i1}—road goes on —
+Dialogue: 0,0:07:51.64,0:07:54.64,Default,,0,0,0,,{\bord16.318\pos(700,1000)}{\i1}—road goes on —
 Dialogue: 0,0:07:51.64,0:07:54.64,Song,,0,0,0,,{\k109}lù {\k91}màn{\k100}màn
-Dialogue: 0,0:07:55.54,0:08:02.54,Default,,0,0,0,,{\bord16.318}{\i1} — with my sword I raise my head to ask Above.
+Dialogue: 0,0:07:55.54,0:08:02.54,Default,,0,0,0,,{\bord16.318\pos(700,1000)}{\i1} — with my sword I raise my head to ask Above.
 Dialogue: 0,0:07:55.54,0:08:02.54,Song,,0,0,0,,{\k55}fǔ {\k46}jiàn {\k43}áng{\k40}shǒu {\k98}wèn {\k133}cāng{\k285}tiān
-Dialogue: 0,0:08:02.74,0:08:09.64,Default,,0,0,0,,{\bord16.318}{\i1}Warriors of yore always suffered so—
+Dialogue: 0,0:08:02.74,0:08:09.64,Default,,0,0,0,,{\bord16.318\pos(700,1000)}{\i1}Warriors of yore always suffered so—
 Dialogue: 0,0:08:02.74,0:08:09.64,Song,,0,0,0,,{\k147}Gǔ{\k52}lái {\k91}zhuàng{\k109}shì {\k96}duō {\k70}kǔ {\k125}è
-Dialogue: 0,0:08:09.84,0:08:17.54,Default,,0,0,0,,{\bord16.318}{\i1} — yet when can the Kūnpéng soar tall and proud?
+Dialogue: 0,0:08:09.84,0:08:17.54,Default,,0,0,0,,{\bord16.318\pos(700,1000)}{\i1} — yet when can Kūnpéng soar tall and proud?
 Dialogue: 0,0:08:09.84,0:08:17.54,Song,,0,0,0,,{\k103}kūn{\k40}péng {\k35}hé {\k43}rì {\k93}dé {\k101}gāo {\k355}xuán
-Dialogue: 0,0:08:17.59,0:08:24.64,Default,,0,0,0,,{\bord16.318}{\i1}If I who serve cannot a nation build —
+Dialogue: 0,0:08:17.59,0:08:24.64,Default,,0,0,0,,{\bord16.318\pos(700,1000)}{\i1}If I who serve cannot a nation build —
 Dialogue: 0,0:08:17.59,0:08:24.64,Song,,0,0,0,,{\k58}Chén{\k16}zǐ {\k54}bù{\k58}néng {\k86}jiàn {\k90}jī{\k343}yè
-Dialogue: 0,0:08:24.90,0:08:30.64,Default,,0,0,0,,{\bord16.318}{\i1}—then I can't face my forebears in death.
+Dialogue: 0,0:08:24.90,0:08:30.64,Default,,0,0,0,,{\bord16.318\pos(700,1000)}{\i1}—then I can't face my forebears in death.
 Dialogue: 0,0:08:24.90,0:08:30.64,Song,,0,0,0,,{\k46}lǎo {\k43}qù {\k40}wú {\k37}yán {\k91}duì {\k93}zǔ{\k220}xiān
-Dialogue: 0,0:08:31.14,0:08:34.64,Default,,0,0,0,,{\bord16.318}{\i1}With these men —
+Dialogue: 0,0:08:31.14,0:08:34.64,Default,,0,0,0,,{\bord16.318\pos(700,1000)}{\i1}With these men —
 Dialogue: 0,0:08:31.14,0:08:34.64,Song,,0,0,0,,{\k0}{\k50}Mín {\k48}xiāng {\k252}suí
-Dialogue: 0,0:08:34.84,0:08:38.05,Default,,0,0,0,,{\i1}{\bord16.318}— My will steels —
+Dialogue: 0,0:08:34.84,0:08:38.05,Default,,0,0,0,,{\i1}{\bord16.318\pos(700,1000)}— My will steels —
 Dialogue: 0,0:08:34.84,0:08:38.14,Song,,0,0,0,,{\k54}zhì {\k51}yù {\k225}jiān
-Dialogue: 0,0:08:38.64,0:08:46.45,Default,,0,0,0,,{\bord16.318}{\i1}— If I can't turn this fate, my heart shan't rest.
+Dialogue: 0,0:08:38.64,0:08:46.45,Default,,0,0,0,,{\bord16.318\pos(700,1000)}{\i1}— If I can't turn this fate, my heart shan't rest.
 Dialogue: 0,0:08:38.64,0:08:46.45,Song,,0,0,0,,{\k36}bù{\k45}zhěng {\k49}qián{\k215}kūn {\k51}xīn {\k49}bù{\k355}gān
-Dialogue: 0,0:08:46.50,0:08:49.44,Default,,0,0,0,,{\bord16.318}{\i1}Horse treads on —
+Dialogue: 0,0:08:46.50,0:08:49.44,Default,,0,0,0,,{\bord16.318\pos(700,1000)}{\i1}Horse treads on —
 Dialogue: 0,0:08:46.50,0:08:49.44,Song,,0,0,0,,{\k82}Mǎ {\k83}chí {\k149}chí
-Dialogue: 0,0:08:49.81,0:08:52.64,Default,,0,0,0,,{\i1}{\bord16.318}— road goes on —
+Dialogue: 0,0:08:49.81,0:08:52.64,Default,,0,0,0,,{\i1}{\bord16.318\pos(700,1000)}— road goes on —
 Dialogue: 0,0:08:49.84,0:08:52.64,Song,,0,0,0,,{\k87}lù {\k88}màn{\k105}màn
 Dialogue: 0,0:08:53.34,0:08:59.44,Default,,0,0,0,,{\bord16.318}{\i1} — the geese cry against the sunset clouds and yellow grass.
 Dialogue: 0,0:08:53.34,0:08:59.44,Song,,0,0,0,,{\k46}mù {\k30}yún {\k43}cāng{\k47}huáng {\k67}yàn {\k90}shēng {\k287}hán
-Dialogue: 0,0:08:59.84,0:09:06.20,Default,,0,0,0,,{\bord16.318}{\i1}Emperor Wǔ’s Autumn Wind Poem's spirit lives —
+Dialogue: 0,0:08:59.84,0:09:06.20,Default,,0,0,0,,{\bord16.318\pos(700,1000)}{\i1}Emperor Wǔ’s Autumn Wind Poem's spirit lives —
 Dialogue: 0,0:08:59.84,0:09:06.20,Song,,0,0,0,,{\k141}Hàn {\k48}wǔ {\k79}qiū{\k77}fēng {\k83}cí{\k77}yì {\k131}jiàn
 Dialogue: 0,0:09:06.64,0:09:13.14,Default,,0,0,0,,{\bord16.318}{\i1} — why should heroes lament over prime years past?
 Dialogue: 0,0:09:06.64,0:09:13.14,Song,,0,0,0,,{\k57}yīng{\k33}xióng {\k35}hé{\k44}xū {\k89}tàn {\k90}huá {\k302}nián
-Dialogue: 0,0:09:13.25,0:09:19.14,Default,,0,0,0,,{\bord16.318}{\i1}For its righteousness can I accomplish —
+Dialogue: 0,0:09:13.25,0:09:19.14,Default,,0,0,0,,{\bord16.318\pos(700,1000)}{\i1}For its righteousness can I accomplish —
 Dialogue: 0,0:09:13.25,0:09:19.14,Song,,0,0,0,,{\k40} Dé{\k6}{\k30}dào{\k40}duō{\k41}zhù {\k84}gōng {\k86}chéng{\k252}jiù
-Dialogue: 0,0:09:19.94,0:09:25.74,Default,,0,0,0,,{\bord16.318}{\i1} — all for people's faces of joy and bliss.
+Dialogue: 0,0:09:19.94,0:09:25.74,Default,,0,0,0,,{\bord16.318\pos(700,1000)}{\i1} — all for people's faces of joy and bliss.
 Dialogue: 0,0:09:19.94,0:09:25.74,Song,,0,0,0,,{\k56}yuàn {\k27}jiàn {\k48}shēng {\k44}mín {\k84}jìn {\k88}huān{\k233}yán
-Dialogue: 0,0:09:25.74,0:09:29.14,Default,,0,0,0,,{\bord16.318}{\i1}If we part—
+Dialogue: 0,0:09:25.74,0:09:29.14,Default,,0,0,0,,{\bord16.318\pos(700,1000)}{\i1}If we part—
 Dialogue: 0,0:09:25.74,0:09:29.14,Song,,0,0,0,,{\k52}Zòng {\k61}xiāng {\k227}bié
-Dialogue: 0,0:09:29.24,0:09:32.14,Default,,0,0,0,,{\bord16.318}{\i1}— wave fare-wells —
+Dialogue: 0,0:09:29.24,0:09:32.14,Default,,0,0,0,,{\bord16.318\pos(700,1000)}{\i1}— wave fare-wells —
 Dialogue: 0,0:09:29.24,0:09:32.14,Song,,0,0,0,,{\k43}huī{\k53}shǒu {\k194}qù
-Dialogue: 0,0:09:32.48,0:09:39.14,Default,,0,0,0,,{\bord16.318}{\i1} — love and humanity shall persist under heavens.
+Dialogue: 0,0:09:32.48,0:09:39.14,Default,,0,0,0,,{\bord16.318\pos(700,1000)}{\i1} — love and humanity shall persist under heavens.
 Dialogue: 0,0:09:32.48,0:09:39.14,Song,,0,0,0,,{\k62}rén{\k39}ài {\k52}cháng {\k208}cún {\k49}tiān{\k50}dì {\k206}jiān
-Dialogue: 0,0:09:39.25,0:09:42.55,Default,,0,0,0,,{\bord16.318}{\i1}If we part —
+Dialogue: 0,0:09:39.25,0:09:42.55,Default,,0,0,0,,{\bord16.318\pos(700,1000)}{\i1}If we part —
 Dialogue: 0,0:09:39.25,0:09:42.55,Song,,0,0,0,,{\k39}Zòng {\k58}xiāng {\k242}bié
-Dialogue: 0,0:09:42.58,0:09:45.64,Default,,0,0,0,,{\bord16.318}{\i1}— wave fare-wells —
+Dialogue: 0,0:09:42.58,0:09:45.64,Default,,0,0,0,,{\bord16.318\pos(700,1000)}{\i1}— wave fare-wells —
 Dialogue: 0,0:09:42.58,0:09:45.64,Song,,0,0,0,,{\k50}huī{\k51}shǒu {\k205}qù
-Dialogue: 0,0:09:45.90,0:10:00.54,Default,,0,0,0,,{\bord16.318}{\i1} — Love and humanity shall persist under heavens.
+Dialogue: 0,0:09:45.90,0:10:00.54,Default,,0,0,0,,{\bord16.318\pos(700,1000)}{\i1} — Love and humanity shall persist under heavens.
 Dialogue: 0,0:09:46.14,0:10:00.54,Song,,0,0,0,,{\k35}rén{\k41}ài {\k53}cháng {\k291}cún {\k168}tiān{\k160}dì {\k692}jiān
 Dialogue: 0,0:10:01.10,0:10:03.32,Style Names,,0,0,0,,{\pos(194,522)}Xiangyang
 Dialogue: 0,0:10:03.94,0:10:07.44,Default,,0,0,0,,Dear nephew Liu Cong, please open the city gates quickly!
@@ -271,7 +260,7 @@ Dialogue: 0,0:17:00.53,0:17:04.23,Default,,0,0,0,,How can the troops of Jing-Pro
 Dialogue: 0,0:17:04.44,0:17:08.14,Default,,0,0,0,,Your intellect is unmatched in the world, you use the army like a god—
 Dialogue: 0,0:17:08.20,0:17:11.10,Default,,0,0,0,,—you are invincible! \NMy Chancellor, you are, of this age ...
 Dialogue: 0,0:17:14.18,0:17:17.98,Default,,0,0,0,,Very well, I grant you the title of \N{\i1}Marquis-Guardian of the South{\i0}—
-Dialogue: 0,0:17:18.08,0:17:20.55,Default,,0,0,0,,— and Grand Admiral of the naval force.
+Dialogue: 0,0:17:18.08,0:17:20.55,Default,,0,0,0,,— and {\i1}Navy-Marshal of our warships.
 Dialogue: 0,0:17:20.55,0:17:24.24,Default,,0,0,0,,Zhang Yun is {\i1}Pacifying-Marquis{\i0} and {\i1}Vice-admiral of the naval force.{\i0}
 Dialogue: 0,0:17:24.32,0:17:28.25,Default,,0,0,0,,You must keep the naval force ready, and await for command.
 Dialogue: 0,0:17:29.83,0:17:32.46,Default,,0,0,0,,Thank you, Chancellor.
@@ -358,17 +347,17 @@ Dialogue: 0,0:24:45.98,0:24:49.88,Default,NTP,0,0,0,,—we will not only fail to
 Dialogue: 0,0:24:50.07,0:24:51.19,Default,,0,0,0,,What is your idea?
 Dialogue: 0,0:24:51.64,0:24:55.11,Default,,0,0,0,,My Lord should leave the people and ride quickly to Jiangling!
 Dialogue: 0,0:24:55.21,0:24:58.91,Default,,0,0,0,,Otherwise, when the Cao army comes, disaster will fall!
-Dialogue: 0,0:25:00.91,0:25:05.91,Default,,0,0,0,,{\bord16.303}The people have followed me all the way here from Xinye—
-Dialogue: 0,0:25:05.91,0:25:08.91,Default,,0,0,0,,{\bord16.303}—and have gone through many hardships
-Dialogue: 0,0:25:08.91,0:25:11.61,Default,,0,0,0,,{\bord16.303}{\pos(696.023,998.561)}How can I abandon them without regard?
-Dialogue: 0,0:25:11.61,0:25:13.61,Default,,0,0,0,,{\bord16.303}{\pos(696.023,998.561)}Although the situation now is pressing—
-Dialogue: 0,0:25:15.61,0:25:18.11,Default,,0,0,0,,{\bord16.303}—I have sworn to share life and death with my people.
-Dialogue: 0,0:25:18.11,0:25:20.61,Default,,0,0,0,,{\bord16.303}{\pos(696.023,998.561)}We will live and perish together!
-Dialogue: 0,0:25:20.61,0:25:24.61,Default,,0,0,0,,{\bord16.303}{\pos(696.023,998.561)}Don't try to persuade me. Pass on my orders again.
-Dialogue: 0,0:25:24.61,0:25:26.61,Default,,0,0,0,,{\bord16.303}{\pos(696.023,998.561)}We will station on Jingshan.
-Dialogue: 0,0:25:26.61,0:25:30.86,Default,,0,0,0,,{\bord16.303} Let the people get a night's worth of rest. We'll be on our way in the morning.
-Dialogue: 0,0:25:30.96,0:25:33.71,Default,,0,0,0,,{\bord16.303}Zilong will protect my family \Nand Yide will be our rearguard!
-Dialogue: 0,0:25:33.71,0:25:35.25,Default,,0,0,0,,{\bord16.303}{\pos(696.023,998.561)}Let's go, quickly!
+Dialogue: 0,0:25:00.91,0:25:05.91,Default,,0,0,0,,{\bord15.303}The people have followed me all the way here from Xinye—
+Dialogue: 0,0:25:05.91,0:25:08.91,Default,,0,0,0,,{\bord15.303}—and have gone through many hardships
+Dialogue: 0,0:25:08.91,0:25:11.61,Default,,0,0,0,,{\bord15.303}{\pos(696.023,998.561)}How can I abandon them without regard?
+Dialogue: 0,0:25:11.61,0:25:13.61,Default,,0,0,0,,{\bord15.303}{\pos(696.023,998.561)}Although the situation now is pressing—
+Dialogue: 0,0:25:15.61,0:25:18.11,Default,,0,0,0,,{\bord15.303}—I have sworn to share life and death with my people.
+Dialogue: 0,0:25:18.11,0:25:20.61,Default,,0,0,0,,{\bord15.303}{\pos(696.023,998.561)}We will live and perish together!
+Dialogue: 0,0:25:20.61,0:25:24.61,Default,,0,0,0,,{\bord15.303}{\pos(696.023,998.561)}Don't try to persuade me. Pass on my orders again.
+Dialogue: 0,0:25:24.61,0:25:26.61,Default,,0,0,0,,{\bord15.303}{\pos(696.023,998.561)}We will station on Jingshan.
+Dialogue: 0,0:25:26.61,0:25:30.86,Default,,0,0,0,,{\bord15.303} Let the people get a night's worth of rest. We'll be on our way in the morning.
+Dialogue: 0,0:25:30.96,0:25:33.71,Default,,0,0,0,,{\bord15.303}Zilong will protect my family \Nand Yide will be our rearguard!
+Dialogue: 0,0:25:33.71,0:25:35.25,Default,,0,0,0,,{\bord15.303}{\pos(696.023,998.561)}Let's go, quickly!
 Dialogue: 0,0:25:35.25,0:25:37.04,Default,,0,0,0,,Quick!
 Dialogue: 0,0:26:06.14,0:26:09.84,Default,,0,0,0,,Sister, let me carry him for a while
 Dialogue: 0,0:26:27.60,0:26:32.23,Default,,0,0,0,,The Cao army is coming! Run for your lives!
@@ -414,14 +403,14 @@ Dialogue: 0,0:31:07.61,0:31:10.78,Default,,0,0,0,,Third brother, don't be rash!
 Dialogue: 0,0:31:18.09,0:31:19.25,Default,,0,0,0,,Follow me!
 Dialogue: 0,0:31:19.96,0:31:21.82,Default,,0,0,0,,Third brother! Third brother!
 Dialogue: 0,0:31:44.02,0:31:45.54,Style Names,,0,0,0,,{\pos(1255.128,623.742)}Dangyang\N Bridge
-Dialogue: 0,0:31:51.82,0:31:53.82,Thinking,,0,0,0,,{\bord16.303}{\pos(696.023,998.561)}Elder brother could not be seen—
-Dialogue: 0,0:31:53.82,0:31:55.82,Thinking,,0,0,0,,{\bord16.303}{\pos(696.023,998.561)}—even in such short distance!
-Dialogue: 0,0:31:58.82,0:32:01.82,Thinking,,0,0,0,,{\bord16.303}{\pos(696.023,1016.902)}Why don't I raise the dust as a tactic to deceive the enemy?
-Dialogue: 0,0:32:01.82,0:32:03.35,Default,,0,0,0,,{\bord16.303}{\pos(696.023,998.561)}Soldiers!
-Dialogue: 0,0:32:03.40,0:32:06.55,Default,,0,0,0,,{\bord16.303}{\pos(696.023,1016.902)}Go cut down branches \Nand tie them to your horse's tails!
-Dialogue: 0,0:32:06.55,0:32:09.05,Default,,0,0,0,,{\bord16.303}{\pos(696.023,1016.902)}Divide into two! One group run west to east!
-Dialogue: 0,0:32:09.05,0:32:10.55,Default,,0,0,0,,{\bord16.303}{\pos(696.023,1016.902)}The other run east to west!
-Dialogue: 0,0:32:10.55,0:32:13.25,Default,,0,0,0,,{\bord16.303}{\pos(696.023,1016.902)}This will raise the dust and look like an ambush!
+Dialogue: 0,0:31:51.82,0:31:53.82,Thinking,,0,0,0,,{\bord15.303}{\pos(696.023,998.561)}Elder brother could not be seen—
+Dialogue: 0,0:31:53.82,0:31:55.82,Thinking,,0,0,0,,{\bord15.303}{\pos(696.023,998.561)}—even in such short distance!
+Dialogue: 0,0:31:58.82,0:32:01.82,Thinking,,0,0,0,,{\bord15.303}{\pos(696.023,1016.902)}Why don't I raise the dust as a tactic to deceive the enemy?
+Dialogue: 0,0:32:01.82,0:32:03.35,Default,,0,0,0,,{\bord15.303}{\pos(696.023,998.561)}Soldiers!
+Dialogue: 0,0:32:03.40,0:32:06.55,Default,,0,0,0,,{\bord15.303}{\pos(696.023,1016.902)}Go cut down branches \Nand tie them to your horse's tails!
+Dialogue: 0,0:32:06.55,0:32:09.05,Default,,0,0,0,,{\bord15.303}{\pos(696.023,1016.902)}Divide into two! One group run west to east!
+Dialogue: 0,0:32:09.05,0:32:10.55,Default,,0,0,0,,{\bord15.303}{\pos(696.023,1016.902)}The other run east to west!
+Dialogue: 0,0:32:10.55,0:32:13.25,Default,,0,0,0,,{\bord15.303}{\pos(696.023,1016.902)}This will raise the dust and look like an ambush!
 Dialogue: 0,0:32:13.58,0:32:15.27,Default,,0,0,0,,Yes!
 Dialogue: 0,0:32:33.80,0:32:36.56,Default,,0,0,0,,General Zhang, where is the Lord now?
 Dialogue: 0,0:32:37.13,0:32:39.61,Default,NTP,0,0,0,,My Lord is now hiding in the woods over there!
