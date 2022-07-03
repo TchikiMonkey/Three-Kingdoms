@@ -14,517 +14,444 @@ PlayResY: 528
 Timer: 100.0000
 Synch Point: 
 WrapStyle: 0
-ScaledBorderAndShadow: no
+ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
-
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: 三国演义.E23.大破袁绍.1994.DVDRip.x264-10bit.AC3-CMCT.mkv
-Video File: 三国演义.E23.大破袁绍.1994.DVDRip.x264-10bit.AC3-CMCT.mkv
-Video AR Mode: 4
-Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 476
-Active Line: 484
-Video Position: 57652
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Yu Gothic,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,2.1,0,2,10,10,10,1
-Style: Header,Yu Gothic,30,&H0034C0CD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,95,0,0,1,2,0.999998,8,10,10,10,1
-Style: Style Names,Tahoma,24,&H00FDFCFC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,105,110,0,0,1,1.8,0.0999998,5,10,10,10,1
-Style: Title,Yu Gothic,35,&H001132D6,&H000000FF,&H00000000,&H00000000,-1,0,0,0,110,105,0.500001,0,1,2,0.999998,5,10,10,10,1
+Style: Header,Yu Gothic,30,&H0034C0CD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,95,0,0,1,2,1,8,10,10,10,1
+Style: Style Names,Tahoma,24,&H00FDFCFC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,105,110,0,0,1,1.8,0.1,5,10,10,10,1
+Style: Title,Yu Gothic,35,&H001132D6,&H000000FF,&H00000000,&H00000000,-1,0,0,0,110,105,0.500001,0,1,2,1,5,10,10,10,1
 Style: Song,Yu Gothic,32,&H000000FF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,2,0.4,9,10,10,10,1
 Style: Episode Title,Yu Gothic,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,110,100,0,0,1,2,2.5,5,10,10,10,1
 Style: Thinking,Yu Gothic,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,103,103,0,0,1,2.2,0,2,10,10,10,1
-Style: Note (Potential style?),Yu Gothic UI Semibold,28,&H0018CBDC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,97,0,0,1,1.5,0.999998,9,10,10,10,1
+Style: Note (Potential style?),Yu Gothic,20,&H0018CBDC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,97,0,0,1,1.49434,0.996224,9,10,10,10,1
 Style: Default (small),Yu Gothic,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,2.1,0,2,10,10,10,1
 Style: Default Song version,Yu Gothic,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,107,102,0,0,1,2.3,1.5,2,10,10,10,1
+Style: BlackBox,Arial,35,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: That one frame,@FangSong,55,&H00EDEDF2,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,1.5,1,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:07:52.44,0:07:52.96,Default,,0,0,0,,You all!
 Dialogue: 0,0:00:00.00,0:00:06.10,Header,,0,0,0,,This is a Gentlemen of the Han free fansub.
-Dialogue: 0,0:00:08.50,0:00:12.50,Default,,0,0,0,,In the seventh year* of the Jiàn'ān era,
+Dialogue: 0,0:00:00.74,0:00:07.66,Episode Title,,0,0,0,,{\pos(352,261)\fade(255,0,255,0,1220,5700,6900)}Episode 23
+Dialogue: 0,0:00:00.74,0:00:07.66,Episode Title,,0,0,0,,{\pos(349,404)\fade(255,0,255,0,1220,5700,6900)}Fall of Yuán Shào
+Dialogue: 0,0:00:08.50,0:00:12.50,Thinking,,0,0,0,,In the seventh year of the Jiàn'ān era,
 Dialogue: 0,0:00:08.50,0:00:12.50,Note (Potential style?),,0,0,0,,202 A.D.
 Dialogue: 0,0:00:09.18,0:00:11.26,Style Names,,0,0,0,,{\pos(213,195)\fade(255,0,255,0,420,1680,2060)}Screenwriter:\NZhu Yaoping
 Dialogue: 0,0:00:11.58,0:00:13.78,Style Names,,0,0,0,,{\pos(626,220)\fade(255,0,255,0,380,1680,2180)}Director:\NShen Haofang
-Dialogue: 0,0:00:12.94,0:00:17.47,Default,,0,0,0,,Cáo Cāo invaded Yuán Shào, who, in his stress, died.
-Dialogue: 0,0:00:18.31,0:00:22.84,Default,NTP,0,0,0,,Before his death, he disinherited his eldest son, Yuán Tán, for his youngest son, Yuán Shàng.
-Dialogue: 0,0:00:23.22,0:00:26.78,Default,NTP,0,0,0,,Thus he provoked the struggle between Yuan Tan and Yuan Shang.
-Dialogue: 0,0:00:27.42,0:00:35.65,Default,NTP,0,0,0,,Yuan Shang besieged Yuan Tan, compelling him to send Xin Pi to negotiate his surrender with Cao Cao.
-Dialogue: 0,0:00:30.05,0:00:37.65,Style Names,,0,0,0,,{\pos(117,318)\fade(255,0,255,0,420,1680,2060)}Xīn Pí \NStyled: Zuǒzhì
-Dialogue: 0,0:00:40.68,0:00:47.52,Default,NTP,0,0,0,,{\pos(353.001,443)}Zuǒzhì, I'm thinking of returning to aid you,
+Dialogue: 0,0:00:12.94,0:00:17.72,Thinking,,0,0,0,,Cáo Cāo invaded Yuán Shào, who, in his stress, died.
+Dialogue: 0,0:00:18.14,0:00:23.10,Thinking,NTP,0,0,0,,Before his death, he disinherited his eldest son, Yuán Tán, for his youngest son, Yuán Shàng.
+Dialogue: 0,0:00:23.22,0:00:26.78,Thinking,NTP,0,0,0,,Thus he provoked the struggle between Yuan Tan and Yuan Shang.
+Dialogue: 0,0:00:27.42,0:00:35.65,Thinking,NTP,0,0,0,,Yuan Shang besieged Yuan Tan, compelling him to send Xīn Pí to negotiate his surrender with Cáo Cāo.
+Dialogue: 0,0:00:40.68,0:00:47.52,Default,NTP,0,0,0,,{\pos(353.001,443)\i1}Zuǒzhì{\i0}, I'm thinking of returning to aid you,
 Dialogue: 0,0:00:48.44,0:00:53.54,Default,NTP,0,0,0,,{\pos(353.001,443)}but I'm not sure if Yuan Tan's surrender is sincere.
 Dialogue: 0,0:00:56.54,0:00:57.44,Default,NTP,0,0,0,,{\pos(353.001,443)}It is not sincere.
-Dialogue: 0,0:00:58.82,0:01:02.36,Default,NTP,0,0,0,,{\pos(353.001,443)}Oh? Then is it a farce?
-Dialogue: 0,0:01:03.63,0:01:04.85,Default,NTP,0,0,0,,{\pos(353.001,443)}It is no farce.
+Dialogue: 0,0:00:58.82,0:01:02.36,Default,NTP,0,0,0,,{\pos(353.001,443)}Oh? Then it is deceit?
+Dialogue: 0,0:01:03.63,0:01:04.85,Default,NTP,0,0,0,,{\pos(353.001,443)}It is no deceit.
 Dialogue: 0,0:01:10.14,0:01:12.34,Default,NTP,0,0,0,,{\pos(353.001,443)}My lord, you needn't ask his sincerity.
-Dialogue: 0,0:01:12.64,0:01:14.84,Default,NTP,0,0,0,,{\pos(353.001,443)}You only need to consider the situation.
+Dialogue: 0,0:01:12.64,0:01:14.84,Default,NTP,0,0,0,,{\pos(353.001,443)}You only need to ponder their state.
 Dialogue: 0,0:01:17.19,0:01:19.04,Default,NTP,0,0,0,,{\pos(353.001,443)}Yuan Shao has been losing for years.
-Dialogue: 0,0:01:19.04,0:01:22.16,Default,NTP,0,0,0,,{\pos(353.001,443)}His military is exhausted, and he has executed his advisers.
-Dialogue: 0,0:01:22.16,0:01:25.12,Default,NTP,0,0,0,,{\pos(353.001,443)}His sons have slandered each other, and his state is now divided in two.
-Dialogue: 0,0:01:25.24,0:01:28.16,Default,NTP,0,0,0,,{\pos(353.001,443)}Famine and disasters have plagued the people.
-Dialogue: 0,0:01:28.16,0:01:29.74,Default,NTP,0,0,0,,{\pos(353.001,443)}Both the wise and simple
-Dialogue: 0,0:01:30.22,0:01:33.52,Default,NTP,0,0,0,,{\pos(353.001,443)}know this is Heaven ending the\N allocated time of the Yuán clan.
-Dialogue: 0,0:01:36.76,0:01:39.52,Default,NTP,0,0,0,,{\pos(353.001,443)}Now Your Excellency is attacking Jìzhōu.
-Dialogue: 0,0:01:40.70,0:01:46.16,Default,NTP,0,0,0,,{\pos(353.001,443)}If Yuan Shang does not reinforce Jizhou, then he would lose his base.
+Dialogue: 0,0:01:19.04,0:01:22.16,Default,NTP,0,0,0,,{\pos(353.001,443)}His military is exhausted, \Nand his advisers executed.
+Dialogue: 0,0:01:22.16,0:01:25.12,Default,NTP,0,0,0,,{\pos(353.001,443)}His sons quarrel, his state now divided in two.
+Dialogue: 0,0:01:25.24,0:01:28.16,Default,NTP,0,0,0,,{\pos(353.001,443)}Meanwhile famine and disasters plague the people.
+Dialogue: 0,0:01:28.16,0:01:33.52,Default,NTP,0,0,0,,{\pos(353.001,443)}Both the wise and simple know this is \NHeaven itself calling to end the Yuán clan.
+Dialogue: 0,0:01:36.76,0:01:39.52,Default,NTP,0,0,0,,{\pos(353.001,443)}Now Your Excellency is attacking Jì-Province.
+Dialogue: 0,0:01:40.70,0:01:46.16,Default,NTP,0,0,0,,{\pos(353.001,443)}If Yuan Shang does not reinforce Jì-Province, then he would lose his base.
 Dialogue: 0,0:01:46.54,0:01:48.48,Default,NTP,0,0,0,,{\pos(353.001,443)}But if he does reinforce it,
 Dialogue: 0,0:01:48.60,0:01:51.04,Default,NTP,0,0,0,,{\pos(353.001,443)}then Yuan Tan would pursue him.
-Dialogue: 0,0:01:51.28,0:01:54.16,Default,NTP,0,0,0,,{\pos(353.001,443)}With your esteemed might, you should strike his fatigued troops
-Dialogue: 0,0:01:55.06,0:01:57.82,Default,NTP,0,0,0,,{\pos(353.001,443)}like a brief wind sweeping autumn leaves.
+Dialogue: 0,0:01:51.16,0:01:54.56,Default,NTP,0,0,0,,{\pos(353.001,443)}With your esteemed might, you should strike his fatigued troops
+Dialogue: 0,0:01:55.06,0:01:57.82,Default,NTP,0,0,0,,{\pos(353.001,443)}like a wind sweeping through autumn leaves.
 Dialogue: 0,0:01:59.25,0:02:02.40,Default,NTP,0,0,0,,{\pos(353.001,443)}The realm's greatest bane is in Hebei.
 Dialogue: 0,0:02:02.60,0:02:06.00,Default,NTP,0,0,0,,{\pos(353.001,443)}Pacify Hebei to extend your dominance.
-Dialogue: 0,0:02:08.64,0:02:13.64,Default,NTP,0,0,0,,{\pos(353.001,443)}Now, I hope you will... give me wine.
-Dialogue: 0,0:02:25.14,0:02:28.69,Default,NTP,0,0,0,,{\pos(353.001,443)}My only regret is not meeting you earlier!
+Dialogue: 0,0:02:08.64,0:02:13.64,Default,NTP,0,0,0,,{\pos(353.001,443)}And if you please sir... A gift of wine?
+Dialogue: 0,0:02:25.14,0:02:28.69,Default,NTP,0,0,0,,{\pos(353.001,443)}I regret not meeting you sooner!
 Dialogue: 0,0:02:32.25,0:02:34.96,Default,NTP,0,0,0,,{\pos(353.001,443)}"The realm's greatest bane is in Hebei."
 Dialogue: 0,0:02:35.56,0:02:38.36,Default,NTP,0,0,0,,{\pos(353.001,443)}"Pacify Hebei to extend my dominance."
-Dialogue: 0,0:02:40.24,0:02:40.76,Default,NTP,0,0,0,,{\pos(353.001,443)}Great.
+Dialogue: 0,0:02:40.24,0:02:40.76,Default,NTP,0,0,0,,{\pos(353.001,443)}Good.
 Dialogue: 0,0:02:42.32,0:02:45.24,Default,NTP,0,0,0,,{\pos(353.001,443)}With you as his envoy,
-Dialogue: 0,0:02:45.92,0:02:52.12,Default,NTP,0,0,0,,{\pos(353.001,443)}regardless of his surrender being \Nsincere of false, he still surrendered.
+Dialogue: 0,0:02:45.92,0:02:52.12,Default,NTP,0,0,0,,{\pos(353.001,443)}even if his surrender is deceit, he will surrender.
 Dialogue: 0,0:02:52.50,0:02:54.98,Style Names,,0,0,0,,{\pos(100,358)}Xīn Pí\NStyled: Zuǒzhì
 Dialogue: 0,0:03:31.70,0:03:33.66,Style Names,,0,0,0,,{\pos(120,365)\fade(255,0,255,0,420,1680,1940)}Yuán Tán\NStyled: Xiǎnsī
-Dialogue: 0,0:03:34.68,0:03:37.99,Default,,0,0,0,,Your subject, Yuan Tan, pays \Nhis respects to the Chancellor!
+Dialogue: 0,0:03:34.68,0:03:37.99,Default,,0,0,0,,This subject, Yuan Tan, \Npays his respects to the Chancellor!
 Dialogue: 0,0:03:47.20,0:03:49.42,Default,,0,0,0,,Who are the two generals behind you?
 Dialogue: 0,0:03:53.60,0:03:55.99,Default,,0,0,0,,Lǚ Kuàng and Lǚ Xiáng pay their respects!
 Dialogue: 0,0:03:57.60,0:04:01.08,Default,,0,0,0,,Do you two consider each other blood brothers?
-Dialogue: 0,0:04:04.24,0:04:04.67,Default,,0,0,0,,Yes.
+Dialogue: 0,0:04:04.24,0:04:04.67,Default,,0,0,0,,Yes, sir.
 Dialogue: 0,0:04:06.52,0:04:10.04,Default,NTP,0,0,0,,I am aware you two were \NYuan Shang's subordinates.
 Dialogue: 0,0:04:11.72,0:04:14.92,Default,NTP,0,0,0,,Why are you surrendering now?
 Dialogue: 0,0:04:17.40,0:04:18.04,Default,,0,0,0,,{\pos(353.001,443)}Chancellor,
-Dialogue: 0,0:04:18.80,0:04:18.80,Default,,0,0,0,,{\pos(353.001,443)}Yuan Shang knows you came to reinforce me
-Dialogue: 0,0:04:23.58,0:04:25.46,Default,,0,0,0,,{\pos(353.001,443)}and has fled to Jizhou.
-Dialogue: 0,0:04:25.58,0:04:27.42,Default,,0,0,0,,{\pos(353.001,443)}He ordered those two generals to engage me
+Dialogue: 0,0:04:18.80,0:04:23.54,Default,,0,0,0,,{\pos(353.001,443)}Yuan Shang knows you came to rescue me,
+Dialogue: 0,0:04:23.58,0:04:25.46,Default,,0,0,0,,{\pos(353.001,443)}and has fled to Jì-Province.
+Dialogue: 0,0:04:25.58,0:04:27.92,Default,,0,0,0,,{\pos(353.001,443)}He ordered those two generals to engage me
 Dialogue: 0,0:04:27.92,0:04:30.06,Default,,0,0,0,,{\pos(353.001,443)}but I had told them on the battlefield,
-Dialogue: 0,0:04:30.66,0:04:33.74,Default,,0,0,0,,{\pos(353.001,443)}"When my former father was alive, \NI never treated you with disrespect."
+Dialogue: 0,0:04:30.66,0:04:34.04,Default,,0,0,0,,{\pos(353.001,443)}"When my father was alive, \NI never treated you with disrespect."
 Dialogue: 0,0:04:34.04,0:04:36.50,Default,,0,0,0,,{\pos(353.001,443)}"Now why follow my brother and seek my defeat?"
-Dialogue: 0,0:04:36.90,0:04:39.12,Default,,0,0,0,,{\pos(353.001,443)}When those two heard that, they surrendered.
+Dialogue: 0,0:04:36.90,0:04:39.42,Default,,0,0,0,,{\pos(353.001,443)}When they heard reason, they submitted.
 Dialogue: 0,0:04:46.25,0:04:47.60,Default,,0,0,0,,{\pos(353.001,443)}I again told them,
 Dialogue: 0,0:04:48.37,0:04:51.52,Default,,0,0,0,,{\pos(353.001,443)}"Surrender not to me, but to Chancellor Cao."
 Dialogue: 0,0:04:52.45,0:04:54.45,Default,,0,0,0,,{\pos(353.001,443)}Thus these two have come
 Dialogue: 0,0:04:54.45,0:04:56.65,Default,,0,0,0,,{\pos(353.001,443)}and await your orders.
-Dialogue: 0,0:05:03.62,0:05:07.98,Default,,0,0,0,,{\pos(353.001,443)}When your father was still alive, \Ndespite his many humiliations,
+Dialogue: 0,0:05:03.62,0:05:07.98,Default,,0,0,0,,{\pos(353.001,443)}When your father was still alive, \Ndespite all the humiliations,
 Dialogue: 0,0:05:09.10,0:05:11.44,Default,,0,0,0,,{\pos(353.001,443)}he never once bowed to me!
 Dialogue: 0,0:05:15.15,0:05:18.62,Default,,0,0,0,,{\pos(353.001,443)}Though you two pity the Yuan clan,
 Dialogue: 0,0:05:19.20,0:05:22.02,Default,,0,0,0,,{\pos(353.001,443)}you cannot stand their brothers' conflict.
-Dialogue: 0,0:05:22.42,0:05:25.35,Default,,0,0,0,,{\pos(353.001,443)}Now I will name you as marquises!\NYou will accompany my army!
-Dialogue: 0,0:05:26.68,0:05:27.72,Default,,0,0,0,,Thank you, Chancellor!
+Dialogue: 0,0:05:22.42,0:05:26.02,Default,,0,0,0,,{\pos(353.001,443)}Now I will name you as marquises!\NYou will accompany my army!
+Dialogue: 0,0:05:26.68,0:05:28.00,Default,,0,0,0,,Thank you, Chancellor!
 Dialogue: 0,0:05:34.45,0:05:35.23,Default,,0,0,0,,Rise!
 Dialogue: 0,0:05:38.33,0:05:38.99,Default,,0,0,0,,Chancellor!
-Dialogue: 0,0:05:46.78,0:05:50.93,Default,,0,0,0,,I dare ask another question. When do we attack Jizhou and Yuan Shang?
-Dialogue: 0,0:05:55.40,0:05:57.90,Default,,0,0,0,,Our supply lines are exhausted\Nand its transportation treacherous.
-Dialogue: 0,0:05:58.65,0:06:02.06,Default,NTP,0,0,0,,You can stay at Píngyuán and I'll camp at Lìyáng.
-Dialogue: 0,0:06:02.06,0:06:04.60,Default,NTP,0,0,0,,After we improve the supply lines, we will advance.
+Dialogue: 0,0:05:46.78,0:05:50.93,Default,,0,0,0,,I dare ask another question. When do we attack Jì-Province and Yuan Shang?
+Dialogue: 0,0:05:55.40,0:05:58.62,Default,,0,0,0,,Our supplies are exhausted\N and shipment is treacherous.
+Dialogue: 0,0:05:58.65,0:06:02.06,Default,NTP,0,0,0,,You can stay at Píngyuán while I set camp at Lìyáng.
+Dialogue: 0,0:06:02.06,0:06:04.60,Default,NTP,0,0,0,,After we clear the supply lines, we will advance.
 Dialogue: 0,0:06:21.11,0:06:25.26,Default,NTP,0,0,0,,You two are now his lackeys.
-Dialogue: 0,0:06:26.02,0:06:27.31,Default,NTP,0,0,0,,What are you still doing here!?
-Dialogue: 0,0:06:28.58,0:06:29.50,Default,,0,0,0,,Go away!
+Dialogue: 0,0:06:26.02,0:06:27.86,Default,NTP,0,0,0,,Why are you still doing here!?
+Dialogue: 0,0:06:28.58,0:06:29.50,Default,,0,0,0,,Leave!
 Dialogue: 0,0:06:34.82,0:06:36.25,Default,,0,0,0,,Report!
-Dialogue: 0,0:06:39.16,0:06:42.58,Default,NTP,0,0,0,,Yuan Shang had Yin Kai guard Maocheng to maintain supply lines from Shangdang!
-Dialogue: 0,0:06:42.58,0:06:44.30,Default,NTP,0,0,0,,The vanguard has already set up camp!
+Dialogue: 0,0:06:39.08,0:06:42.72,Default,NTP,0,0,0,,Yuan Shang had Yǐn Kǎi guard Máo-fort to maintain supply lines from Shăngdăng!
+Dialogue: 0,0:06:42.76,0:06:44.56,Default,NTP,0,0,0,,The vanguard has already set up camp!
 Dialogue: 0,0:06:45.67,0:06:46.99,Default,,0,0,0,,Report!
-Dialogue: 0,0:06:47.37,0:06:50.73,Default,,0,0,0,,Yuan Shang had Ju Ku hold Handan, leaving Shen Pei and Chen Lin to guard Ji Province!
-Dialogue: 0,0:06:50.73,0:06:52.34,Default,,0,0,0,,Troops assaulted Pingyuan overnight!
-Dialogue: 0,0:06:53.61,0:06:59.08,Default,,0,0,0,,It seems Yuan Shang's really determined to defeat Yuan Tan and to attack me afterwards.
+Dialogue: 0,0:06:47.26,0:06:50.73,Default,,0,0,0,,Yuan Shang had Jǔ Kù hold Hándān-city, \Nleaving Shěn Pèi and Chén Lín to guard Ji-Province!
+Dialogue: 0,0:06:50.73,0:06:53.06,Default,,0,0,0,,Troops assaulted Pingyuan overnight!
+Dialogue: 0,0:06:53.61,0:06:59.08,Default,,0,0,0,,It seems Yuan Shang is really determined to defeat Yuan Tan and I.
 Dialogue: 0,0:06:59.45,0:07:01.01,Default,,0,0,0,,Report!
-Dialogue: 0,0:07:01.48,0:07:04.24,Default,,0,0,0,,Yuan Shang's army is pressing \Ndown on Pingyuan! Yuan Tan pleads great danger!
+Dialogue: 0,0:07:01.26,0:07:04.86,Default,,0,0,0,,Yuan Shang's army is pressing \Ndown on Pingyuan! Yuan Tan pleads great danger!
 Dialogue: 0,0:07:06.52,0:07:07.70,Default,,0,0,0,,He came so fast!
 Dialogue: 0,0:07:09.40,0:07:10.00,Default,,0,0,0,,Gentlemen?
 Dialogue: 0,0:07:10.43,0:07:12.45,Default,,0,0,0,,Report!
-Dialogue: 0,0:07:13.33,0:07:15.80,Default,,0,0,0,,From Xuchang comes Xu You!
+Dialogue: 0,0:07:13.33,0:07:15.80,Default,,0,0,0,,Sir Xu You has come back from Xuchang!
 Dialogue: 0,0:07:29.48,0:07:33.41,Default,,0,0,0,,Chancellor, Yuan Shang has already sent troops to attack Yuan Tan,
-Dialogue: 0,0:07:33.62,0:07:36.55,Default,NTP,0,0,0,,but you're just waiting here.
-Dialogue: 0,0:07:37.35,0:07:40.58,Default,NTP,0,0,0,,Are you not waiting for lightning to smite the two Yuans?
-Dialogue: 0,0:07:43.00,0:07:46.19,Default,,0,0,0,,I've already planned all this out.
-Comment: 0,0:07:52.44,0:07:52.96,Default,,0,0,0,,You all!
+Dialogue: 0,0:07:33.62,0:07:36.55,Default,NTP,0,0,0,,yet you still await here.
+Dialogue: 0,0:07:37.35,0:07:40.58,Default,NTP,0,0,0,,Are you expecting for lightning to smite the two Yuans?
+Dialogue: 0,0:07:43.00,0:07:46.19,Default,,0,0,0,,This is all within my plan.
 Dialogue: 0,0:07:53.00,0:07:53.66,Default,,0,0,0,,Cao Hong?
 Dialogue: 0,0:07:54.44,0:07:55.00,Default,,0,0,0,,Here!
-Dialogue: 0,0:07:55.60,0:07:58.24,Default,,0,0,0,,You'll advance with your forces and attack Ji Province.
-Dialogue: 0,0:07:58.44,0:08:00.84,Default,NTP,0,0,0,,I'll lead a force to attack Maocheng and then Handan.
-Dialogue: 0,0:08:00.90,0:08:02.72,Default,NTP,0,0,0,,We'll meet before the walls of Jizhou!
-Dialogue: 0,0:08:02.90,0:08:03.47,Default,NTP,0,0,0,,Yes, sir!
+Dialogue: 0,0:07:55.42,0:07:58.24,Default,,0,0,0,,You'll advance your forces to attack Ji Province.
+Dialogue: 0,0:07:58.38,0:08:01.00,Default,NTP,0,0,0,,I'll lead an attack to Mao-fort, then Handan.
+Dialogue: 0,0:08:01.04,0:08:03.10,Default,NTP,0,0,0,,We'll meet before the walls of Jì-Province!
+Dialogue: 0,0:08:03.12,0:08:03.56,Default,NTP,0,0,0,,Yes, sir!
 Dialogue: 0,0:08:03.60,0:08:04.92,Default,,0,0,0,,Generals, heed my orders!
 Dialogue: 0,0:08:04.92,0:08:05.60,Default,,0,0,0,,Here!
-Dialogue: 0,0:08:06.05,0:08:11.24,Default,,0,0,0,,{\blur3}三更造饭 平明起兵 此番必得冀州
-Dialogue: 0,0:08:06.05,0:08:11.24,Default,,0,0,0,,{\blur3\u1\i1}???三更早晚 平民起兵 自然备4得3冀州???{\u0\i0}
-Dialogue: 0,0:08:11.44,0:08:12.05,Default,,0,0,0,,Yes!
-Dialogue: 0,0:08:13.10,0:08:14.60,Default,,0,0,0,,It really is like lightning from the heavens.
-Dialogue: 0,0:08:16.62,0:08:19.22,Default,,0,0,0,,Cao Cao marched his army and crushed Yuan Shang,
-Dialogue: 0,0:08:19.52,0:08:24.12,Default,,0,0,0,,who had to send the Governor of Yuzhou, Yin Kui, \Nto the Cao camp to negotiate their surrender.
-Dialogue: 0,0:08:24.25,0:08:24.96,Default,,0,0,0,,Chancellor?
-Dialogue: 0,0:08:26.30,0:08:29.16,Default,,0,0,0,,{\blur3}袁尚军大败 溃走五十里
-Dialogue: 0,0:08:26.30,0:08:29.16,Default,,0,0,0,,Yuan Shang's army is decimated， and only 50 li away.
-Dialogue: 0,0:08:29.44,0:08:34.27,Default,,0,0,0,,{\blur3}现有预州刺使阴奎 奉袁尚之命
-Dialogue: 0,0:08:29.44,0:08:34.27,Default,,0,0,0,,I've heard Yuan Shang has ordered a replacement from Yuzhou.
-Dialogue: 0,0:08:34.30,0:08:37.80,Default,,0,0,0,,{\blur3}替袁尚前来请降
-Dialogue: 0,0:08:34.30,0:08:37.80,Default,,0,0,0,,He'll replace Yuan Shang before their side begs for surrender.\N
-Dialogue: 0,0:08:50.09,0:08:53.08,Default,,0,0,0,,{\blur3}前次是兄长派人请降
-Dialogue: 0,0:08:50.09,0:08:53.08,Default,,0,0,0,,Last time, my brother sent someone to surrender
-Dialogue: 0,0:08:54.23,0:08:56.66,Default,,0,0,0,,{\blur3}此番又是弟弟派人请降
-Dialogue: 0,0:08:54.23,0:08:56.66,Default,,0,0,0,,And yet again, my little brother sends a messenger.
-Dialogue: 0,0:08:59.00,0:09:01.10,Default,,0,0,0,,{\blur3}准降
-Dialogue: 0,0:08:59.00,0:09:01.10,Default,,0,0,0,,Get ready.
-Dialogue: 0,0:09:07.54,0:09:10.70,Default,,0,0,0,,{\blur3}张辽 徐晃
-Dialogue: 0,0:09:07.54,0:09:10.70,Default,,0,0,0,,Zhāngliáo. Xúhuǎng.
-Dialogue: 0,0:09:10.90,0:09:11.44,Default,,0,0,0,,{\blur3}在
-Dialogue: 0,0:09:10.90,0:09:11.44,Default,,0,0,0,,Sir!
-Dialogue: 0,0:09:12.00,0:09:14.77,Default,,0,0,0,,{\blur3}袁尚知我准降 必无准备
-Dialogue: 0,0:09:12.00,0:09:14.77,Default,,0,0,0,,Yuan Shang knows I'm brigadier general and do not need to prepare.
-Dialogue: 0,0:09:15.35,0:09:18.14,Default,NTP,0,0,0,,{\blur3}命你二人连夜劫寨
-Dialogue: 0,0:09:15.35,0:09:18.14,Default,NTP,0,0,0,,I ordered you two to pillage the town overnight
-Dialogue: 0,0:09:18.14,0:09:21.25,Default,NTP,0,0,0,,{\blur3}不使其有片刻喘息之机
-Dialogue: 0,0:09:18.14,0:09:21.25,Default,NTP,0,0,0,,Not for you to have a moment of respite
-Dialogue: 0,0:09:23.00,0:09:24.62,Default,,0,0,0,,{\blur3}是
-Dialogue: 0,0:09:23.00,0:09:24.62,Default,,0,0,0,,Sir!
-Dialogue: 0,0:09:25.50,0:09:27.70,Default,NTP,0,0,0,,{\blur3}不管袁尚是死是活
-Dialogue: 0,0:09:25.50,0:09:27.70,Default,NTP,0,0,0,,{\blur3}Whether Yuan Shang is dead or alive
-Dialogue: 0,0:09:28.00,0:09:32.06,Default,NTP,0,0,0,,{\blur3}明晨我必亲往寨前受降
-Dialogue: 0,0:09:28.00,0:09:32.06,Default,NTP,0,0,0,,{\blur3}Tomorrow morning I will go to the encampment and surrender.
-Dialogue: 0,0:09:33.90,0:09:35.50,Default,,0,0,0,,{\blur3}是
-Dialogue: 0,0:09:33.90,0:09:35.50,Default,,0,0,0,,{\blur3}Roger!
-Dialogue: 0,0:09:45.61,0:09:47.10,Default,,0,0,0,,{\blur3}准降？
-Dialogue: 0,0:09:45.61,0:09:47.10,Default,,0,0,0,,Should we lower our arms?
-Dialogue: 0,0:10:15.11,0:10:17.65,Default,NTP,0,0,0,,{\blur3}丞相 我二人奉命连夜劫营
-Dialogue: 0,0:10:15.11,0:10:17.65,Default,NTP,0,0,0,,Prime Minister: My two were ordered to rob the camp overnight.
-Dialogue: 0,0:10:17.65,0:10:20.27,Default,NTP,0,0,0,,{\blur3}袁尚尽弃各种辎重 往中山而逃
-Dialogue: 0,0:10:17.65,0:10:20.27,Default,NTP,0,0,0,,Yuan Shang abandoned all his belongings and fled to Zhongshan.
-Dialogue: 0,0:10:23.05,0:10:24.70,Default,,0,0,0,,{\blur3}随他去吧
+Dialogue: 0,0:08:06.05,0:08:11.24,Default,,0,0,0,,Prepare at third watch, we move out at daybreak. \NJi-Province will be ours!
+Dialogue: 0,0:08:11.44,0:08:12.05,Default,,0,0,0,,Yes sir!
+Dialogue: 0,0:08:13.10,0:08:14.60,Default,,0,0,0,,So there is a lightning...
+Dialogue: 0,0:08:16.62,0:08:19.22,Thinking,,0,0,0,,Cáo Cāo marched his army and crushed Yuan Shang,
+Dialogue: 0,0:08:19.46,0:08:24.34,Thinking,,0,0,0,,who had to send the Overseer of Yù-Province, Yin Kui, \Nto the Cáo Cāo's side to negotiate surrender.
+Dialogue: 0,0:08:24.42,0:08:25.08,Default,,0,0,0,,Chancellor?
+Dialogue: 0,0:08:26.30,0:08:29.16,Default,,0,0,0,,Yuan Shang's army is decimated, they've ran 50 li away.
+Dialogue: 0,0:08:29.44,0:08:34.27,Default,,0,0,0,,Now the Overseer of Yù-Province, Yin Kui is here, under Yuan Shang's orders.
+Dialogue: 0,0:08:34.30,0:08:37.80,Default,,0,0,0,,He has come in Yuan Shang's stead to surrender.
+Dialogue: 0,0:08:50.09,0:08:53.08,Default,,0,0,0,,First, the elder brother sent someone to surrender
+Dialogue: 0,0:08:54.23,0:08:57.22,Default,,0,0,0,,And now, the little brother sends someone to surrender.
+Dialogue: 0,0:08:59.00,0:09:01.10,Default,,0,0,0,,Surrender accepted.
+Dialogue: 0,0:09:07.54,0:09:10.70,Default,,0,0,0,,Zhāng Liáo. Xú Huǎng.
+Dialogue: 0,0:09:11.32,0:09:11.68,Default,,0,0,0,,Sir!
+Dialogue: 0,0:09:11.88,0:09:15.18,Default,,0,0,0,,Yuan Shang knows I've granted his surrender, he'll be unprepared.
+Dialogue: 0,0:09:15.35,0:09:18.14,Default,NTP,0,0,0,,You two will raid their base at night.
+Dialogue: 0,0:09:18.14,0:09:21.25,Default,NTP,0,0,0,,Leave them not a moment of respite
+Dialogue: 0,0:09:23.00,0:09:23.60,Default,,0,0,0,,Yes sir!
+Dialogue: 0,0:09:25.50,0:09:27.70,Default,NTP,0,0,0,,Whether Yuan Shang is dead or alive,
+Dialogue: 0,0:09:28.00,0:09:32.06,Default,NTP,0,0,0,,At dawn, I will receive his surrender.
+Dialogue: 0,0:09:33.90,0:09:35.50,Default,,0,0,0,,Roger!
+Dialogue: 0,0:09:45.61,0:09:47.10,Default,,0,0,0,,"Surreder"?
+Dialogue: 0,0:10:14.80,0:10:17.65,Default,NTP,0,0,0,,Chancellor, we attacked their camp as you wished.
+Dialogue: 0,0:10:17.65,0:10:20.70,Default,NTP,0,0,0,,Yuan Shang abandoned all his belongings and fled to Zhōngshān.
 Dialogue: 0,0:10:23.05,0:10:24.70,Default,,0,0,0,,Let him go.
-Dialogue: 0,0:10:24.75,0:10:25.40,Default,,0,0,0,,{\blur3}众将
-Dialogue: 0,0:10:24.75,0:10:25.40,Default,,0,0,0,,Majors!
-Dialogue: 0,0:10:25.50,0:10:26.25,Default,,0,0,0,,{\blur3}在
+Dialogue: 0,0:10:24.75,0:10:25.40,Default,,0,0,0,,Officers!
 Dialogue: 0,0:10:25.50,0:10:26.25,Default,,0,0,0,,Sir!
-Dialogue: 0,0:10:26.55,0:10:29.42,Default,,0,0,0,,{\blur3}随我回军攻打冀州
-Dialogue: 0,0:10:26.55,0:10:29.42,Default,,0,0,0,,Follow me back to the army to attack Jizhou.
-Dialogue: 0,0:10:37.10,0:10:38.47,Default,,0,0,0,,{\blur3}审配
-Dialogue: 0,0:10:37.10,0:10:38.47,Default,,0,0,0,,Shěn Pèi
-Dialogue: 0,0:10:39.50,0:10:44.70,Default,,0,0,0,,{\blur3}你主袁尚已败逃中山 冀州势穷 末日已近
-Dialogue: 0,0:10:39.50,0:10:42.40,Default,,0,0,0,,Your lord Yuan Shang has been defeated and fled to Zhongshan.
-Dialogue: 0,0:10:42.60,0:10:44.70,Default,,0,0,0,,Jizhou is poor and the end is near.
-Dialogue: 0,0:10:44.87,0:10:47.13,Default,,0,0,0,,{\blur3}为何还不快快投降？
-Dialogue: 0,0:10:44.87,0:10:47.13,Default,,0,0,0,,Why don't you surrender quickly?
-Dialogue: 0,0:10:47.28,0:10:52.07,Default,,0,0,0,,{\blur3}莫非要等漳河之水把冀州城全部冲光？
-Dialogue: 0,0:10:47.28,0:10:52.07,Default,,0,0,0,,Do you have to wait for the water of Zhang River to flush out all of Jizhou City?
-Dialogue: 0,0:11:00.02,0:11:03.84,Default,NTP,0,0,0,,{\blur3}叔父 你已经在这里站了两天两夜了
-Dialogue: 0,0:11:00.02,0:11:03.84,Default,NTP,0,0,0,,Uncle, you've been standing here for two days and two nights.
-Dialogue: 0,0:11:03.84,0:11:06.32,Default,NTP,0,0,0,,{\blur3}还是到城楼里歇息一下
-Dialogue: 0,0:11:03.84,0:11:06.32,Default,NTP,0,0,0,,Let's take a rest in the tower.
+Dialogue: 0,0:10:26.55,0:10:29.42,Default,,0,0,0,,We will assault the Jì-Province!
+Dialogue: 0,0:10:33.66,0:10:36.14,Style Names,,0,0,0,,{\fade(255,0,255,0,500,1700,2180)}{\pos(588.771,374.066)}Shěn Pèi \NStyled: Zhēngnán
+Dialogue: 0,0:10:37.10,0:10:38.47,Default,,0,0,0,,Shěn Pèi!
+Dialogue: 0,0:10:39.38,0:10:42.48,Default,,0,0,0,,Your lord Yuan Shang has fled to Zhōngshān in defeat!
+Dialogue: 0,0:10:42.52,0:10:44.82,Default,,0,0,0,,Jì-Province is outmatched, your end is near!
+Dialogue: 0,0:10:44.87,0:10:47.13,Default,,0,0,0,,Why not surrender now?
+Dialogue: 0,0:10:47.28,0:10:52.07,Default,,0,0,0,,Do you await for the waters \Nof Zhang River to flush out your city?
+Dialogue: 0,0:11:00.02,0:11:03.84,Default,NTP,0,0,0,,Uncle, you've been standing here for two days now.
+Dialogue: 0,0:11:03.84,0:11:06.32,Default,NTP,0,0,0,,You should take rest in the tower.
 Dialogue: 0,0:11:14.14,0:11:14.14,Note (Potential style?),,0,0,0,,Your subject, Yuán Tán, pays \Nhis respects to the Chancellor!
-Dialogue: 0,0:11:14.14,0:11:21.16,Default,,0,0,0,,{\pos(353.001,443)}Since the time of the empire's beginning, Hebei has grown quite powerful.
-Dialogue: 0,0:11:23.30,0:11:28.64,Default,,0,0,0,,{\pos(353.001,443)}Now, for princely reasons, Yuan Tan has fallen.
-Dialogue: 0,0:11:29.30,0:11:32.30,Default,,0,0,0,,{\pos(353.001,443)}Yuan Shang has troops encircling the city.
-Dialogue: 0,0:11:34.00,0:11:36.30,Default,,0,0,0,,{\pos(353.001,443)}But Liánchéng doesn't have a single move.
-Dialogue: 0,0:11:36.60,0:11:39.70,Default,,0,0,0,,{\pos(353.001,443)}Forces have retreated to Zhongshan.
+Dialogue: 0,0:11:14.14,0:11:21.16,Default,,0,0,0,,{\pos(353.001,443)}When our former lord reigned, \NHebei was a force to be reckoned with.
+Dialogue: 0,0:11:23.30,0:11:28.64,Default,,0,0,0,,{\pos(353.001,443)}Now, our lord has passed,\N and Yuan Tan surrendered
+Dialogue: 0,0:11:29.30,0:11:32.78,Default,,0,0,0,,{\pos(353.001,443)}Yuan Shang was going to save our city.
+Dialogue: 0,0:11:34.00,0:11:39.70,Default,,0,0,0,,{\pos(353.001,443)}Yet now he's fleeing to Zhōngshān, \Nbefore even stepping a foot inside the city.
 Dialogue: 0,0:11:40.53,0:11:45.08,Default,NTP,0,0,0,,Sir, we have seized all eighty of\N Xīn Pí's kinsmen, young and old!
-Dialogue: 0,0:11:40.53,0:11:45.08,Default,NTP,0,0,0,,Sir, we have seized all eighty of\N Xīn Pí's kinsmen, young and old!
-Dialogue: 0,0:11:49.24,0:11:51.20,Default,,0,0,0,,{\blur3}把他们请到这儿来 遵命
-Dialogue: 0,0:11:49.24,0:11:51.20,Default,,0,0,0,,{\blur3}Invite them over here.
-Dialogue: 0,0:11:51.30,0:11:52.20,Default,,0,0,0,,遵命
-Dialogue: 0,0:11:51.30,0:11:52.20,Default,,0,0,0,,As you wish.
-Dialogue: 0,0:11:53.50,0:11:55.61,Default,,0,0,0,,{\blur3}带上来
-Dialogue: 0,0:11:53.50,0:11:55.61,Default,,0,0,0,,Bring them up, yeah?
+Dialogue: 0,0:11:49.24,0:11:51.20,Default,,0,0,0,,{\blur3}Bring them here.
+Dialogue: 0,0:11:51.30,0:11:52.20,Default,,0,0,0,,Roger.
+Dialogue: 0,0:11:53.50,0:11:55.61,Default,,0,0,0,,Bring them up!
 Dialogue: 0,0:11:55.90,0:11:56.42,Default,,0,0,0,,Move!
 Dialogue: 0,0:11:56.68,0:11:57.28,Default,,0,0,0,,Move!
 Dialogue: 0,0:12:00.14,0:12:00.84,Default,,0,0,0,,Move!
 Dialogue: 0,0:12:00.98,0:12:08.18,Default,,0,0,0,,Ji Province is about to fall! It's only a matter of time, so why not surrender now?
 Dialogue: 0,0:12:02.28,0:12:03.56,Default,,0,0,0,,Please spare us!
 Dialogue: 0,0:12:09.00,0:12:14.64,Default,,0,0,0,,If everyone in the city remains loyal to Shen Pei, then you will all die!
-Dialogue: 0,0:12:15.30,0:12:18.42,Default,NTP,0,0,0,,If there are any of you that wish to kill Shen Pei and deliver the city,
-Dialogue: 0,0:12:18.42,0:12:21.53,Default,NTP,0,0,0,,you'll be a champion for its people, highly accomplished!
+Dialogue: 0,0:12:15.12,0:12:18.42,Default,NTP,0,0,0,,If any of you kills Shen Pei and delivers the city,
+Dialogue: 0,0:12:18.42,0:12:21.53,Default,NTP,0,0,0,,you'll be a hero for your people, rewarded as such!
 Dialogue: 0,0:12:22.50,0:12:26.10,Default,,0,0,0,,After entering the city, \NChancellor Cao will award you!
 Dialogue: 0,0:12:26.10,0:12:26.83,Default,,0,0,0,,Uncle!
 Dialogue: 0,0:12:29.18,0:12:31.00,Default,,0,0,0,,Please spare us!
 Dialogue: 0,0:12:32.91,0:12:34.98,Default,,0,0,0,,Please spare us, sire!
-Dialogue: 0,0:12:35.68,0:12:38.49,Default,NTP,0,0,0,,If there are any of you that wish to kill Shen Pei and deliver the city,
-Dialogue: 0,0:12:38.74,0:12:41.58,Default,NTP,0,0,0,,you'll be a champion for its people, highly accomplished!
+Dialogue: 0,0:12:35.68,0:12:38.84,Default,NTP,0,0,0,,If any of you that kills Shen Pei and delivers the city,
+Dialogue: 0,0:12:38.92,0:12:41.94,Default,NTP,0,0,0,,you'll be a hero for your people, rewarded as such!
 Dialogue: 0,0:12:42.22,0:12:45.55,Default,,0,0,0,,After entering the city, \NChancellor Cao will award you!
-Dialogue: 0,0:12:46.16,0:12:46.73,Default,,0,0,0,,Stop shouting!
+Dialogue: 0,0:12:46.16,0:12:47.26,Default,,0,0,0,,Stop shouting!
 Dialogue: 0,0:12:53.89,0:12:56.70,Default,,0,0,0,,Father! Father!
 Dialogue: 0,0:12:58.17,0:12:59.70,Default,,0,0,0,,Father!
 Dialogue: 0,0:13:08.90,0:13:10.24,Default,,0,0,0,,Mother!
-Dialogue: 0,0:13:11.86,0:13:15.38,Default,,0,0,0,,When we enter Jì Province, let's not kill any members of the Yuán clan.
-Dialogue: 0,0:13:16.20,0:13:20.89,Default,,0,0,0,,Anyone who surrenders, soldier or civilian, shall be spared.
+Dialogue: 0,0:13:11.86,0:13:15.38,Default,,0,0,0,,When we enter Jì Province, do not harm any members of the Yuán clan.
+Dialogue: 0,0:13:16.20,0:13:20.89,Default,,0,0,0,,Anyone who surrenders, \Nsoldier or civilian, shall be spared.
 Dialogue: 0,0:13:21.20,0:13:23.10,Default,,0,0,0,,Mother!
 Dialogue: 0,0:13:24.24,0:13:26.60,Default,,0,0,0,,Grandfather!
 Dialogue: 0,0:13:46.46,0:13:47.50,Default,,0,0,0,,Uncle!
-Dialogue: 0,0:13:53.65,0:13:55.62,Default,,0,0,0,,Uncle, if you can't rely on me,
+Dialogue: 0,0:13:53.65,0:13:55.62,Default,,0,0,0,,Uncle, if you don't trust me,
 Dialogue: 0,0:13:56.67,0:14:00.13,Default,,0,0,0,,I can ask Mister Chén to relieve you.
 Dialogue: 0,0:14:01.35,0:14:03.67,Default,,0,0,0,,You can't possibly keep going on like this!
 Dialogue: 0,0:14:05.52,0:14:08.85,Default,,0,0,0,,It's been three days!
 Dialogue: 0,0:14:30.50,0:14:31.26,Default,,0,0,0,,Uncle!
 Dialogue: 0,0:14:32.26,0:14:32.90,Default,,0,0,0,,Uncle!
 Dialogue: 0,0:14:33.76,0:14:34.49,Default,,0,0,0,,Uncle!
-Dialogue: 0,0:15:13.64,0:15:14.44,Default,,0,0,0,,Everybody, back!
+Dialogue: 0,0:15:13.64,0:15:14.90,Default,,0,0,0,,Everybody, back!
 Dialogue: 0,0:16:01.10,0:16:05.35,Default,,0,0,0,,Chancellor, look! General Xú has captured Shěn Pèi!
+Dialogue: 0,0:16:01.40,0:16:03.94,Style Names,,0,0,0,,{\fade(255,0,255,0,500,1700,2180)\pos(597.513,362.626)} Guō Jiā \NStyled: Fèngxiào)
 Dialogue: 0,0:16:05.35,0:16:06.32,Default,,0,0,0,,They're coming now.
-Dialogue: 0,0:16:07.90,0:16:10.13,Default,,0,0,0,,General Xú, please wait on your achievements!
-Dialogue: 0,0:16:10.53,0:16:12.99,Default,,0,0,0,,Pathetic murderer! Look where you are now!
-Dialogue: 0,0:16:18.98,0:16:20.12,Default,,0,0,0,,Pathetic murderer!
-Dialogue: 0,0:16:27.60,0:16:28.66,Default,,0,0,0,,Pathetic murderer!
-Dialogue: 0,0:16:30.07,0:16:31.07,Default,,0,0,0,,Pathetic murderer!
-Dialogue: 0,0:16:31.20,0:16:33.22,Default,,0,0,0,,Pull him up, and bring him to see the Chancellor.
+Dialogue: 0,0:16:07.90,0:16:10.13,Default,,0,0,0,,General Xú, please wait!
+Dialogue: 0,0:16:10.53,0:16:13.66,Default,,0,0,0,,You pathetic, murdering mongrel! Look where you are now!
+Dialogue: 0,0:16:18.98,0:16:20.12,Default,,0,0,0,,Bastard!
+Dialogue: 0,0:16:27.60,0:16:28.66,Default,,0,0,0,,Murderer!
+Dialogue: 0,0:16:30.07,0:16:31.07,Default,,0,0,0,,Mongrel!
+Dialogue: 0,0:16:31.20,0:16:33.62,Default,,0,0,0,,Pull him up, bring him to see the Chancellor.
 Dialogue: 0,0:16:33.72,0:16:34.91,Default,,0,0,0,,Look where you are now!
 Dialogue: 0,0:16:55.74,0:16:56.57,Default,,0,0,0,,Shen Pei.
 Dialogue: 0,0:16:58.18,0:17:00.70,Default,,0,0,0,,Do you know who opened your gates?
-Dialogue: 0,0:17:03.85,0:17:06.19,Default,,0,0,0,,It was your nephew, Shen Rong!
+Dialogue: 0,0:17:03.85,0:17:06.19,Default,,0,0,0,,It was your nephew, Shěn Róng!
 Dialogue: 0,0:17:10.05,0:17:14.32,Default,,0,0,0,,My nephew swore to live and die with the city. Thus, when the city fell,
 Dialogue: 0,0:17:14.32,0:17:18.56,Default,,0,0,0,,he was already a step \Nahead of me and died for his nation.
-Dialogue: 0,0:17:22.54,0:17:25.43,Default,NTP,0,0,0,,I was here yesterday to support this post.
-Dialogue: 0,0:17:25.83,0:17:29.27,Default,NTP,0,0,0,,Why were there so many crossbows on the walls?
-Comment: 0,0:17:25.43,0:17:29.27,Default,NTP,0,0,0,,Last two lines are a bit awkward.
+Dialogue: 0,0:17:22.54,0:17:25.43,Default,NTP,0,0,0,,I arrived here yesterday.
+Dialogue: 0,0:17:25.83,0:17:29.27,Default,NTP,0,0,0,,Why were there so many archers on the walls?
 Dialogue: 0,0:17:34.55,0:17:37.18,Default,,0,0,0,,I only regret it was too few!
-Dialogue: 0,0:17:42.50,0:17:48.29,Default,,0,0,0,,I know you are loyal to the Yuan clan. I was just forced to do this.
-Dialogue: 0,0:17:50.20,0:17:52.33,Default,,0,0,0,,Will you surrender today?
+Dialogue: 0,0:17:42.50,0:17:48.29,Default,,0,0,0,,I know you are loyal to the Yuan clan. You only did what you had to.
+Dialogue: 0,0:17:50.20,0:17:52.33,Default,,0,0,0,,Will you surrender now?
 Dialogue: 0,0:17:58.10,0:17:58.90,Default,,0,0,0,,No!
 Dialogue: 0,0:18:01.31,0:18:02.22,Default,,0,0,0,,Chancellor!
 Dialogue: 0,0:18:03.19,0:18:07.45,Default,,0,0,0,,My entire family was murdered by this bastard!
 Dialogue: 0,0:18:07.78,0:18:10.71,Default,,0,0,0,,Even if I've flogged him 800 times,
 Dialogue: 0,0:18:11.12,0:18:13.95,Default,,0,0,0,,it'd never be enough to quell my hatred! Chancellor!
-Dialogue: 0,0:18:15.16,0:18:18.69,Default,,0,0,0,,In life, I serve as the Yuán clan's minister; \Nin death, I'll serve as the Yuan clan's ghost!
-Dialogue: 0,0:18:21.54,0:18:25.97,Default,,0,0,0,,I'm not like you lot, traitors \Nfull of slander and flattery!
-Dialogue: 0,0:18:29.68,0:18:31.66,Default,,0,0,0,,Come, just execute me!
+Dialogue: 0,0:18:15.16,0:18:19.58,Default,,0,0,0,,In life, I serve as Yuán clan's vassal. \NIn death, I will serve as Yuan clan's ghost!
+Dialogue: 0,0:18:21.54,0:18:25.97,Default,,0,0,0,,I'm not like you lot, hypocrites full of treason and fraud!
+Dialogue: 0,0:18:29.68,0:18:31.66,Default,,0,0,0,,Come, kill me now!
 Dialogue: 0,0:18:35.22,0:18:40.14,Default,,0,0,0,,Fine. I'll respect your wishes. Anything else?
 Dialogue: 0,0:18:41.15,0:18:44.37,Default,,0,0,0,,My lord is in the north, and I do not wish to die facing the south!
-Dialogue: 0,0:18:45.11,0:18:47.11,Default,,0,0,0,,I'll bury you north of the city.
-Dialogue: 0,0:18:47.56,0:18:48.18,Default,,0,0,0,,Much obliged!
-Dialogue: 0,0:18:54.40,0:18:57.60,Default,,0,0,0,,{\pos(353.001,443)}When your elder brother, Xin Ping, received news that you surrendered,
+Dialogue: 0,0:18:45.11,0:18:47.11,Default,,0,0,0,,Then I'll bury you north of the city.
+Dialogue: 0,0:18:47.56,0:18:48.56,Default,,0,0,0,,Much obliged!
+Dialogue: 0,0:18:54.40,0:18:58.16,Default,,0,0,0,,{\pos(353.001,443)}When your elder brother, Xīn Píng, received news that you surrendered,
 Dialogue: 0,0:18:59.02,0:19:00.44,Default,,0,0,0,,{\pos(353.001,443)}he died in shame!
-Dialogue: 0,0:19:01.92,0:19:05.50,Default,,0,0,0,,{\pos(353.001,443)}On the day my city fell,
-Dialogue: 0,0:19:06.12,0:19:09.85,Default,,0,0,0,,{\pos(353.001,443)}you caused all 80 of your relatives to be executed!
-Dialogue: 0,0:19:11.64,0:19:15.84,Default,,0,0,0,,{\pos(353.001,443)}Now they join Xin Ping!
-Dialogue: 0,0:19:35.30,0:19:39.57,Default,,0,0,0,,{\pos(353.001,443)}There are so many righteous men from Hebei like him.
-Dialogue: 0,0:19:42.04,0:19:44.84,Default,,0,0,0,,{\pos(353.001,443)}It really is a pity the Yuans did not use them to their fullest.
-Dialogue: 0,0:19:45.62,0:19:50.52,Default,,0,0,0,,{\pos(353.001,443)}Had they used them, how could I dare eye this place?
-Dialogue: 0,0:19:52.25,0:19:53.14,Default,,0,0,0,,Generals, follow me.
-Dialogue: 0,0:19:57.00,0:20:00.48,Default,,0,0,0,,{\pos(353.001,443)}Isn't that Chen Lin? Chen Kongzhang?
+Dialogue: 0,0:19:01.92,0:19:05.50,Default,,0,0,0,,{\pos(353.001,443)}He wished on his deathbed, for on the day the city fell,
+Dialogue: 0,0:19:06.12,0:19:09.85,Default,,0,0,0,,{\pos(353.001,443)}I would have all eighty of your kin executed!
+Dialogue: 0,0:19:11.64,0:19:15.84,Default,,0,0,0,,{\pos(353.001,443)}Now they're with Xīn Píng, just as he wanted!
+Dialogue: 0,0:19:35.30,0:19:39.57,Default,,0,0,0,,{\pos(353.001,443)}There are so many loyal men in Hebei.
+Dialogue: 0,0:19:42.04,0:19:45.20,Default,,0,0,0,,{\pos(353.001,443)}A pity the Yuan clan could not use them to their fullest.
+Dialogue: 0,0:19:45.62,0:19:50.52,Default,,0,0,0,,{\pos(353.001,443)}Had they done so, how could I dare eye this place?
+Dialogue: 0,0:19:52.25,0:19:53.42,Default,,0,0,0,,Generals, follow me.
+Dialogue: 0,0:19:57.00,0:20:00.48,Default,,0,0,0,,{\pos(353.001,443)}Isn't that Chén Lín? Chén Kǒngzhāng?
 Dialogue: 0,0:20:04.40,0:20:07.50,Default,,0,0,0,,{\pos(353.001,443)}When Yuan Shao was preparing his armies to attack me,
-Dialogue: 0,0:20:08.90,0:20:12.52,Default,,0,0,0,,{\pos(353.001,443)}you had composed an essay, calling for an expedition against me.
+Dialogue: 0,0:20:08.82,0:20:12.94,Default,,0,0,0,,{\pos(353.001,443)}you had composed an Denunciation Essay, \Ncalling for an expedition against me.
 Dialogue: 0,0:20:14.44,0:20:17.10,Default,,0,0,0,,{\pos(353.001,443)}In it, you had listed my crimes,
-Dialogue: 0,0:20:18.14,0:20:20.40,Default,,0,0,0,,{\pos(353.001,443)}and even insulted my ancestors!
-Dialogue: 0,0:20:24.66,0:20:27.64,Default,,0,0,0,,{\pos(353.001,443)}The arrow was on the bowstring, and I had to fire it.
-Dialogue: 0,0:20:24.66,0:20:27.64,Note (Potential style?),,0,0,0,,Meaning he had no choice but to do it.
-Comment: 0,0:20:24.66,0:20:27.60,Default,,0,0,0,,{\pos(353.001,443)}箭在弦上，不得不發耳。
+Dialogue: 0,0:20:18.14,0:20:20.76,Default,,0,0,0,,{\pos(353.001,443)}but why insult even my father and grandfather!?
+Dialogue: 0,0:20:24.66,0:20:27.82,Default,,0,0,0,,{\pos(353.001,443)}The arrow was on the bowstring, I had to shoot it.
 Dialogue: 0,0:20:28.82,0:20:31.28,Default,,0,0,0,,Chancellor! Execute him! Execute him!
-Dialogue: 0,0:20:37.67,0:20:40.09,Default,,0,0,0,,The wording you had just used was elegant.
-Comment: 0,0:20:37.67,0:20:40.09,Default,,0,0,0,,There is not enough CPS so I opted for this. Original Sentence: 好一个箭在弦上 不得不发
-Dialogue: 0,0:20:41.50,0:20:44.36,Default,,0,0,0,,{\blur3}明日 带上檄文
-Dialogue: 0,0:20:41.50,0:20:44.36,Default,,0,0,0,,Bring me a message tomorrow
-Dialogue: 0,0:20:45.07,0:20:49.47,Default,,0,0,0,,{\blur3}随我同到袁绍墓前 祭奠本初
-Dialogue: 0,0:20:45.07,0:20:49.47,Default,,0,0,0,,Follow me to Yuan Shao’s tomb to pay tribute to the beginning.
-Dialogue: 0,0:20:51.75,0:20:53.31,Default,,0,0,0,,{\blur3}进城
+Dialogue: 0,0:20:37.67,0:20:40.26,Default,,0,0,0,,"An arrow that had to be shot", eh?
+Dialogue: 0,0:20:41.50,0:20:44.36,Default,,0,0,0,,Bring me your essay tomorrow.
+Dialogue: 0,0:20:45.07,0:20:49.47,Default,,0,0,0,,You will follow me to Yuan Shao’s tomb, to pay tribute to Běnchū.
 Dialogue: 0,0:20:51.75,0:20:53.31,Default,,0,0,0,,Forward!
-Dialogue: 0,0:21:12.43,0:21:14.76,Default,,0,0,0,,{\blur3}何人大胆 违我将令
 Dialogue: 0,0:21:12.43,0:21:14.76,Default,,0,0,0,,Who dares to enter Yuan Mansion
-Dialogue: 0,0:21:15.77,0:21:16.94,Default,,0,0,0,,{\blur3}擅入袁府
 Dialogue: 0,0:21:15.77,0:21:16.94,Default,,0,0,0,,without my knowledge?
-Dialogue: 0,0:21:17.30,0:21:18.08,Default,,0,0,0,,News, Chancellor.
+Dialogue: 0,0:21:17.30,0:21:18.32,Default,,0,0,0,,News, Chancellor.
 Dialogue: 0,0:21:20.21,0:21:21.50,Default,,0,0,0,,Your son is inside.
 Dialogue: 0,0:21:36.30,0:21:38.79,Default,,0,0,0,,Insolent whelp, why aren't you coming down?
+Dialogue: 0,0:21:44.58,0:21:46.58,Style Names,,0,0,0,,{\fade(255,0,255,0,500,1700,2180)\pos(597.513,364.619)}Cáo Pī \NStyled: Zǐhuán)
 Dialogue: 0,0:21:46.05,0:21:46.53,Default,,0,0,0,,Father.
-Dialogue: 0,0:21:48.40,0:21:49.50,Default,,0,0,0,,Did you know my orders?
+Dialogue: 0,0:21:48.40,0:21:49.50,Default,,0,0,0,,You know of my orders?
 Dialogue: 0,0:21:50.32,0:21:50.97,Default,,0,0,0,,I knew them.
-Dialogue: 0,0:21:51.70,0:21:53.27,Default,,0,0,0,,Then why were you so brazen as to defy them?
-Dialogue: 0,0:21:56.28,0:22:00.94,Default,,0,0,0,,{\blur3}孩儿知错 但请父亲见过一人
-Dialogue: 0,0:21:56.28,0:22:00.94,Default,,0,0,0,,The child saw its mistake and knew his father was a stern man.
-Dialogue: 0,0:22:02.00,0:22:03.68,Default,,0,0,0,,{\blur3}何人啊？
-Dialogue: 0,0:22:02.00,0:22:03.68,Default,,0,0,0,,Oh? Who's that?
-Dialogue: 0,0:22:25.50,0:22:27.70,Default,,0,0,0,,{\blur3}此乃何人？
+Dialogue: 0,0:21:51.70,0:21:53.27,Default,,0,0,0,,Then why did you defy them?
+Dialogue: 0,0:21:56.28,0:22:00.94,Default,,0,0,0,,Your son knows its wrong, \Nbut I ask my father to meet someone.
+Dialogue: 0,0:22:02.00,0:22:03.68,Default,,0,0,0,,Meet with whom?
 Dialogue: 0,0:22:25.50,0:22:27.70,Default,,0,0,0,,Who is this?
-Dialogue: 0,0:22:29.11,0:22:31.83,Default,,0,0,0,,{\blur3}此乃袁熙之妻甄氏
-Dialogue: 0,0:22:29.11,0:22:31.83,Default,,0,0,0,,This is Yuan Shao's wife, Zhēn Shì.
-Dialogue: 0,0:22:39.69,0:22:43.19,Default,,0,0,0,,{\blur3}好生照料 勿使再受惊吓
-Dialogue: 0,0:22:39.69,0:22:43.19,Default,,0,0,0,,Take good care of things. Don't get frightened again.
-Dialogue: 0,0:22:43.69,0:22:44.95,Default,,0,0,0,,{\blur3}是
+Dialogue: 0,0:22:29.11,0:22:31.83,Default,,0,0,0,,This is Yuán Xī's wife, Lady Zhēn.
+Dialogue: 0,0:22:34.70,0:22:36.70,Style Names,,0,0,0,,{\fade(255,0,255,0,500,1100,1180)\pos(601.457,355.653)}Lady Zhēn
+Dialogue: 0,0:22:39.69,0:22:43.19,Default,,0,0,0,,Take good care, do not harm them.
 Dialogue: 0,0:22:43.69,0:22:44.95,Default,,0,0,0,,Yes!
-Dialogue: 0,0:22:44.96,0:22:46.59,Default,,0,0,0,,{\blur3}丞相
-Dialogue: 0,0:22:44.96,0:22:46.59,Default,,0,0,0,,Prime Minsiter.
-Dialogue: 0,0:22:47.70,0:22:49.69,Default,,0,0,0,,{\blur3}非公子不能保全妾家
-Dialogue: 0,0:22:47.70,0:22:49.69,Default,,0,0,0,,Outsiders cannot protect the concubine's house.
-Dialogue: 0,0:22:51.70,0:22:55.47,Default,,0,0,0,,{\blur3}愿献甄氏与公子为妻
-Dialogue: 0,0:22:51.70,0:22:55.47,Default,,0,0,0,,We are willing to offer Lady Zhen as a wife for the prince.
-Dialogue: 0,0:22:58.21,0:23:00.50,Default,,0,0,0,,{\blur3}非公子不能保全你家？
-Dialogue: 0,0:22:58.21,0:23:00.50,Default,,0,0,0,,An outsider cannot guard the concubine's home？
-Dialogue: 0,0:23:01.00,0:23:01.50,Default,,0,0,0,,是
-Dialogue: 0,0:23:01.00,0:23:01.50,Default,,0,0,0,,  -Yes.
-Dialogue: 0,0:23:02.01,0:23:03.23,Default,,0,0,0,,{\blur3}你是何人？
-Dialogue: 0,0:23:02.01,0:23:03.23,Default,,0,0,0,,Just who are you
-Dialogue: 0,0:23:05.98,0:23:07.41,Default,,0,0,0,,{\blur3}敢出此言
-Dialogue: 0,0:23:05.98,0:23:07.41,Default,,0,0,0,,to speak like this?
-Dialogue: 0,0:23:11.65,0:23:14.91,Default,,0,0,0,,{\blur3}妾乃袁绍之妻刘氏
-Dialogue: 0,0:23:11.65,0:23:14.91,Default,,0,0,0,,I am a concubine of Yuan Shao, of the Liu family.
-Dialogue: 0,0:23:22.73,0:23:24.40,Default,,0,0,0,,{\blur3}为何如此打扮？
+Dialogue: 0,0:22:44.96,0:22:46.59,Default,,0,0,0,,Chancellor
+Dialogue: 0,0:22:47.70,0:22:50.32,Default,,0,0,0,,Outsiders cannot protect the our house.
+Dialogue: 0,0:22:51.70,0:22:55.47,Default,,0,0,0,,We are willing to offer Lady Zhen as a wife for your son.
+Dialogue: 0,0:22:58.21,0:23:00.50,Default,,0,0,0,,An outsider cannot protect?
+Dialogue: 0,0:23:01.00,0:23:01.50,Default,,0,0,0,,Yes.
+Dialogue: 0,0:23:02.01,0:23:07.41,Default,,0,0,0,,Who do you think you are, to speak thusly?
+Dialogue: 0,0:23:12.15,0:23:14.91,Style Names,,0,0,0,,{\fade(255,0,255,0,500,2000,3180)\pos(602.443,353.66)}Lady Liu
 Dialogue: 0,0:23:22.73,0:23:24.40,Default,,0,0,0,,Why do you dress like this?
-Dialogue: 0,0:23:26.17,0:23:27.66,Default,,0,0,0,,{\blur3}这…
 Dialogue: 0,0:23:26.17,0:23:27.66,Default,,0,0,0,,Well...
-Dialogue: 0,0:23:29.27,0:23:33.20,Default,,0,0,0,,{\blur3}既是袁本初妻室 赠与金帛粮米
-Dialogue: 0,0:23:29.27,0:23:33.20,Default,,0,0,0,,There's word that Yuan Benchu's first wife has brought gifts of gold, silk, grain, and rice.
-Dialogue: 0,0:23:35.28,0:23:36.84,Default,,0,0,0,,{\blur3}丞相
-Dialogue: 0,0:23:35.28,0:23:36.84,Default,,0,0,0,,Prime Minister.
-Dialogue: 0,0:23:37.88,0:23:39.24,Default,,0,0,0,,{\blur3}何事？
+Dialogue: 0,0:23:29.27,0:23:33.20,Default,,0,0,0,,Since this is Yuan Běnchū's wife, \Nfine silks and grain will be bestowed
+Dialogue: 0,0:23:35.28,0:23:36.84,Default,,0,0,0,,Chancellor.
 Dialogue: 0,0:23:37.88,0:23:39.24,Default,,0,0,0,,What is it?
-Dialogue: 0,0:23:39.25,0:23:42.61,Default,,0,0,0,,{\blur3}妾有一事相求
-Dialogue: 0,0:23:39.25,0:23:42.61,Default,,0,0,0,,This concubine has something to ask.
-Dialogue: 0,0:23:45.22,0:23:46.85,Default,,0,0,0,,{\blur3}说来
+Dialogue: 0,0:23:39.25,0:23:42.61,Default,,0,0,0,,I have something to ask.
 Dialogue: 0,0:23:45.22,0:23:46.85,Default,,0,0,0,,Go on.
-Dialogue: 0,0:23:47.35,0:23:51.89,Default,,0,0,0,,{\blur3}请赐妾一死
-Dialogue: 0,0:23:47.35,0:23:51.89,Default,,0,0,0,,Please bestow...an end... to this concubine.
-Dialogue: 0,0:24:05.90,0:24:09.74,Default,,0,0,0,,You're really deserving of my son.
-Dialogue: 0,0:24:30.06,0:24:31.60,Default,,0,0,0,,General Xǔ, you worked hard!
-Dialogue: 0,0:24:34.70,0:24:36.89,Default,,0,0,0,,If you didn't have me, would you even be in this city?
-Dialogue: 0,0:24:39.14,0:24:42.17,Default,NTP,0,0,0,,We put our lives at risk\N innumerable times to capture this city!
-Dialogue: 0,0:24:42.32,0:24:43.60,Default,NTP,0,0,0,,How dare you boast!
-Dialogue: 0,0:24:44.41,0:24:46.80,Default,,0,0,0,,You're just ignorant. What are you even saying?
-Dialogue: 0,0:25:07.63,0:25:10.44,Default,,0,0,0,,Chancellor, Xǔ Yōu was too \Nimpudent, so I had to kill him.
-Dialogue: 0,0:25:14.87,0:25:20.01,Default,,0,0,0,,Ziyuan and I were old friends, and \Nhe humored me often. Why did you kill him?
-Dialogue: 0,0:25:21.82,0:25:22.55,Default,,0,0,0,,General Xu.
+Dialogue: 0,0:23:47.35,0:23:51.89,Default,,0,0,0,,Please bestow to me... the mercy of death.
+Dialogue: 0,0:24:05.90,0:24:09.74,Default,,0,0,0,,Truly, a most fitting wife for my son.
+Dialogue: 0,0:24:30.06,0:24:31.60,Default,,0,0,0,,General Xǔ, you so worked hard!
+Dialogue: 0,0:24:34.38,0:24:37.20,Default,,0,0,0,,Do you think any of you'd gotten in the city without me?
+Dialogue: 0,0:24:38.40,0:24:40.90,Style Names,,0,0,0,,{\fade(255,0,255,0,420,1900,2220)\pos(120.291,332.74)}Xŭ Chŭ\NStyled: Zhòngkāng
+Dialogue: 0,0:24:39.00,0:24:42.42,Default,NTP,0,0,0,,We put our lives at risk\N innumerable times to capture this city!
+Dialogue: 0,0:24:42.44,0:24:43.60,Default,NTP,0,0,0,,Yet you dare to boast!
+Dialogue: 0,0:24:44.18,0:24:46.94,Default,,0,0,0,,Baseborn ignoramuses, \Nwhat do you have to yap for?
+Dialogue: 0,0:25:07.63,0:25:10.76,Default,,0,0,0,,Chancellor, Xǔ Yōu was too impudent, so I had to kill him.
+Dialogue: 0,0:25:14.87,0:25:20.01,Default,,0,0,0,,Ziyuan and I were old friends, and \Nhe humored me often. Why kill him?
+Dialogue: 0,0:25:21.82,0:25:22.55,Default,,0,0,0,,General Xǔ.
 Dialogue: 0,0:25:23.18,0:25:26.11,Default,,0,0,0,,Please bury Ziyuan with full honors.
-Dialogue: 0,0:25:27.02,0:25:27.50,Default,,0,0,0,,Yes.
-Dialogue: 0,0:25:42.40,0:25:46.30,Default,,0,0,0,,{\pos(353.001,433)}Long ago, Benchu and I commanded our armies together.
-Dialogue: 0,0:25:47.10,0:25:49.70,Default,,0,0,0,,{\pos(353.001,433)}Benchu once asked me:
-Dialogue: 0,0:25:50.00,0:25:54.20,Default,,0,0,0,,{\pos(353.001,433)}If this doesn't work out for you, what do you have left?
-Dialogue: 0,0:25:56.00,0:26:00.80,Default,,0,0,0,,{\pos(353.001,433)}I asked him: "Friend, what are you saying?"
-Dialogue: 0,0:26:00.90,0:26:02.50,Default,,0,0,0,,{\pos(353.001,433)}Benchu said:
-Dialogue: 0,0:26:02.60,0:26:05.90,Default,,0,0,0,,{\pos(353.001,433)}So, the south's held the river, the north revolts for generations,
-Dialogue: 0,0:26:05.90,0:26:07.90,Default,,0,0,0,,and when stuck in the desert region, too.
-Dialogue: 0,0:26:08.20,0:26:12.40,Default,,0,0,0,,{\pos(353.001,433)}If marching directly is obvious, could we get across the river?
-Dialogue: 0,0:26:15.90,0:26:16.40,Default,,0,0,0,,{\pos(353.001,433)}I replied:
-Dialogue: 0,0:26:16.60,0:26:19.40,Default,,0,0,0,,{\pos(353.001,433)}I'll trust the mandate of heaven.
-Dialogue: 0,0:26:19.60,0:26:23.10,Default,,0,0,0,,{\pos(353.001,433)}An emperor's path is not the same as an official's.
-Dialogue: 0,0:26:32.00,0:26:33.30,Default,,0,0,0,,{\pos(353.001,433)}That, I did say before,
-Dialogue: 0,0:26:35.00,0:26:37.40,Default,,0,0,0,,{\pos(353.001,433)}and now, Benchu's already gone.
-Dialogue: 0,0:26:39.50,0:26:43.50,Default,,0,0,0,,{\pos(353.001,433)}And now, I must hold back tears.
-Dialogue: 0,0:27:07.50,0:27:12.50,Default,,0,0,0,,{\pos(353.001,433)}But to meet the people of Hebei armed is its own difficulty.
+Dialogue: 0,0:25:27.02,0:25:27.50,Default,,0,0,0,,Yes sir.
+Dialogue: 0,0:25:42.40,0:25:46.30,Default,,0,0,0,,{\pos(353.001,433)}Long ago, Běnchū and I commanded armies together.
+Dialogue: 0,0:25:47.10,0:25:49.70,Default,,0,0,0,,{\pos(353.001,433)}Běnchū once asked me:
+Dialogue: 0,0:25:50.00,0:25:54.20,Default,,0,0,0,,{\pos(353.001,433)}If matters go awry, where would you go?
+Dialogue: 0,0:25:56.00,0:26:00.80,Default,,0,0,0,,{\pos(353.001,433)}I asked him, 'Friend, what are you saying?'
+Dialogue: 0,0:26:00.90,0:26:02.50,Default,,0,0,0,,{\pos(353.001,433)}Běnchū said,
+Dialogue: 0,0:26:02.60,0:26:06.10,Default,,0,0,0,,{\pos(353.001,433)}To my south cuts a river, \Nto the north blocks lands of Yān and Dài,
+Dialogue: 0,0:26:02.60,0:26:07.72,Note (Potential style?),,0,0,0,,Note: Yān and Dài are ancient names for lands situated in modern-day Hebei and Liaoning.
+Dialogue: 0,0:26:06.16,0:26:08.24,Default,,0,0,0,,{\pos(353.001,433)}along with the tribes of the steppes.
+Dialogue: 0,0:26:08.28,0:26:12.40,Default,,0,0,0,,{\pos(353.001,433)}If I marched south to conquer, would I succeed?
+Dialogue: 0,0:26:15.04,0:26:16.40,Default,,0,0,0,,{\pos(353.001,433)}I replied:
+Dialogue: 0,0:26:16.60,0:26:19.82,Default,,0,0,0,,{\pos(353.001,433)}I entrust the wisdom and power of all beneath the heavens,
+Dialogue: 0,0:26:19.86,0:26:23.10,Default,,0,0,0,,{\pos(353.001,433)}With virtue on our side, nothing could stop us.
+Dialogue: 0,0:26:32.00,0:26:33.30,Default,,0,0,0,,{\pos(353.001,433)}That, I did say before.
+Dialogue: 0,0:26:35.00,0:26:37.40,Default,,0,0,0,,{\pos(353.001,433)}Yet now, Běnchū is gone,
+Dialogue: 0,0:26:39.50,0:26:43.50,Default,,0,0,0,,{\pos(353.001,433)}and my lament cannot cease!
+Dialogue: 0,0:27:07.50,0:27:15.88,Default,,0,0,0,,{\pos(353.001,433)}The people of Hebei have faced fire and steel. Hence, this year their burden of tax will be cut.
 Dialogue: 0,0:27:16.66,0:27:17.26,Default,,0,0,0,,Xu Chu?
 Dialogue: 0,0:27:18.57,0:27:19.13,Default,,0,0,0,,Here!
-Dialogue: 0,0:27:20.00,0:27:23.77,Default,,0,0,0,,You will have the graves of Ju Shou, Shen Pei, \NXin Ping, and other gentlemen from Hebei prepared.
-Dialogue: 0,0:27:23.94,0:27:24.40,Default,,0,0,0,,Yes!
-Dialogue: 0,0:27:26.31,0:27:28.47,Default,,0,0,0,,Yuan Tan, Yuan Shang, and Yuan Xi
-Dialogue: 0,0:27:28.68,0:27:30.60,Default,,0,0,0,,only cared to fight each other.
-Dialogue: 0,0:27:30.98,0:27:32.44,Default,,0,0,0,,They are all unfilial children!
-Dialogue: 0,0:27:33.05,0:27:35.44,Default,,0,0,0,,Although they are still alive and struggle, their end is nigh.
-Dialogue: 0,0:27:35.85,0:27:40.01,Default,,0,0,0,,Cao Hong, you will install their graves too, and mourn their father.
+Dialogue: 0,0:27:19.58,0:27:24.04,Default,,0,0,0,,Have the headstones of Ju Shou, Shen Pei, \NXīn Píng, and other gentlemen from Hebei prepared.
+Dialogue: 0,0:27:24.12,0:27:24.52,Default,,0,0,0,,Yes sir!
+Dialogue: 0,0:27:26.31,0:27:30.60,Default,,0,0,0,,Yuan Tan, Yuan Shang, \Nand Yuan Xi only cared of killing each other.
+Dialogue: 0,0:27:30.98,0:27:32.44,Default,,0,0,0,,They are sons most unfilial!
+Dialogue: 0,0:27:32.94,0:27:35.90,Default,,0,0,0,,They may still live, but only barely. \NTheir end will come.
+Dialogue: 0,0:27:35.94,0:27:40.22,Default,,0,0,0,,Cáo Hóng, place headstones for them as well. \NThey shall be with their father.
 Dialogue: 0,0:27:40.22,0:27:40.61,Default,,0,0,0,,Yes!
 Dialogue: 0,0:27:42.56,0:27:43.14,Default,,0,0,0,,Chen Lin?
 Dialogue: 0,0:27:45.43,0:27:46.20,Default,,0,0,0,,I am here.
-Dialogue: 0,0:27:55.17,0:27:58.20,Default,,0,0,0,,Take the document you wrote back then out.
+Dialogue: 0,0:27:55.17,0:27:58.20,Default,,0,0,0,,Take out that Denunciation Essay you wrote back then.
 Dialogue: 0,0:28:08.28,0:28:08.85,Default,,0,0,0,,Read it!
-Dialogue: 0,0:28:37.15,0:28:38.85,Default,,0,0,0,,Sikong Cao Cao:
-Dialogue: 0,0:28:39.00,0:28:41.00,Default,,0,0,0,,his grandfather Cao Teng, 
-Dialogue: 0,0:28:42.20,0:28:46.20,Default,,0,0,0,,with the eunuchs, have wronged us all.
-Dialogue: 0,0:28:47.50,0:28:53.50,Default,,0,0,0,,His father, Cao Song, was brought by beggars. 
-Dialogue: 0,0:28:54.20,0:28:58.50,Default,,0,0,0,,He bribed power and has now 
-Dialogue: 0,0:28:58.60,0:29:03.40,Default,,0,0,0,,inherited the ugliness because of such behavior!
-Dialogue: 0,0:29:04.00,0:29:06.50,Default,,0,0,0,,He had no virtue and was cunning.
-Dialogue: 0,0:29:06.74,0:29:09.34,Default,,0,0,0,,{\blur3}丞相 别让他念了
-Dialogue: 0,0:29:06.74,0:29:09.34,Default,,0,0,0,,Prime Minister, don't let him read it!
-Dialogue: 0,0:29:09.84,0:29:11.03,Default,,0,0,0,,{\blur3}丞相
-Dialogue: 0,0:29:09.84,0:29:11.03,Default,,0,0,0,,Prime Minister!
-Dialogue: 0,0:29:16.03,0:29:16.03,Default,,0,0,0,,Read it! Why not read it?
-Dialogue: 0,0:29:22.53,0:29:25.53,Default,,0,0,0,,When this article was spread to Xudu,
-Dialogue: 0,0:29:25.53,0:29:29.83,Default,,0,0,0,,our side suffered a headwind and was ill in bed.
-Dialogue: 0,0:29:30.83,0:29:34.83,Default,,0,0,0,,After reading this article, my hair is terrifying,
-Dialogue: 0,0:29:35.00,0:29:38.00,Default,,0,0,0,,I am in a cold sweat, and I can't think clearly,
-Dialogue: 0,0:29:38.00,0:29:40.00,Default,,0,0,0,,so I can cite an army of 200,000, 
-Dialogue: 0,0:29:40.00,0:29:42.00,Default,,0,0,0,,enter Liyang, reject Yuan Shao, 
-Dialogue: 0,0:29:42.00,0:29:44.00,Default,,0,0,0,,and fight to the death!
-Dialogue: 0,0:29:48.00,0:29:52.80,Default,,0,0,0,,Haha... Zhennai writes like an arrow!
-Dialogue: 0,0:29:54.30,0:29:55.80,Default,,0,0,0,,When this arrow was fired,
-Dialogue: 0,0:29:55.90,0:29:59.80,Default,,0,0,0,,it made corpses of strong men on the battlefield,
-Dialogue: 0,0:30:01.00,0:30:03.30,Default,,0,0,0,,and their souls returned to the west.
-Dialogue: 0,0:30:04.20,0:30:06.30,Default,,0,0,0,,I, Cao Cao, am not affected by this arrow.
-Dialogue: 0,0:30:06.40,0:30:09.30,Default,,0,0,0,,A "brave" man can calmly prepare and bury the dead.
-Dialogue: 0,0:30:09.30,0:30:11.30,Default,,0,0,0,,and rest his head on the meadows!
-Dialogue: 0,0:30:11.50,0:30:14.50,Default,,0,0,0,,The stars are shining, and its radiance is like words.
-Dialogue: 0,0:30:15.20,0:30:16.45,Default,,0,0,0,,If you don't read this article,
-Dialogue: 0,0:30:17.15,0:30:20.95,Default,,0,0,0,,how shall the heavens receive this blood?
-Dialogue: 0,0:30:35.95,0:30:39.95,Default,,0,0,0,,Mu house for Chuxiong reverse, 
-Dialogue: 0,0:30:40.00,0:30:43.55,Default,,0,0,0,,grab your swords and drums, come for Dong Zhen,
-Dialogue: 0,0:30:44.80,0:30:48.40,Default,,0,0,0,,grab your heroes, and make use of your blemishes;
-Dialogue: 0,0:30:52.30,0:30:52.30,Default,,0,0,0,,surely this will make you go consult your counselors,
-Dialogue: 0,0:30:52.80,0:30:57.30,Default,,0,0,0,,your granters, your teachers, 
-Dialogue: 0,0:30:58.10,0:31:02.30,Default,,0,0,0,,your lackeys, and even your dogs for their skills.
-Dialogue: 0,0:31:02.70,0:31:06.50,Default,,0,0,0,,Your country is defiled, and your people are ghosts!
-Dialogue: 0,0:31:08.40,0:31:11.60,Default,,0,0,0,,Li Guanzai, an innocent minister,
-Dialogue: 0,0:31:11.70,0:31:15.85,Default,,0,0,0,,greedy and cruel, and very good at handling.
-Dialogue: 0,0:31:17.20,0:31:19.90,Default,,0,0,0,,Those who get the first level of Cao Cao
-Dialogue: 0,0:31:19.99,0:31:24.00,Default,,0,0,0,,will preside over five thousand households and receive a reward of fifty million!
-Dialogue: 0,0:31:25.00,0:31:28.80,Default,,0,0,0,,Announcing the world and making everyone aware of the difficulty
-Dialogue: 0,0:31:29.40,0:31:33.90,Default,,0,0,0,,of the imprisonment of the holy dynasty is like a law
-Dialogue: 0,0:31:34.39,0:31:36.58,Default,,0,0,0,,{\blur3}曹操攻取冀州后
-Dialogue: 0,0:31:34.39,0:31:36.58,Default,,0,0,0,,After Cao Cao captured Jizhou,
-Dialogue: 0,0:31:36.99,0:31:39.99,Default,,0,0,0,,{\blur3}袁氏兄弟继续相互进攻
-Dialogue: 0,0:31:36.99,0:31:39.99,Default,,0,0,0,, the Yuan brothers continued to attack each other,
-Dialogue: 0,0:31:40.46,0:31:43.86,Default,,0,0,0,,{\blur3}致使袁尚径奔幽州投了袁熙
-Dialogue: 0,0:31:43.86,0:31:44.36,Default,,0,0,0,,causing Yuan Shang to go to Youzhou and vote for Yuan Xi.
-Dialogue: 0,0:31:44.36,0:31:48.16,Default,,0,0,0,,{\blur3}袁谭尽降其众 而欲复图冀州
-Dialogue: 0,0:31:48.16,0:31:48.57,Default,,0,0,0,,Yuan Tan surrendered all the people, and wanted to return to Jizhou.
-Dialogue: 0,0:31:48.57,0:31:51.50,Default,,0,0,0,,{\blur3}曹操大怒 征伐袁谭
-Dialogue: 0,0:31:51.50,0:31:51.90,Default,,0,0,0,,Cao Cao was furious and conquered Yuan Tan. 
-Dialogue: 0,0:31:51.90,0:31:55.07,Default,,0,0,0,,{\blur3}袁谭再次向曹操投降 遭到拒绝
-Dialogue: 0,0:31:55.07,0:31:55.31,Default,,0,0,0,,Yuan Tan surrendered to Cao Cao again, 
-Dialogue: 0,0:31:55.31,0:31:57.91,Default,,0,0,0,,{\blur3}被曹洪杀死于阵中
-Dialogue: 0,0:31:57.91,0:31:58.51,Default,,0,0,0,,but was rejected and killed by Cao Hong.
-Dialogue: 0,0:31:58.51,0:32:01.27,Default,,0,0,0,,{\blur3}不久 曹操挥师北上
-Dialogue: 0,0:32:01.27,0:32:01.38,Default,,0,0,0,,Soon, Cao Cao sent his troops north
-Dialogue: 0,0:32:01.38,0:32:03.17,Default,,0,0,0,,{\blur3}夺取幽 并二州
-Dialogue: 0,0:32:03.17,0:32:03.28,Default,,0,0,0,,to capture You and Erzhou
-Dialogue: 0,0:32:03.28,0:32:07.25,Default,,0,0,0,,{\blur3}又西击乌桓 追讨袁尚袁熙
-Dialogue: 0,0:32:07.25,0:32:07.52,Default,,0,0,0,, and then attacked Wuhuan in the west, pursued Yuan Shang and Yuan Xi
-Dialogue: 0,0:32:07.52,0:32:11.21,Default,,0,0,0,,{\blur3}为平定北方而做最后一战
-Dialogue: 0,0:32:07.52,0:32:11.21,Default,,0,0,0,,and fought for the final battle to pacify the north.
-Dialogue: 0,0:32:26.44,0:32:28.57,Default,,0,0,0,,{\blur3}奉孝 丞相
-Dialogue: 0,0:32:28.57,0:32:30.57,Default,,0,0,0,,Feng Xiao!  -Prime Minister!
-Dialogue: 0,0:33:46.95,0:33:48.14,Default,,0,0,0,,{\blur3}丞相！
-Dialogue: 0,0:33:48.14,0:33:49.26,Default,,0,0,0,,Prime Minister!
-Dialogue: 0,0:33:49.26,0:33:52.52,Default,,0,0,0,,{\blur3}你我二人易州再会
-Dialogue: 0,0:33:49.26,0:33:52.52,Default,,0,0,0,,You and I will meet again in Yizhou
-Dialogue: 0,0:33:59.90,0:34:01.79,Default,,0,0,0,,{\blur3}丞相
-Dialogue: 0,0:34:09.51,0:34:10.90,Default,,0,0,0,,Prime Minister.
-Dialogue: 0,0:34:17.02,0:34:24.95,Default,,0,0,0,,{\blur3}沙漠难行 须得一识路者为向导
-Dialogue: 0,0:34:17.02,0:34:24.95,Default,,0,0,0,,The desert is hard to pass through. You'll need a guide.
-Dialogue: 0,0:34:41.01,0:34:46.27,Default,,0,0,0,,{\blur3}曹操于白狼山遇袁尚 袁熙会合后
-Dialogue: 0,0:34:41.01,0:34:46.27,Default,,0,0,0,,After Cao Cao met Yuan Shang in Bailang Mountain, he and Yuan Xi reunited.
-Dialogue: 0,0:34:47.15,0:34:51.51,Default,,0,0,0,,{\blur3}蹋顿等率数万骑前来 乘敌不备
-Dialogue: 0,0:34:47.15,0:34:51.51,Default,,0,0,0,,Their massive armies had the advantage on the unwitting enemy force.
-Dialogue: 0,0:34:51.75,0:34:54.58,Default,,0,0,0,,{\blur3}一场突击 杀死蹋顿
-Dialogue: 0,0:34:51.75,0:34:54.58,Default,,0,0,0,,A sudden stampede of death had flown across the battlefield.
-Dialogue: 0,0:34:55.49,0:35:00.59,Default,,0,0,0,,{\blur3}袁尚 袁熙只得引数千骑 投辽东去了
-Dialogue: 0,0:34:55.49,0:35:00.59,Default,,0,0,0,,Yuan Shang, Yuan Xi had to lead thousands of riders to Liaodong.
-Dialogue: 0,0:35:02.26,0:35:05.40,Default,,0,0,0,,{\blur3}曹操回师 到易州时
-Dialogue: 0,0:35:02.26,0:35:05.40,Default,,0,0,0,,When Cao Cao returned to Yizhou,
-Dialogue: 0,0:35:05.57,0:35:09.96,Default,,0,0,0,,{\blur3}郭嘉已死数日 亡年三十八岁
-Dialogue: 0,0:35:05.57,0:35:09.96,Default,,0,0,0,,He learned that Guo Jia had recently passed away at the age of 38.
-Dialogue: 0,0:35:10.07,0:35:13.57,Default,,0,0,0,,{\blur3}从征十有一年
-Dialogue: 0,0:35:10.07,0:35:13.57,Default,,0,0,0,,Fast forward to a year after the enlistment.
-Dialogue: 0,0:36:09.20,0:36:12.66,Default,,0,0,0,,{\blur3}丞相
-Dialogue: 0,0:36:09.20,0:36:12.66,Default,,0,0,0,,Prime Minister.
-Dialogue: 0,0:36:15.90,0:36:17.90,Default,,0,0,0,,{\blur3}丞相终日哀痛于此
-Dialogue: 0,0:36:15.90,0:36:17.90,Default,,0,0,0,,The prime minister has mourned here all day long.
-Dialogue: 0,0:36:19.51,0:36:21.61,Default,,0,0,0,,{\blur3}我等实在不忍
-Dialogue: 0,0:36:19.51,0:36:21.61,Default,,0,0,0,,I can’t bear to wait.
-Dialogue: 0,0:36:23.51,0:36:27.84,Default,,0,0,0,,{\blur3}袁尚 袁熙既投辽东 一时难取啊
-Dialogue: 0,0:36:23.51,0:36:27.84,Default,,0,0,0,,Yuan Shang and Yuan Xi both voted for Liaodong.
-Dialogue: 0,0:36:28.68,0:36:31.01,Default,,0,0,0,,{\blur3}丞相何不先回许都？
-Dialogue: 0,0:36:28.68,0:36:31.01,Default,,0,0,0,,Why didn't the prime minister go back to Xudu first?
-Dialogue: 0,0:36:31.65,0:36:37.45,Default,,0,0,0,,{\blur3}在此耽搁日久 恐怕荆州刘表又生异心
-Dialogue: 0,0:36:31.65,0:36:37.45,Default,,0,0,0,,After a long delay here, I am afraid that Liu Biao in Jingzhou has another strange heart!
-Dialogue: 0,0:36:44.30,0:36:47.66,Default,,0,0,0,,{\blur3}诸公稍待 无须几时
-Dialogue: 0,0:36:44.30,0:36:47.66,Default,,0,0,0,,Hmm! The princes wait for a while, and it doesn't take a long time,
-Dialogue: 0,0:36:49.10,0:36:55.17,Default,,0,0,0,,{\blur3}侯二袁首级送至 即可回兵矣
-Dialogue: 0,0:36:49.10,0:36:55.17,Default,,0,0,0,,when the second yuan's first level is sent to you, you can return to the army!
-Dialogue: 0,0:36:59.05,0:37:00.21,Default,,0,0,0,,{\blur3}丞相
-Dialogue: 0,0:36:59.05,0:37:00.21,Default,,0,0,0,,Prime Minister.
-Dialogue: 0,0:37:03.85,0:37:05.61,Default,,0,0,0,,{\blur3}丞相
-Dialogue: 0,0:37:03.85,0:37:05.61,Default,,0,0,0,,Prime Minister.
-Dialogue: 0,0:37:11.49,0:37:13.25,Default,,0,0,0,,{\blur3}丞相
-Dialogue: 0,0:37:11.49,0:37:13.25,Default,,0,0,0,,Prime Minister.
-Dialogue: 0,0:37:13.26,0:37:15.89,Default,,0,0,0,,{\blur3}辽东公孙康遣人送袁尚
-Dialogue: 0,0:37:13.26,0:37:15.89,Default,,0,0,0,,Gongsun Kang of Liaodong sent people to send Yuan Shang
-Dialogue: 0,0:37:16.00,0:37:17.63,Default,,0,0,0,,{\blur3}袁熙首级而至
-Dialogue: 0,0:37:16.00,0:37:17.63,Default,,0,0,0,,and Yuan Xi to the head.
-Dialogue: 0,0:37:17.76,0:37:19.76,Default,,0,0,0,,{\blur3}啊！这...
-Dialogue: 0,0:37:17.76,0:37:19.76,Default,,0,0,0,,Ah! This...
-Dialogue: 0,0:37:28.27,0:37:31.91,Default,,0,0,0,,{\blur3}果不出奉孝所料
-Dialogue: 0,0:37:28.27,0:37:31.91,Default,,0,0,0,,Not what Feng Xiao expected.
-Dialogue: 0,0:37:43.16,0:37:44.58,Default,,0,0,0,,{\blur3}信
+Dialogue: 0,0:28:06.70,0:28:11.70,Style Names,,0,0,0,,{\fade(255,0,255,0,420,4000,4420)\pos(586.154,323.774)}Chén Lín\NStyled: Kǒngzhāng
+Dialogue: 0,0:28:37.15,0:28:39.12,Default,,0,0,0,,{\pos(353.001,433)}{\i1}The Ducal Minister of Works, Cáo Cāo,
+Dialogue: 0,0:28:39.18,0:28:41.00,Default,,0,0,0,,{\pos(353.001,433)}his grandfather Cáo Teng,
+Dialogue: 0,0:28:42.20,0:28:46.20,Default,,0,0,0,,{\pos(353.001,433)}with the eunuchs, violated the state with depravity.
+Dialogue: 0,0:28:47.50,0:28:53.50,Thinking,,0,0,0,,{\pos(353.001,433)}His father, Cáo Song, the eunuch-adopted groveler,
+Dialogue: 0,0:28:54.20,0:28:58.50,Thinking,,0,0,0,,{\pos(353.001,433)}with his venal false-name, now a briber of the powerful.
+Dialogue: 0,0:28:58.60,0:29:03.40,Thinking,,0,0,0,,{\pos(353.001,433)}[Cáo] Cāo is heir to the ugly, his obscenity inherent.
+Dialogue: 0,0:29:04.00,0:29:06.66,Thinking,,0,0,0,,{\pos(353.001,433)}Wicked and vile, loves only to carnage...
+Dialogue: 0,0:29:06.04,0:29:06.60,Default,,0,0,0,,You...!
+Dialogue: 0,0:29:06.74,0:29:09.34,Default,,0,0,0,,Chancellor, please make him stop!
+Dialogue: 0,0:29:09.84,0:29:11.03,Default,,0,0,0,,Chancellor!
+Dialogue: 0,0:29:15.68,0:29:19.26,Default,,0,0,0,,{\pos(353.001,433)}Read it! Why stop it now?
+Dialogue: 0,0:29:22.53,0:29:25.53,Default,,0,0,0,,{\pos(353.001,433)}When this essay was spread to Xǔdū,
+Dialogue: 0,0:29:25.53,0:29:29.83,Default,,0,0,0,,{\pos(353.001,433)}I suffered migranes and laid ill in bed.
+Dialogue: 0,0:29:30.83,0:29:34.83,Default,,0,0,0,,{\pos(353.001,433)}Reading this text, my senses were opened, my hairs stood on end,
+Dialogue: 0,0:29:35.00,0:29:38.00,Default,,0,0,0,,{\pos(353.001,433)}In a cold sweat, my migranes were gone.
+Dialogue: 0,0:29:38.00,0:29:42.00,Default,,0,0,0,,{\pos(353.001,433)}Hence could I lead a grand army \Nto conquer Liyang, to repel Yuan Shao,
+Dialogue: 0,0:29:42.00,0:29:44.00,Default,,0,0,0,,{\pos(353.001,433)}and fight him to the last man!
+Dialogue: 0,0:29:48.00,0:29:52.80,Default,,0,0,0,,{\pos(353.001,433)}Truly, an essay written like an arrow...
+Dialogue: 0,0:29:54.30,0:29:55.80,Default,,0,0,0,,{\pos(353.001,433)}With this arrow loosened,
+Dialogue: 0,0:29:55.90,0:30:01.44,Default,,0,0,0,,{\pos(353.001,433)}it made corpses of so many able men on the field,
+Dialogue: 0,0:30:01.52,0:30:03.92,Default,,0,0,0,,{\pos(353.001,433)}their souls now in heaven's bosom.
+Dialogue: 0,0:30:04.10,0:30:06.30,Default,,0,0,0,,{\pos(353.001,433)}If I, Cáo Cāo, cannot receive this arrow,
+Dialogue: 0,0:30:06.40,0:30:09.30,Default,,0,0,0,,{\pos(353.001,433)}How could those able men sleep in the earth
+Dialogue: 0,0:30:09.30,0:30:11.30,Default,,0,0,0,,{\pos(353.001,433)}and rest beneath the meadows,
+Dialogue: 0,0:30:11.50,0:30:14.50,Default,,0,0,0,,{\pos(353.001,433)}Like stars shining, these words are radiant.
+Dialogue: 0,0:30:15.20,0:30:16.88,Default,,0,0,0,,{\pos(353.001,433)}If this text wont be read,
+Dialogue: 0,0:30:17.15,0:30:20.95,Default,,0,0,0,,{\pos(353.001,433)}how shall I return this debt of blood to the heavens!?
+Dialogue: 0,0:30:35.95,0:30:39.95,Thinking,,0,0,0,,{\pos(353.001,433)}A war council setup against tyranny (Dong Zhuo),
+Dialogue: 0,0:30:40.00,0:30:43.55,Thinking,,0,0,0,,{\pos(353.001,433)}with drawn swords and beating drums, an order sent out to the East,
+Dialogue: 0,0:30:44.80,0:30:48.40,Thinking,,0,0,0,,{\pos(353.001,433)}to gather all heroes, and absolve their past sins.
+Dialogue: 0,0:30:48.68,0:30:52.30,Thinking,,0,0,0,,{\pos(353.001,433)}Thus would there be unity with Cáo Cāo,
+Dialogue: 0,0:30:52.80,0:30:57.30,Thinking,,0,0,0,,{\pos(353.001,433)}and ally with his ranks. \NWith his skills like hunting-hounds,
+Dialogue: 0,0:30:58.10,0:31:02.30,Thinking,,0,0,0,,{\pos(353.001,433)}would tooth and nail be used. \NYet [Cáo] Cāo domineers in arrogance.
+Dialogue: 0,0:31:02.70,0:31:06.50,Thinking,,0,0,0,,{\pos(353.001,433)}Abusing men and their nation, \Npoisoning people and their souls.
+Dialogue: 0,0:31:08.40,0:31:11.60,Thinking,,0,0,0,,{\pos(353.001,433)}Look through all the annals, \Nof all the consuls most corrupt,
+Dialogue: 0,0:31:11.70,0:31:15.85,Thinking,,0,0,0,,{\pos(353.001,433)}most glutton and hateful, \Nthere stands [Cáo] Cāo worst of all.
+Dialogue: 0,0:31:17.20,0:31:19.90,Thinking,,0,0,0,,{\pos(353.001,433)}Those who bring Cáo Cāo's head,
+Dialogue: 0,0:31:19.99,0:31:24.00,Thinking,,0,0,0,,{\pos(353.001,433)}will be given lands of five thousand households, and a reward of fifty million!
+Dialogue: 0,0:31:25.00,0:31:28.80,Thinking,,0,0,0,,{\pos(353.001,433)}Announcing to all in under heaven, let all men know
+Dialogue: 0,0:31:29.40,0:31:33.90,Thinking,,0,0,0,,{\pos(353.001,433)}of the calamity that befell our holy dynasty. \NThus saith the law.
+Dialogue: 0,0:31:34.39,0:31:36.58,Thinking,,0,0,0,,After Cáo Cāo conquered Jì-Province,
+Dialogue: 0,0:31:36.99,0:31:39.99,Thinking,,0,0,0,, the Yuan brothers continued to war with each other,
+Dialogue: 0,0:31:40.60,0:31:44.36,Thinking,,0,0,0,,causing Yuan Shang to flee to Yōu-Province to join with Yuan Xi.
+Dialogue: 0,0:31:44.38,0:31:48.57,Thinking,,0,0,0,,Yuan Tan had surrendered, \Nyet still wished to retake Jì-Province.
+Dialogue: 0,0:31:48.57,0:31:51.82,Thinking,,0,0,0,,Cáo Cāo was furious and began war against Yuan Tan.
+Dialogue: 0,0:31:51.90,0:31:55.26,Thinking,,0,0,0,,Yuan Tan attempted to surrender to Cáo Cāo again, but was refused,
+Dialogue: 0,0:31:55.31,0:31:57.91,Thinking,,0,0,0,,and was finally killed by Cao Hong in battle.
+Dialogue: 0,0:31:58.51,0:32:03.20,Thinking,,0,0,0,,Soon, Cáo Cāo sent his troops north to capture Yōu- and Bìng-Provinces,
+Dialogue: 0,0:32:03.28,0:32:07.25,Thinking,,0,0,0,,then battled the Wuhuan-tribes in the west, in pursuit of Yuan Shang and Yuan Xi
+Dialogue: 0,0:32:07.52,0:32:11.21,Thinking,,0,0,0,,and fought the final battle to pacify the north.
+Dialogue: 0,0:32:24.62,0:32:28.57,Default,,0,0,0,,- Fèngxiào!  \N- Chancellor!
+Dialogue: 0,0:32:32.02,0:32:37.60,Default,,0,0,0,,{\pos(353.001,443)}You had to go through so much just so we could pacify the desert, and now carry on with illness.
+Dialogue: 0,0:32:39.86,0:32:42.04,Default,,0,0,0,,{\pos(353.001,443)}How I can I forgive myself.
+Dialogue: 0,0:32:43.10,0:32:47.00,Default,,0,0,0,,{\pos(353.001,443)}Chancellor... Your grace...
+Dialogue: 0,0:32:48.80,0:32:53.08,Default,,0,0,0,,{\pos(353.001,443)}... My life can't repay even a fraction of your grace.
+Dialogue: 0,0:32:54.10,0:32:58.28,Default,,0,0,0,,{\pos(353.001,443)}Fengxiao, in these harsh lands,
+Dialogue: 0,0:32:58.92,0:33:01.80,Default,,0,0,0,,{\pos(353.001,443)}if I wanted to return home, how does that sound?
+Dialogue: 0,0:33:03.36,0:33:05.26,Default,,0,0,0,,{\pos(353.001,443)}Armies live on swift action.
+Dialogue: 0,0:33:06.16,0:33:08.60,Default,,0,0,0,,{\pos(353.001,443)}We travel thousand miles to attack,
+Dialogue: 0,0:33:08.76,0:33:11.72,Default,,0,0,0,,{\pos(353.001,443)}but we're lacking in speed due to our heavy supplies.
+Dialogue: 0,0:33:11.84,0:33:16.56,Default,,0,0,0,,{\pos(353.001,443)}We should send light troops to move out and cover ground.
+Dialogue: 0,0:33:24.32,0:33:26.88,Default,,0,0,0,,{\pos(353.001,443)}Fengxiao, your words are pertinent.
+Dialogue: 0,0:33:27.10,0:33:33.18,Default,,0,0,0,,{\pos(353.001,443)}Then, I will lead veteran troops to advance through the back-road
+Dialogue: 0,0:33:34.06,0:33:38.74,Default,,0,0,0,,{\pos(353.001,443)}Let most of the army to return for further orders.
+Dialogue: 0,0:33:38.98,0:33:39.64,Default,,0,0,0,,{\pos(353.001,443)}Fengxiao.
+Dialogue: 0,0:33:41.30,0:33:43.80,Default,,0,0,0,,{\pos(353.001,443)}You should return with them to recover.
+Dialogue: 0,0:33:46.96,0:33:47.94,Default,,0,0,0,,Chancellor!
+Dialogue: 0,0:33:49.26,0:33:52.52,Default,,0,0,0,,We will meet again soon.
+Dialogue: 0,0:33:59.90,0:34:01.32,Default,,0,0,0,,Chancellor.
+Dialogue: 0,0:34:09.51,0:34:10.90,Default,,0,0,0,,Chancellor.
+Dialogue: 0,0:34:17.02,0:34:24.95,Default,,0,0,0,,The desert is hard to pass through. You need a guide.
+Dialogue: 0,0:34:41.01,0:34:46.27,Thinking,,0,0,0,,After Cáo Cāo confronted Yuan Shang and Yuan Xi in Bailang Mountain,
+Dialogue: 0,0:34:47.15,0:34:51.68,Thinking,,0,0,0,,Chief Tàdùn of Wuhuan lead his horsemen on the unwitting enemy force.
+Dialogue: 0,0:34:51.72,0:34:55.28,Thinking,,0,0,0,,In the ensuing onslaught, Tàdùn was killed.
+Dialogue: 0,0:34:55.49,0:35:00.59,Thinking,,0,0,0,,Yuan Shang and Yuan Xi had to retreat with their few remaining cavalry to Liáodōng.
+Dialogue: 0,0:35:02.26,0:35:05.40,Thinking,,0,0,0,,When Cáo Cāo returned to his lands,
+Dialogue: 0,0:35:05.57,0:35:09.96,Thinking,,0,0,0,,Guo Jia had already passed away, at the age of 38.
+Dialogue: 0,0:35:10.07,0:35:13.57,Thinking,,0,0,0,,His service lasted for eleven years.
+Dialogue: 0,0:36:09.20,0:36:10.52,Default,,0,0,0,,Chancellor.
+Dialogue: 0,0:36:10.88,0:36:12.66,Default,,0,0,0,,Chancellor.
+Dialogue: 0,0:36:15.90,0:36:18.26,Default,,0,0,0,,Chancellor has mourned for so long here.
+Dialogue: 0,0:36:19.51,0:36:21.84,Default,,0,0,0,,We worry for you, sir.
+Dialogue: 0,0:36:23.51,0:36:27.84,Default,,0,0,0,,Yuan Shang and Yuan Xi have ceded to Liáodōng. It will be hard to reach them.
+Dialogue: 0,0:36:28.68,0:36:31.64,Default,,0,0,0,,Chancellor, why not return to the capital of Xǔ[chāng]?
+Dialogue: 0,0:36:31.65,0:36:37.45,Default,,0,0,0,,If we stay too long, there's a risk Liú Biǎo in Jīng-Province might grow unruly.
+Dialogue: 0,0:36:44.30,0:36:48.42,Default,,0,0,0,,Gentlemen, a moment please. This won't take long.
+Dialogue: 0,0:36:49.10,0:36:55.17,Default,,0,0,0,,We can return once the Yuan brothers' heads have been delivered
+Dialogue: 0,0:36:59.05,0:37:00.21,Default,,0,0,0,,Chancellor.
+Dialogue: 0,0:37:03.85,0:37:05.61,Default,,0,0,0,,Chancellor.
+Dialogue: 0,0:37:11.49,0:37:13.25,Default,,0,0,0,,Chancellor.
+Dialogue: 0,0:37:13.26,0:37:17.92,Default,,0,0,0,,{\i1}Gōngsūn Kāng {\i0}of Liaodong has sent the heads of Yuan Shang and Yuan Xi.
+Dialogue: 0,0:37:18.02,0:37:19.90,Default,,0,0,0,,What? How...
+Dialogue: 0,0:37:28.27,0:37:32.18,Default,,0,0,0,,Just as Fengxiao predicted.
 Dialogue: 0,0:37:43.16,0:37:44.58,Default,,0,0,0,,A letter.
-Dialogue: 0,0:38:24.56,0:38:26.66,Default,,0,0,0,,{\blur3}对
-Dialogue: 0,0:38:24.56,0:38:26.66,Default,,0,0,0,,Right...
+Dialogue: 0,0:37:54.78,0:37:57.32,Default,,0,0,0,,{\pos(353.001,443)}"Yuan Xi and Yuan Shang will flee to Liaodong."
+Dialogue: 0,0:37:57.76,0:38:00.10,Default,,0,0,0,,{\pos(353.001,443)}"Sire should not send troops to follow."
+Dialogue: 0,0:38:01.24,0:38:05.67,Default,,0,0,0,,{\pos(353.001,443)}Gōngsūn Kāng has feared the unity of the Yuan clan, thus will be suspicious of them.
+Dialogue: 0,0:38:08.08,0:38:13.95,Default,,0,0,0,,{\pos(353.001,443)}Were you to use force and haste, they will match it in unity.
+Dialogue: 0,0:38:14.95,0:38:18.15,Default,,0,0,0,,{\pos(353.001,443)}But if you stalled,  Gongsun Kang and the Yuans...
+Dialogue: 0,0:38:18.66,0:38:22.62,Default,,0,0,0,,{\pos(353.001,443)}They will conspire against one another, as this is their nature.
+Dialogue: 0,0:38:24.76,0:38:26.86,Default,,0,0,0,,Indeed.
+Dialogue: 0,0:38:29.10,0:38:37.47,Default,,0,0,0,,{\pos(353.001,443)}When I returned, Fengxiao's aide gave this letter to me and said:
+Dialogue: 0,0:38:39.11,0:38:41.75,Default,,0,0,0,,{\pos(353.001,443)}“If Chancellor were to follow the letter..."
+Dialogue: 0,0:38:44.00,0:38:47.08,Default,,0,0,0,,{\pos(353.001,443)}"The matter of Liaodong will be solved."
+Dialogue: 0,0:38:58.30,0:39:02.49,Default,,0,0,0,,{\pos(353.001,443)}We are all veterans with many years behind us.
+Dialogue: 0,0:39:04.18,0:39:05.97,Default,,0,0,0,,{\pos(353.001,443)}But Fengxiao was youngest of us.
+Dialogue: 0,0:39:07.77,0:39:09.53,Default,,0,0,0,,{\pos(353.001,443)}He was to be my confidant.
+Dialogue: 0,0:39:11.74,0:39:18.32,Default,,0,0,0,,{\pos(353.001,443)}Yet he was taken so soon, I cannot but grieve.
+Dialogue: 1,0:39:24.76,0:39:26.28,Default,,0,0,0,,{\pos(353.001,443)}Fengxiao is dead.
+Dialogue: 0,0:39:29.13,0:39:31.42,Default,,0,0,0,,{\pos(353.001,443)}O Death, have you seized too soon!
+Dialogue: 0,0:39:48.46,0:39:53.44,Note (Potential style?),,0,0,0,,{\i1}"Gazing at Dark-Blue Sea" (观沧海) by Cáo Cāo
+Dialogue: 0,0:39:48.45,0:39:53.91,Thinking,,0,0,0,,{\bord8}East of Jieshi, I gaze at the blue sea.
+Dialogue: 1,0:39:55.69,0:40:01.45,Thinking,,0,0,0,,{\bord8} The water dances gently, \NThe mountain island towers.
+Dialogue: 1,0:40:02.80,0:40:07.59,Thinking,,0,0,0,,{\bord8}The trees grow thick,\NWhile the grass still lush.
+Dialogue: 1,0:40:08.53,0:40:13.43,Thinking,,0,0,0,,{\bord8}Cold autumn winds blow,\NGreat waves surge forth.
+Dialogue: 1,0:40:14.87,0:40:18.41,Thinking,,0,0,0,,{\bord8}The path of sun and moon,\Nlike cometh from within.
+Dialogue: 1,0:40:18.48,0:40:22.91,Thinking,,0,0,0,,{\bord8}Brilliant band of stars, \NBursting from its depths.
+Dialogue: 1,0:40:23.85,0:40:29.95,Thinking,,0,0,0,,{\bord8}Oh, to have such luck!\NI sing, I shout my ambition.

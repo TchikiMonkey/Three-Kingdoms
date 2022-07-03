@@ -6,76 +6,65 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
-PlayResX: 1440
-PlayResY: 1080
-
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: I:/torrents2/三国演义 HD raws/三国演义 24 跃马檀溪 With Op.mp4
-Video File: I:/torrents2/三国演义 HD raws/三国演义 24 跃马檀溪 With Op.mp4
-Video AR Mode: 4
-Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Scroll Position: 350
-Active Line: 371
-Video Position: 48346
+PlayResX: 1398
+PlayResY: 1076
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Yu Gothic,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,4.29545,0,2,20,20,20,1
-Style: Note (Potential Style),Yu Gothic UI Semibold,47,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,97,0,0,1,3.06819,2.04545,9,20,20,20,1
-Style: Header,Yu Gothic,61,&H0034C0CD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,95,0,0,1,4.09091,2.04545,8,20,20,20,1
-Style: Style Names,Tahoma,49,&H00FDFCFC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,105,110,0,0,1,3.68182,0.204545,5,20,20,20,1
-Style: Title,FZShiMenMingkaiShuS,83,&H000D40E5,&H000019FF,&H00000000,&H00000000,-1,0,0,0,108.854,105,1.01208,0,1,4.09091,2.04545,5,20,20,20,1
-Style: Song,Yu Gothic,50,&H000000FF,&H00FFFFFF,&H00000000,&H00000000,-1,-1,0,0,107,102,0,0,1,4.09091,0.818182,9,20,20,20,1
-Style: Episode Title,Sitka Heading,91,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,110,100,0,0,1,4.04494,5.05618,5,20,20,20,1
-Style: Thinking,Yu Gothic,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,103,103,0,0,1,4.44944,0,2,20,20,20,1
-Style: Note (Potential style?),Yu Gothic UI Semibold,45,&H0018CBDC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,97,0,0,1,3.06818,2.04545,9,20,20,20,1
-Style: Default (small),Yu Gothic,57,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,4.24719,0,2,20,20,20,1
-Style: Default Song version,Yu Gothic,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,107,102,0,0,1,4.65169,3.03371,2,20,20,20,1
-Style: BlackBox,Arial,71,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,20,20,20,1
-Style: That one frame,@FangSong,111,&H00EDEDF2,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,3.03371,2.02247,2,20,20,20,1
+Style: Default,Yu Gothic,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,4.27954,0,2,19,19,20,1
+Style: Note (Potential Style),Yu Gothic UI Semibold,47,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,97,0,0,1,3.05683,2.03787,9,19,19,20,1
+Style: Header,Yu Gothic,61,&H0034C0CD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,95,0,0,1,4.07576,2.03787,8,19,19,20,1
+Style: Style Names,Tahoma,49,&H00FDFCFC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,105,110,0,0,1,3.66818,0.203787,5,19,19,20,1
+Style: Title,FZShiMenMingkaiShuS,83,&H000D40E5,&H000019FF,&H00000000,&H00000000,-1,0,0,0,108.854,105,0.982561,0,1,4.07576,2.03787,5,19,19,20,1
+Style: Song,Yu Gothic,50,&H000000FF,&H00FFFFFF,&H00000000,&H00000000,-1,-1,0,0,107,102,0,0,1,4.07576,0.815152,9,19,19,20,1
+Style: Episode Title,Sitka Heading,91,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,110,100,0,0,1,4.02996,5.03745,5,19,19,20,1
+Style: Thinking,Yu Gothic,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,103,103,0,0,1,4.43296,0,2,19,19,20,1
+Style: Note (Potential style?),Yu Gothic UI Semibold,45,&H0018CBDC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,97,0,0,1,3.05682,2.03787,9,19,19,20,1
+Style: Default (small),Yu Gothic,57,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,4.23146,0,2,19,19,20,1
+Style: Default Song version,Yu Gothic,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,107,102,0,0,1,4.63446,3.02247,2,19,19,20,1
+Style: BlackBox,Arial,71,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,19,19,20,1
+Style: That one frame,@FangSong,111,&H00EDEDF2,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,3.02247,2.01498,2,19,19,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:15.00,0:00:21.10,Header,,0,0,0,,This is a Gentlemen of the Hàn free fansub.
-Dialogue: 0,0:01:14.00,0:01:17.42,Title,,0,0,0,,{\pos(689.367,682.597)}Romance of the Three Kingdoms
+Dialogue: 0,0:01:14.00,0:01:17.42,Title,,0,0,0,,{\pos(669.26,680.069)}Romance of the Three Kingdoms
 Dialogue: 0,0:01:17.20,0:01:26.37,Song,,0,0,0,,{\k78}Gǔn{\k46}gǔn {\k52}cháng{\k53}jiāng {\k111}dōng {\k129}shì {\k448}shuǐ
-Dialogue: 0,0:01:17.20,0:01:26.37,Default Song version,,0,0,0,,The rolling Long River flows eastward,
+Dialogue: 0,0:01:17.20,0:01:26.37,Default Song version,,0,0,0,,On and on the Great River rolls, racing east.
 Dialogue: 0,0:01:26.37,0:01:35.60,Song,,0,0,0,,{\k61}Làng{\k69}huā {\k117}táo {\k107}jǐn {\k105}yīng{\k464}xióng
-Dialogue: 0,0:01:26.37,0:01:35.60,Default Song version,,0,0,0,,flowers wash away like past heroes.
+Dialogue: 0,0:01:26.37,0:01:35.60,Default Song version,,0,0,0,,Of proud and gallant heroes its white-waves leave no trace.
 Dialogue: 0,0:01:35.62,0:01:44.71,Song,,0,0,0,,{\k67}Shì{\k111}fēi {\k76}chéng{\k104}bài {\k129}zhuǎn {\k242}tóu {\k195}kōng
-Dialogue: 0,0:01:35.62,0:01:44.71,Default Song version,,0,0,0,,Their rights and wrongs, victories and defeats,\Nall fade into nothing.
+Dialogue: 0,0:01:35.62,0:01:44.71,Default Song version,,0,0,0,,As right and wrong, glory and fall,\N fade at once into unreal.
 Dialogue: 0,0:01:44.84,0:01:49.11,Song,,0,0,0,,{\k69}Qīng{\k63}shān {\k40}yī{\k80}jiù {\k175}zài
-Dialogue: 0,0:01:44.84,0:01:49.11,Default Song version,,0,0,0,,Yet the verdant hills stand as they did before,
+Dialogue: 0,0:01:44.84,0:01:49.11,Default Song version,,0,0,0,,Yet ever the green hills stay—
 Dialogue: 0,0:01:49.17,0:01:54.73,Song,,0,0,0,,{\k85}Jǐ {\k78}dù {\k58}xī{\k64}yáng {\k271}hóng
-Dialogue: 0,0:01:49.17,0:01:54.73,Default Song version,,0,0,0,,beneath countless rosy sunsets.
+Dialogue: 0,0:01:49.17,0:01:54.73,Default Song version,,0,0,0,,— to blaze in the west-waning day.
 Dialogue: 0,0:02:02.28,0:02:10.60,Song,,0,0,0,,{\k52}Bái {\k71}fà {\k96}yú {\k195}qiáo {\k109}jiāng {\k116}zhǔ {\k193}shàng
-Dialogue: 0,0:02:02.28,0:02:10.60,Default Song version,,0,0,0,,White-haired fisherman and\Nlumberjacks on the banks,
+Dialogue: 0,0:02:02.28,0:02:10.60,Default Song version,,0,0,0,,Fishers and woodsmen comb on the river isles—
 Dialogue: 0,0:02:10.66,0:02:18.46,Song,,0,0,0,,{\k50}Guàn {\k46}kàn {\k102}qiū{\k103}yuè {\k166}chūn{\k313}fēng
-Dialogue: 0,0:02:10.66,0:02:18.46,Default Song version,,0,0,0,,familiarized with the\Nautumn moons and the spring breezes.
+Dialogue: 0,0:02:10.66,0:02:18.46,Default Song version,,0,0,0,,White-crowned, looking on \N the autumn moons and spring breezes.
 Dialogue: 0,0:02:18.64,0:02:27.04,Song,,0,0,0,,{\k74}Yī {\k124}hú {\k120}zhuó {\k114}jiǔ {\k64}xǐ {\k167}xiāng{\k177}féng
-Dialogue: 0,0:02:18.64,0:02:27.04,Default Song version,,0,0,0,,With a turbid bottle of wine, they merrily assemble.
+Dialogue: 0,0:02:18.64,0:02:27.04,Default Song version,,0,0,0,,With a jar of wine, they merrily gather.
 Dialogue: 0,0:02:27.17,0:02:29.97,Song,,0,0,0,,{\k38}Gǔ{\k64}jīn {\k48}duō{\k70}shǎo {\k60}shì
-Dialogue: 0,0:02:27.17,0:02:29.97,Default Song version,,0,0,0,,The countless tales of present and past
+Dialogue: 0,0:02:27.17,0:02:29.97,Default Song version,,0,0,0,,The countless tales of present and past —
 Dialogue: 0,0:02:29.97,0:02:40.82,Song,,0,0,0,,{\k56}Jiē {\k68}fù {\k518}xiào {\k127}tán {\k316}zhōng
-Dialogue: 0,0:02:29.97,0:02:40.82,Default Song version,,0,0,0,,all in their jests.
+Dialogue: 0,0:02:29.97,0:02:40.82,Default Song version,,0,0,0,,— all in their jests.
 Dialogue: 0,0:02:41.24,0:02:49.60,Song,,0,0,0,,{\k81}Yī {\k128}hú {\k135}zhuó {\k103}jiǔ {\k58}xǐ {\k150}xiāng{\k181}féng
-Dialogue: 0,0:02:41.24,0:02:49.60,Default Song version,,0,0,0,,With a turbid bottle of wine, they merrily assemble.
+Dialogue: 0,0:02:41.24,0:02:49.60,Default Song version,,0,0,0,,With a jar of wine, they merrily gather.
 Dialogue: 0,0:02:49.60,0:02:52.73,Song,,0,0,0,,{\k47}Gǔ{\k67}jīn {\k43}duō{\k74}shǎo {\k82}shì
-Dialogue: 0,0:02:49.60,0:02:52.73,Default Song version,,0,0,0,,The countless tales of present and past
+Dialogue: 0,0:02:49.60,0:02:52.73,Default Song version,,0,0,0,,The countless tales of present and past—
 Dialogue: 0,0:02:52.73,0:03:10.17,Song,,0,0,0,,{\k58}Jiē {\k56}fù {\k493}xiào {\k333}tán {\k804}zhōng
-Dialogue: 0,0:02:52.73,0:03:10.17,Default Song version,,0,0,0,,all in their jests.
-Dialogue: 0,0:03:11.36,0:03:15.18,Title,,0,0,0,,{\fade(255,0,255,0,900,3350,4180)\pos(710.476,481.773)}Act 2
-Dialogue: 0,0:03:11.36,0:03:15.18,Title,,0,0,0,,{\fade(255,0,255,0,900,3350,4180)\pos(704.693,822.96)}The Battle of Red Cliffs
-Dialogue: 0,0:03:15.94,0:03:23.46,Episode Title,,0,0,0,,{\fade(255,0,255,0,1220,4000,4800)\pos(720,511.685)}Episode 23
-Dialogue: 0,0:03:15.94,0:03:23.46,Episode Title,,0,0,0,,{\fade(255,0,255,0,1220,4000,4800)\pos(713.864,796.854)}Leap over Tán-Creek
-Dialogue: 0,0:03:17.78,0:03:20.82,Default,,0,0,0,,After unifying the northern realms,
-Dialogue: 0,0:03:20.82,0:03:24.98,Thinking,,0,0,0,,Cao Cao ordered to build "Bronze Sparrow Terrace" on the bank of the Zhang-River —
+Dialogue: 0,0:02:52.73,0:03:10.17,Default Song version,,0,0,0,,— all in their jests.
+Dialogue: 0,0:03:11.36,0:03:15.18,Title,,0,0,0,,{\fade(255,0,255,0,900,3350,4180)\pos(689.754,479.989)}Act 2
+Dialogue: 0,0:03:11.36,0:03:15.18,Title,,0,0,0,,{\fade(255,0,255,0,900,3350,4180)\pos(684.139,819.912)}The Battle of Red Cliffs
+Dialogue: 0,0:03:15.94,0:03:23.46,Episode Title,,0,0,0,,{\fade(255,0,255,0,1220,4000,4800)\pos(699,509.79)}Episode 23
+Dialogue: 0,0:03:15.94,0:03:23.46,Episode Title,,0,0,0,,{\fade(255,0,255,0,1220,4000,4800)\pos(693.043,793.903)}Leap over Tán-Creek
+Dialogue: 0,0:03:17.78,0:03:20.82,Thinking,,0,0,0,,After unifying the northern realms —
+Dialogue: 0,0:03:20.82,0:03:24.98,Thinking,,0,0,0,,— Cao Cao ordered to build "Bronze Sparrow Terrace" on the bank of the Zhang-River —
 Dialogue: 0,0:03:22.68,0:03:28.40,Note (Potential Style),,0,0,0,,Note: "Bronze Sparrow Terrace" (铜雀台) was a real terrace located in Yè-city, Hebei.
 Dialogue: 0,0:03:24.98,0:03:28.74,Thinking,,0,0,0,,— to commemorate his great achievement.
-Dialogue: 0,0:03:28.74,0:03:34.82,Thinking,,0,0,0,,He garrisoned his troops around Xǔchāng and fiefed them land to cultivate, in an effort to build up strength-
-Dialogue: 0,0:03:34.82,0:03:40.00,Thinking,,0,0,0,,— and prepare for his expedition southwards: First to conquer the Jing-Province, then take lands of Wú.
+Dialogue: 0,0:03:28.74,0:03:33.42,Thinking,,0,0,0,,He garrisoned his troops around Xǔchāng and fiefed them land to cultivate, to build up their strength-
+Dialogue: 0,0:03:33.42,0:03:40.00,Thinking,,0,0,0,,— and prepare for his expedition southwards: First to conquer the Jing-Province, then take lands of Wú.
 Dialogue: 0,0:03:40.66,0:03:45.14,Thinking,,0,0,0,,Liu Bei turned to Liu Biao in Jing-Province\Nafter his defeat at Runan.
 Dialogue: 0,0:03:45.34,0:03:48.62,Thinking,,0,0,0,,When Cao Cao warring in the north, \NXǔchāng was weakly defended.
 Dialogue: 0,0:03:48.62,0:03:53.04,Thinking,,0,0,0,,Liu Bei proposed an attack on Xǔchāng several times —
@@ -87,50 +76,50 @@ Dialogue: 0,0:04:06.30,0:04:11.26,Thinking,,0,0,0,,Liu Bei led Guan Yu, Zhang Fe
 Dialogue: 0,0:04:11.26,0:04:15.19,Thinking,,0,0,0,,— and crushed the rebellion of Chen Sun and Zhang Wu.
 Dialogue: 0,0:04:16.54,0:04:17.70,Default,,0,0,0,,My lord!
 Dialogue: 0,0:04:17.70,0:04:19.84,Default,,0,0,0,,Zǐlóng, you truly are a valiant warrior!
-Dialogue: 0,0:04:20.62,0:04:21.78,Style Names,,0,0,0,,{\pos(243.045,703.636)}Zhào Yún \NStyled: Zǐlóng
+Dialogue: 0,0:04:20.62,0:04:21.78,Style Names,,0,0,0,,{\pos(235.956,701.03)}Zhào Yún \NStyled: Zǐlóng
 Dialogue: 0,0:04:28.10,0:04:29.75,Default,,0,0,0,,Good horse!
 Dialogue: 0,0:04:34.30,0:04:37.52,Default,,0,0,0,,Lord Xuande.
 Dialogue: 0,0:04:38.22,0:04:43.10,Default,,0,0,0,,You've done a marvelous job.\NThe rebellion at Jiangxia has been crushed—
-Dialogue: 0,0:04:39.66,0:04:49.64,Style Names,,0,0,0,,{\fade(255,0,255,0,500,3700,4500)\pos(220.773,762.181)}Liú Bèi\N Styled: Xuándé
+Dialogue: 0,0:04:39.66,0:04:49.64,Style Names,,0,0,0,,{\fade(255,0,255,0,500,3700,4500)\pos(214.334,759.358)}Liú Bèi\N Styled: Xuándé
 Dialogue: 0,0:04:43.10,0:04:47.18,Default,,0,0,0,,— and the people can live in peace.\NI must say that all the credit should go to you!
-Dialogue: 0,0:04:45.98,0:04:52.86,Style Names,,0,0,0,,{\fade(255,0,255,0,500,5700,6500)\pos(1216.773,740.181)}Liú Biǎo \NStyled: Jǐngshēng
+Dialogue: 0,0:04:45.98,0:04:52.86,Style Names,,0,0,0,,{\fade(255,0,255,0,500,5700,6500)\pos(1181.284,737.44)}Liú Biǎo \NStyled: Jǐngshēng
 Dialogue: 0,0:04:47.46,0:04:53.45,Default,,0,0,0,,I've prepared a banquet in your honor\Nto celebrate the triumph.
 Dialogue: 0,0:04:53.45,0:04:57.98,Default,,0,0,0,,I serve under your command.\NIt is my duty to repay your kindness with gratitude.
 Dialogue: 0,0:04:57.98,0:04:59.54,Default,,0,0,0,,My brother—
 Dialogue: 0,0:04:59.54,0:05:00.48,Default,,0,0,0,,after you.
 Dialogue: 0,0:05:00.66,0:05:02.39,Default,,0,0,0,,After you, brother Jǐngshēng.
 Dialogue: 0,0:05:08.26,0:05:13.43,Default,,0,0,0,,It's a good horse.\NA great horse.
-Dialogue: 0,0:05:11.84,0:05:13.54,Style Names,,0,0,0,,{\pos(208,744)}Cài Mào\NStyled: Déguī
+Dialogue: 0,0:05:11.84,0:05:13.54,Style Names,,0,0,0,,{\pos(201.933,741.244)}Cài Mào\NStyled: Déguī
 Dialogue: 0,0:05:13.98,0:05:15.48,Default,,0,0,0,,This was Zhang Wu's horse.
 Dialogue: 0,0:05:23.62,0:05:25.48,Default,,0,0,0,,A good horse indeed!
 Dialogue: 0,0:05:25.66,0:05:31.02,Default,,0,0,0,,Brother, since you like this horse this much, \Nthen I'd like to offer it to you!
-Dialogue: 0,0:05:31.02,0:05:32.75,Style Names,,0,0,0,,{\pos(447.955,754.772)}Zhāng Fēi\NStyled: Yìdé
+Dialogue: 0,0:05:31.02,0:05:32.75,Style Names,,0,0,0,,{\pos(434.89,751.977)}Zhāng Fēi\NStyled: Yìdé
 Dialogue: 0,0:05:31.02,0:05:34.11,Default,,0,0,0,,Oh! My brother, that will do!
-Dialogue: 0,0:05:36.61,0:05:40.11,Style Names,,0,0,0,,{\pos(1229.909,702.364)}Guān Yǔ\NStyled: Yúncháng
+Dialogue: 0,0:05:36.61,0:05:40.11,Style Names,,0,0,0,,{\pos(1194.037,699.763)}Guān Yǔ\NStyled: Yúncháng
 Dialogue: 0,0:05:54.80,0:06:03.11,Note (Potential Style),,0,0,0,,Note: The choreography depicts the characters "迎皇叔" or "Welcome, Uncle."
-Dialogue: 0,0:06:33.50,0:06:35.24,Style Names,,0,0,0,,{\pos(1173,677.909)}Yī Jí\NStyled: Jībó
+Dialogue: 0,0:06:33.50,0:06:35.24,Style Names,,0,0,0,,{\pos(1138.787,675.398)}Yī Jí\NStyled: Jībó
 Dialogue: 0,0:06:45.48,0:06:46.62,Default,,0,0,0,,Good.
 Dialogue: 0,0:06:46.62,0:06:47.86,Default,,0,0,0,,Please.
 Dialogue: 0,0:06:47.86,0:06:49.59,Default,,0,0,0,,My brother, please.
-Dialogue: 0,0:06:52.50,0:06:55.92,Default,,0,0,0,,{\pos(715.909,920.455)}With your great talent\NJing-Province can be safe now.
-Dialogue: 0,0:06:55.94,0:06:58.58,Default,,0,0,0,,{\pos(715.909,920.455)}Though the rebellion of Jiangxia has been crushed —
-Dialogue: 0,0:06:58.58,0:07:03.82,Default,,0,0,0,,{\pos(715.909,920.455)}— the nine commanderies and forty-two counties of Jing aren't free from outside disturbances.
-Dialogue: 0,0:07:03.82,0:07:07.63,Default,,0,0,0,,{\pos(715.909,920.455)}\NAttacks and harassments by \Nthe Nanyue are still troubling.
-Dialogue: 0,0:07:08.70,0:07:13.62,Default,,0,0,0,,{\pos(715.909,920.455)}And the strong forces of {\i1}Zhāng Lǔ {\i0}and{\i1} Sūn Quán{\i0}\Nhave only added to my worries.
-Dialogue: 0,0:07:13.62,0:07:17.44,Default,,0,0,0,,{\pos(715.909,920.455)}You don't need to worry,\Nmy three warrior-generals will be enough.
-Dialogue: 0,0:07:17.44,0:07:19.94,Default,,0,0,0,,{\pos(715.909,920.455)}Zhang Fei can guard the southern border along Nanyue.
-Dialogue: 0,0:07:19.94,0:07:24.18,Default,,0,0,0,,{\pos(715.909,920.455)}Guan Yu can defend the city of Guzi \Nto be a deterrent force to Zhang Lu.
-Dialogue: 0,0:07:24.18,0:07:27.90,Default,,0,0,0,,{\pos(715.909,920.455)}And Zhao Yun can patrol {\i1}the Three Rivers{\i0}\N to watch out for Sun Quan.
+Dialogue: 0,0:06:52.50,0:06:55.92,Default,,0,0,0,,{\bord14.265}With your great talent\NJing-Province can be safe now.
+Dialogue: 0,0:06:55.94,0:06:58.58,Default,,0,0,0,,{\bord14.265}Though the rebellion of Jiangxia has been crushed —
+Dialogue: 0,0:06:58.58,0:07:03.82,Default,,0,0,0,,{\bord14.265}— the nine commanderies and forty-two counties of Jing aren't free from outside disturbances.
+Dialogue: 0,0:07:03.82,0:07:07.63,Default,,0,0,0,,{\bord14.265}\NAttacks and harassments by \Nthe Nanyue are still troubling.
+Dialogue: 0,0:07:08.70,0:07:13.62,Default,,0,0,0,,{\bord14.265}And the strong forces of {\i1}Zhāng Lǔ {\i0}and{\i1} Sūn Quán{\i0}\Nhave only added to my worries.
+Dialogue: 0,0:07:13.62,0:07:17.44,Default,,0,0,0,,{\bord14.265}You don't need to worry,\Nmy three warrior-generals will be enough.
+Dialogue: 0,0:07:17.44,0:07:19.94,Default,,0,0,0,,{\bord14.265}Zhang Fei can guard the southern border along Nanyue.
+Dialogue: 0,0:07:19.94,0:07:24.18,Default,,0,0,0,,{\bord14.265}Guan Yu can defend the city of Guzi \Nto be a deterrent force to Zhang Lu.
+Dialogue: 0,0:07:24.18,0:07:27.90,Default,,0,0,0,,{\bord14.265}And Zhao Yun can patrol {\i1}the Three Rivers{\i0}\N to watch out for Sun Quan.
 Dialogue: 0,0:07:24.18,0:07:27.90,Note (Potential style?),,0,0,0,,Note: The Three Rivers aka. Sānjiāng
-Dialogue: 0,0:07:27.90,0:07:29.78,Default,,0,0,0,,{\pos(715.909,920.455)}So brother, are you still worried?
-Dialogue: 0,0:07:29.78,0:07:34.19,Default,,0,0,0,,{\pos(715.909,920.455)}Well in that case, Jing-Province will be safe!
+Dialogue: 0,0:07:27.90,0:07:29.78,Default,,0,0,0,,{\pos(707.983,998.561)}{\bord14.265}So brother, are you still worried?
+Dialogue: 0,0:07:29.78,0:07:34.19,Default,,0,0,0,,{\pos(707.983,998.561)}{\bord14.265}Well in that case, Jing-Province will be safe!
 Dialogue: 0,0:07:37.66,0:07:39.62,Thinking,,0,0,0,,That Liu Bei harbors ill will.
 Dialogue: 0,0:07:39.62,0:07:43.10,Thinking,,0,0,0,,He had to come to Jing-Province after his defeat by Cao Cao.
 Dialogue: 0,0:07:43.10,0:07:45.48,Default,,0,0,0,,He had nowhere else to seek refuge.
 Dialogue: 0,0:07:45.48,0:07:49.78,Default,,0,0,0,,Today he came back in triumph, and tried his best to win the favor of my brother-in-law.
 Dialogue: 0,0:07:49.88,0:07:54.84,Default,,0,0,0,,Now, he managed to appoint three of \Nhis warrior-generals to important posts.
 Dialogue: 0,0:07:54.84,0:07:57.79,Default,,0,0,0,,So, the defense of Jing-Province —
-Dialogue: 0,0:07:55.25,0:07:57.58,Style Names,,0,0,0,,{\pos(263.5,644.319)}Lady Cài
+Dialogue: 0,0:07:55.25,0:07:57.58,Style Names,,0,0,0,,{\pos(255.815,641.933)}Lady Cài
 Dialogue: 0,0:07:58.10,0:08:01.32,Default,,0,0,0,,— has fallen into the hands of Liu Bei and has subordinates?
 Dialogue: 0,0:08:04.10,0:08:08.54,Default,,0,0,0,,Liu Bei's generals are at three key strategic positions, while he himself stays here.
 Dialogue: 0,0:08:09.10,0:08:13.19,Default,,0,0,0,,As I see it, the longer this goes, the more disastrous it will be for us.
@@ -166,27 +155,27 @@ Dialogue: 0,0:10:28.34,0:10:32.39,Default,,0,0,0,,Good horse!\NTruly a good hors
 Dialogue: 0,0:10:38.10,0:10:39.49,Default,,0,0,0,,My lord!
 Dialogue: 0,0:10:39.49,0:10:41.22,Default,,0,0,0,,This horse must not be ridden.
 Dialogue: 0,0:10:41.22,0:10:42.31,Default,,0,0,0,,Why not?
-Dialogue: 0,0:10:44.54,0:10:48.46,Default,,0,0,0,,{\pos(715.909,920.455)}Lord, this horse has "tear tracks" under its eyes
-Dialogue: 0,0:10:48.46,0:10:51.66,Default,,0,0,0,,{\pos(715.909,920.455)}Its name is {\i1}'Dilu'{\i0}. It will harm its rider.
-Dialogue: 0,0:10:51.66,0:10:54.17,Default,,0,0,0,,{\pos(715.909,920.455)}Zhang Wu died because of this horse.
-Dialogue: 0,0:10:54.17,0:10:57.38,Default,,0,0,0,,{\pos(715.909,920.455)}My lord should never ride it.
-Dialogue: 0,0:10:57.38,0:10:59.86,Default,,0,0,0,,{\pos(715.909,920.455)}My lord—
-Dialogue: 0,0:10:59.86,0:11:03.39,Default,,0,0,0,,{\pos(715.909,920.455)}"Dilu" is a good horse indeed.
-Dialogue: 0,0:11:03.74,0:11:08.28,Default,,0,0,0,,{\pos(715.909,920.455)}However, good horses should be used for close combat on the battlefield.
-Dialogue: 0,0:11:08.82,0:11:13.71,Default,,0,0,0,,{\pos(715.909,920.455)}Liu Xuande is a veteran warrior of countless battles.
-Dialogue: 0,0:11:14.30,0:11:18.26,Default,,0,0,0,,{\pos(715.909,920.455)}As the saying goes: \NA treasured horse matches only a gallant warrior.
-Dialogue: 0,0:11:18.26,0:11:25.15,Default,,0,0,0,,{\pos(715.909,920.455)}It will be proper to offer back the horse\Nto its master, Liu Xuande.
+Dialogue: 0,0:10:44.54,0:10:48.46,Default,,0,0,0,,{\pos(707.983,998.561)}{\bord14.265}Lord, this horse has "tear tracks" under its eyes
+Dialogue: 0,0:10:48.46,0:10:51.66,Default,,0,0,0,,{\pos(707.983,998.561)}{\bord14.265}Its name is {\i1}'Dilu'{\i0}. It will harm its rider.
+Dialogue: 0,0:10:51.66,0:10:54.17,Default,,0,0,0,,{\pos(707.983,998.561)}{\bord14.265}Zhang Wu died because of this horse.
+Dialogue: 0,0:10:54.17,0:10:57.38,Default,,0,0,0,,{\pos(707.983,998.561)}{\bord14.265}My lord should never ride it.
+Dialogue: 0,0:10:57.38,0:10:59.86,Default,,0,0,0,,{\pos(707.983,998.561)}{\bord14.265}My lord—
+Dialogue: 0,0:10:59.86,0:11:03.39,Default,,0,0,0,,{\pos(707.983,998.561)}{\bord14.265}"Dilu" is a good horse indeed.
+Dialogue: 0,0:11:03.74,0:11:08.28,Default,,0,0,0,,{\bord14.265}However, good horses should be used for close combat on the battlefield.
+Dialogue: 0,0:11:08.82,0:11:13.71,Default,,0,0,0,,{\bord14.265}Liu Xuande is a veteran warrior of countless battles.
+Dialogue: 0,0:11:14.30,0:11:18.26,Default,,0,0,0,,{\bord14.265}As the saying goes: \NA treasured horse matches only a gallant warrior.
+Dialogue: 0,0:11:18.26,0:11:25.15,Default,,0,0,0,,{\bord14.265}It will be proper to offer back the horse\Nto its master, Liu Xuande.
 Dialogue: 0,0:11:31.10,0:11:32.92,Default,,0,0,0,,My brother.
 Dialogue: 0,0:11:35.14,0:11:37.30,Default,,0,0,0,,What have you come here for, my brother?
 Dialogue: 0,0:11:37.94,0:11:42.82,Default,,0,0,0,,I've been sitting all day doing nothing, \Nso I've come here to practice riding to pass the time.
-Dialogue: 0,0:11:43.60,0:11:46.06,Default,,0,0,0,,{\pos(715.909,920.455)}If you find days dragging on—
-Dialogue: 0,0:11:46.34,0:11:51.54,Default,,0,0,0,,{\pos(715.909,920.455)}— you could lead your troops to {\i1}Xinye County{\i0} in {\i1}Xiāngyáng{\i0}, and station them there for the moment.
-Dialogue: 0,0:11:51.54,0:11:55.16,Default,,0,0,0,,{\pos(715.909,920.455)}It's a prosperous place with ample provisions to support a battalion.
-Dialogue: 0,0:11:55.16,0:12:02.15,Default,,0,0,0,,{\pos(715.909,920.455)}Besides, staying still for too long would only be a waste of your martial talents.
-Dialogue: 0,0:12:03.46,0:12:06.39,Default,,0,0,0,,{\pos(715.909,920.455)}Good idea.
-Dialogue: 0,0:12:06.82,0:12:10.11,Default,,0,0,0,,{\pos(715.909,920.455)}I'm grateful for that great steed you gave me the other day—
-Dialogue: 0,0:12:10.11,0:12:15.48,Default,,0,0,0,,{\pos(715.909,920.455)}— but you are a soldier, fighting on the battlefield. You need a great steed.
-Dialogue: 0,0:12:15.70,0:12:22.38,Default,,0,0,0,,{\pos(715.909,920.455)}I shouldn't have taken the horse away from you.\NSo I give it back to you now.
+Dialogue: 0,0:11:43.60,0:11:46.06,Default,,0,0,0,,{\pos(707.983,998.561)}{\bord14.265}If you find days dragging on—
+Dialogue: 0,0:11:46.34,0:11:51.54,Default,,0,0,0,,{\bord14.318}— you could lead your troops to {\i1}Xinye County{\i0} in {\i1}Xiāngyáng{\i0}, and station them there for the moment.
+Dialogue: 0,0:11:51.54,0:11:55.16,Default,,0,0,0,,{\bord14.265}It's a prosperous place with ample provisions to support a battalion.
+Dialogue: 0,0:11:55.16,0:12:02.15,Default,,0,0,0,,{\bord14.265}Besides, staying still for too long would only be a waste of your martial talents.
+Dialogue: 0,0:12:03.46,0:12:06.39,Default,,0,0,0,,{\bord14.265}{\pos(707.983,998.561)}Good idea.
+Dialogue: 0,0:12:06.82,0:12:10.11,Default,,0,0,0,,{\bord14.265}I'm grateful for that great steed you gave me the other day—
+Dialogue: 0,0:12:10.11,0:12:15.48,Default,,0,0,0,,{\bord14.265}— but you are a soldier, fighting on the battlefield. You need a great steed.
+Dialogue: 0,0:12:15.70,0:12:22.38,Default,,0,0,0,,{\bord14.265}I shouldn't have taken the horse away from you.\NSo I give it back to you now.
 Dialogue: 0,0:12:22.98,0:12:26.67,Default,,0,0,0,,In that case, I can't but take the horse back.
 Dialogue: 0,0:12:32.62,0:12:34.23,Default,,0,0,0,,Many thanks, my brother.
 Dialogue: 0,0:12:41.30,0:12:44.39,Default,,0,0,0,,Excuse me, Lord Xuande.
@@ -197,21 +186,21 @@ Dialogue: 0,0:12:59.14,0:13:02.95,Default,,0,0,0,,General, this horse must not b
 Dialogue: 0,0:13:04.64,0:13:06.74,Default,,0,0,0,,Please tell me the reason.
 Dialogue: 0,0:13:07.22,0:13:11.68,Default,,0,0,0,,You gave it to Lord Liu Biao, didn't you?
 Dialogue: 0,0:13:11.86,0:13:13.66,Default,,0,0,0,,Well, he has returned it to me.
-Dialogue: 0,0:13:14.68,0:13:17.24,Default,,0,0,0,,{\pos(715.909,920.455)}That is because Kuǎi Yuè told Lord Liu Biao  —
-Dialogue: 0,0:13:17.78,0:13:21.22,Default,,0,0,0,,{\pos(715.909,920.455)}that this horse is named "Dilu" and it will harm its rider.
-Dialogue: 0,0:13:21.40,0:13:27.35,Default,,0,0,0,,{\pos(715.909,920.455)}That's why Lord Liu Biao returned the horse\Nback to you. How can you ride it again?
-Dialogue: 0,0:13:31.18,0:13:34.72,Default,,0,0,0,,{\pos(715.909,920.455)}Thank you for your kindness, I did not know that.
-Dialogue: 0,0:13:35.02,0:13:40.48,Default,,0,0,0,,{\pos(715.909,920.455)}However, everyone has his destiny. How can a horse change it?
-Dialogue: 0,0:13:40.48,0:13:42.30,Default,,0,0,0,,{\pos(715.909,920.455)}Well said.
-Dialogue: 0,0:13:42.30,0:13:45.15,Default,,0,0,0,,{\pos(715.909,920.455)}You're known as a kindhearted and righteous man.
-Dialogue: 0,0:13:45.86,0:13:50.48,Default,,0,0,0,,{\pos(715.909,920.455)}If you don't mind,\NI'd like to pay a visit to you at Xinye some day.
+Dialogue: 0,0:13:14.68,0:13:17.24,Default,,0,0,0,,{\bord14.265}{\pos(707.983,998.561)}That is because Kuǎi Yuè told Lord Liu Biao  —
+Dialogue: 0,0:13:17.78,0:13:21.22,Default,,0,0,0,,{\bord14.265}that this horse is named "Dilu" and it will harm its rider.
+Dialogue: 0,0:13:21.40,0:13:27.35,Default,,0,0,0,,{\bord14.265}That's why Lord Liu Biao returned the horse\Nback to you. How can you ride it again?
+Dialogue: 0,0:13:31.18,0:13:34.72,Default,,0,0,0,,{\bord14.265}{\pos(707.983,998.561)}Thank you for your kindness, I did not know that.
+Dialogue: 0,0:13:35.02,0:13:40.48,Default,,0,0,0,,{\bord14.265}However, everyone has his destiny. How can a horse change it?
+Dialogue: 0,0:13:40.48,0:13:42.30,Default,,0,0,0,,{\bord14.265}{\pos(707.983,998.561)}Well said.
+Dialogue: 0,0:13:42.30,0:13:45.15,Default,,0,0,0,,{\bord14.265}{\pos(707.983,998.561)}You're known as a kindhearted and righteous man.
+Dialogue: 0,0:13:45.86,0:13:50.48,Default,,0,0,0,,{\bord14.265}If you don't mind,\NI'd like to pay a visit to you at Xinye some day.
 Dialogue: 0,0:13:51.38,0:13:54.33,Default,,0,0,0,,Thank you, you're flattering me.
 Dialogue: 0,0:13:54.33,0:13:56.52,Default,,0,0,0,,You're welcome at my place any time.
 Dialogue: 0,0:13:56.52,0:13:59.79,Default,,0,0,0,,You are so kind.\NGoodbye.
 Dialogue: 0,0:14:47.30,0:14:52.20,Default,,0,0,0,,A few days ago, Lady Gān dreamed that she had swallowed the stars of the Big Dipper.
 Dialogue: 0,0:14:52.20,0:14:55.48,Default,,0,0,0,,Lord, this is a good omen!
 Dialogue: 0,0:14:51.88,0:14:57.10,Note (Potential Style),,0,0,0,,Note: The turtle-shells and sticks on Sun Qian's table are part of historical Chinese divination.
-Dialogue: 0,0:14:53.74,0:14:58.41,Style Names,,0,0,0,,{\pos(1201.364,703.681)}Sūn Qián\NStyled: Gōngyòu
+Dialogue: 0,0:14:53.74,0:14:58.41,Style Names,,0,0,0,,{\pos(1166.324,701.075)}Sūn Qián\NStyled: Gōngyòu
 Dialogue: 0,0:14:55.48,0:14:59.03,Default,,0,0,0,,The baby to be born\Nmust be a man of great expectation.
 Dialogue: 0,0:15:16.22,0:15:17.64,Default,,0,0,0,,Is this a good omen?
 Dialogue: 0,0:15:18.10,0:15:18.78,Default,,0,0,0,,For certain!
@@ -238,48 +227,48 @@ Dialogue: 0,0:16:52.14,0:16:56.84,Default,,0,0,0,,My brother, I see you are gett
 Dialogue: 0,0:16:59.46,0:17:08.59,Default,,0,0,0,,You are better than me.\NI have no one to talk to about my worries.
 Dialogue: 0,0:17:10.48,0:17:14.92,Default,,0,0,0,,What a shame.
 Dialogue: 0,0:17:16.42,0:17:21.95,Default,,0,0,0,,Don't worry.\NIf there is anything the matter, you can just tell me.
-Dialogue: 0,0:17:24.54,0:17:30.48,Default,,0,0,0,,{\pos(715.909,920.455)}Cao Cao is in the capital of Xǔ with his soldiers back from his northern conquests.
-Dialogue: 0,0:17:32.06,0:17:34.52,Default,,0,0,0,,{\pos(715.909,920.455)}The Yuán clan of Hebei have all been eliminated —
-Dialogue: 0,0:17:34.58,0:17:38.54,Default,,0,0,0,,{\pos(715.909,920.455)}— Cao Cao must have already begun planning to taking over the Jing-Province.
-Dialogue: 0,0:17:38.98,0:17:45.99,Default,,0,0,0,,{\pos(715.909,920.455)}Back then, I didn't heed your advice and attack Cao Cao while he was away.
-Dialogue: 0,0:17:45.99,0:17:53.55,Default,,0,0,0,,{\pos(715.909,920.455)}I lost a good opportunity. Now how much I regret!
-Dialogue: 0,0:17:54.42,0:17:58.31,Default,,0,0,0,,{\pos(715.909,920.455)}My brother, there is no need to worry.
-Dialogue: 0,0:17:58.31,0:18:02.16,Default,,0,0,0,,{\pos(715.909,920.455)}Right now, the Empire is still in disarray.\NWar breaks out everyday.
-Dialogue: 0,0:18:02.16,0:18:06.31,Default,,0,0,0,,{\pos(715.909,920.455)}There will be other opportunities.
-Dialogue: 0,0:18:11.46,0:18:14.38,Default,,0,0,0,,{\pos(715.909,920.455)}Brother, why are you so sad?
-Dialogue: 0,0:18:14.38,0:18:22.72,Default,,0,0,0,,{\pos(715.909,920.455)} I have been trying to tell you my worries.\NBut I have never had a chance.
-Dialogue: 0,0:18:24.18,0:18:29.99,Default,,0,0,0,,{\pos(715.909,920.455)} You don't have to worry.\NIf I am of any help to you —
-Dialogue: 0,0:18:30.48,0:18:34.15,Default,,0,0,0,,{\pos(715.909,920.455)}— By hook or by crook, I will do anything for you.
-Dialogue: 0,0:18:35.14,0:18:39.77,Default,,0,0,0,,{\pos(715.909,920.455)}I am worried about my two sons.
-Dialogue: 0,0:18:39.77,0:18:43.46,Default,,0,0,0,,{\pos(715.909,920.455)}My former wife gave birth to my first son, {\i1}Liú Qí.{\i0}
-Dialogue: 0,0:18:43.46,0:18:49.24,Default,,0,0,0,,{\pos(715.909,920.455)}He is virtuous, but too weak and timid to manage the state affairs.
-Dialogue: 0,0:18:50.14,0:18:53.54,Default,,0,0,0,,{\pos(715.909,920.455)}My second wife gave birth to my younger son,{\i1} Liú Cóng.{\i0}
-Dialogue: 0,0:18:53.54,0:18:57.51,Default,,0,0,0,,{\pos(715.909,920.455)}He's a bright boy, I like him very much.
-Dialogue: 0,0:18:58.52,0:19:01.36,Default,,0,0,0,,{\pos(715.909,920.455)}If I set aside the elder and make the younger my successor.
-Dialogue: 0,0:19:01.42,0:19:03.87,Default,,0,0,0,,{\pos(715.909,920.455)}I'd be going against the way of things.
-Dialogue: 0,0:19:05.82,0:19:11.99,Default,,0,0,0,,{\pos(715.909,920.455)}If I name the elder as my successor,\Nwhat can I do with the Cài Family?
-Dialogue: 0,0:19:12.42,0:19:15.48,Default,,0,0,0,,{\pos(715.909,920.455)}The military power in Jing-Province is in their hands —
-Dialogue: 0,0:19:15.48,0:19:18.31,Default,,0,0,0,,{\pos(715.909,920.455)}— and they are sure to cause trouble in the future.
-Dialogue: 0,0:19:19.98,0:19:26.03,Default,,0,0,0,,{\pos(715.909,920.455)}That's why I'm wavering and can't make the decision, my brother.
-Dialogue: 0,0:19:30.48,0:19:35.18,Default,,0,0,0,,{\pos(715.909,920.455)}This is a matter of your family. \NIt needs to be considered carefully.
-Dialogue: 0,0:19:35.18,0:19:38.10,Default,,0,0,0,,{\pos(715.909,920.455)}My interference would be improper.
-Dialogue: 0,0:19:38.10,0:19:43.27,Default,,0,0,0,,{\pos(715.909,920.455)}We're just like brothers.\NI hope you'll speak without reservations.
-Dialogue: 0,0:19:47.86,0:19:55.20,Default,,0,0,0,,{\pos(715.909,920.455)}Choosing the successor is of extreme importance. One should never act impetuously.
-Dialogue: 0,0:19:55.66,0:20:00.98,Default,,0,0,0,,{\pos(715.909,920.455)}Since the ancient times, removing the elder and choosing the younger—
-Dialogue: 0,0:20:01.00,0:20:04.03,Default,,0,0,0,,{\pos(715.909,920.455)}—has been the source of disaster. Endless trouble will follow.
-Dialogue: 0,0:20:12.26,0:20:18.93,Default,,0,0,0,,{\pos(715.909,920.455)}If you're worried about the Cai-clan's power,\Nyou could reduce it a bit at a time.
-Dialogue: 0,0:20:19.24,0:20:23.83,Default,,0,0,0,,{\pos(715.909,920.455)}You can't make the younger the successor only because you dote on him.
-Dialogue: 0,0:20:29.42,0:20:33.54,Default,,0,0,0,,{\pos(715.909,920.455)}The days and months are slipping by, and I'm becoming old.
-Dialogue: 0,0:20:33.54,0:20:36.11,Default,,0,0,0,,{\pos(715.909,920.455)}But my great deeds are still to be accomplished...
-Dialogue: 0,0:20:38.46,0:20:41.66,Default,,0,0,0,,{\pos(715.909,920.455)}I hear that while you were in Xǔchāng —
-Dialogue: 0,0:20:41.66,0:20:46.37,Default,,0,0,0,,{\pos(715.909,920.455)}—you and Cao Cao talked about heroes over green plums and wine.
-Dialogue: 0,0:20:46.37,0:20:49.54,Default,,0,0,0,,{\pos(715.909,920.455)}You proposed many famous men of our present time —
-Dialogue: 0,0:20:49.54,0:20:56.83,Default,,0,0,0,,{\pos(715.909,920.455)}—but Cao Cao just said that: 'There are only two heroes of these lands, you and himself.'
-Dialogue: 0,0:20:57.70,0:21:03.27,Default,,0,0,0,,{\pos(715.909,920.455)}With all his power and influence，\NCao Cao didn't place himself before you.
-Dialogue: 0,0:21:04.58,0:21:08.83,Default,,0,0,0,,{\pos(715.909,920.455)}Why do you have to worry about great deeds?
-Dialogue: 0,0:21:14.02,0:21:17.07,Default,,0,0,0,,{\pos(715.909,920.455)}My only hurdle is that I don't have any armies or land.
-Dialogue: 0,0:21:17.07,0:21:19.34,Default,,0,0,0,,{\pos(715.909,920.455)}To tell you the truth—
-Dialogue: 0,0:21:19.34,0:21:24.83,Default,,0,0,0,,{\pos(715.909,920.455)}— if I had a real solid base, the lesser men of the world are indeed not worth worrying over!
+Dialogue: 0,0:17:24.54,0:17:30.48,Default,,0,0,0,,{\bord14.265}Cao Cao is in the capital of Xǔ with his soldiers back from his northern conquests.
+Dialogue: 0,0:17:32.06,0:17:34.52,Default,,0,0,0,,{\bord14.265}{\pos(707.983,998.561)}The Yuán clan of Hebei have all been eliminated —
+Dialogue: 0,0:17:34.58,0:17:38.54,Default,,0,0,0,,{\bord14.265}— Cao Cao must have already begun planning to taking over the Jing-Province.
+Dialogue: 0,0:17:38.98,0:17:45.99,Default,,0,0,0,,{\bord14.265}Back then, I didn't heed your advice and attack Cao Cao while he was away.
+Dialogue: 0,0:17:45.99,0:17:53.55,Default,,0,0,0,,{\bord14.265}{\pos(707.983,998.561)}I lost a good opportunity. Now how much I regret!
+Dialogue: 0,0:17:54.42,0:17:58.31,Default,,0,0,0,,{\bord14.265}{\pos(707.983,998.561)}My brother, there is no need to worry.
+Dialogue: 0,0:17:58.31,0:18:02.16,Default,,0,0,0,,{\bord14.265}Right now, the Empire is still in disarray.\NWar breaks out everyday.
+Dialogue: 0,0:18:02.16,0:18:06.31,Default,,0,0,0,,{\bord14.265}{\pos(707.983,998.561)}There will be other opportunities.
+Dialogue: 0,0:18:11.46,0:18:14.38,Default,,0,0,0,,{\bord14.265}{\pos(707.983,998.561)}Brother, why are you so sad?
+Dialogue: 0,0:18:14.38,0:18:22.72,Default,,0,0,0,,{\bord14.265} I have been trying to tell you my worries.\NBut I have never had a chance.
+Dialogue: 0,0:18:24.18,0:18:29.99,Default,,0,0,0,,{\bord14.265} You don't have to worry.\NIf I am of any help to you —
+Dialogue: 0,0:18:30.48,0:18:34.15,Default,,0,0,0,,{\bord14.265}{\pos(707.983,998.561)}— By hook or by crook, I will do anything for you.
+Dialogue: 0,0:18:35.14,0:18:39.77,Default,,0,0,0,,{\bord14.265}{\pos(707.983,998.561)}I am worried about my two sons.
+Dialogue: 0,0:18:39.77,0:18:43.46,Default,,0,0,0,,{\bord14.265}{\pos(707.983,998.561)}My former wife gave birth to my first son, {\i1}Liú Qí.{\i0}
+Dialogue: 0,0:18:43.46,0:18:49.24,Default,,0,0,0,,{\bord14.265}He is virtuous, but too weak and timid to manage the state affairs.
+Dialogue: 0,0:18:50.14,0:18:53.54,Default,,0,0,0,,{\bord14.265}My second wife gave birth to my younger son,{\i1} Liú Cóng.{\i0}
+Dialogue: 0,0:18:53.54,0:18:57.51,Default,,0,0,0,,{\bord14.265}{\pos(707.983,998.561)}He's a bright boy, I like him very much.
+Dialogue: 0,0:18:58.52,0:19:01.36,Default,,0,0,0,,{\bord14.265}If I set aside the elder and make the younger my successor.
+Dialogue: 0,0:19:01.42,0:19:03.87,Default,,0,0,0,,{\bord14.265}{\pos(707.983,998.561)}I'd be going against the way of things.
+Dialogue: 0,0:19:05.82,0:19:11.99,Default,,0,0,0,,{\bord14.265}If I name the elder as my successor,\Nwhat can I do with the Cài Family?
+Dialogue: 0,0:19:12.42,0:19:15.48,Default,,0,0,0,,{\bord14.265}The military power in Jing-Province is in their hands —
+Dialogue: 0,0:19:15.48,0:19:18.31,Default,,0,0,0,,{\bord14.265}{\pos(707.983,998.561)}— and they are sure to cause trouble in the future.
+Dialogue: 0,0:19:19.98,0:19:26.03,Default,,0,0,0,,{\bord14.265}That's why I'm wavering and can't make the decision, my brother.
+Dialogue: 0,0:19:30.48,0:19:35.18,Default,,0,0,0,,{\bord14.265}This is a matter of your family. \NIt needs to be considered carefully.
+Dialogue: 0,0:19:35.18,0:19:38.10,Default,,0,0,0,,{\bord14.265}{\pos(707.983,998.561)}My interference would be improper.
+Dialogue: 0,0:19:38.10,0:19:43.27,Default,,0,0,0,,{\bord14.265}We're just like brothers.\NI hope you'll speak without reservations.
+Dialogue: 0,0:19:47.86,0:19:55.20,Default,,0,0,0,,{\bord14.265}Choosing the successor is of extreme importance. One should never act impetuously.
+Dialogue: 0,0:19:55.66,0:20:00.98,Default,,0,0,0,,{\bord14.265}Since the ancient times, removing the elder and choosing the younger—
+Dialogue: 0,0:20:01.00,0:20:04.03,Default,,0,0,0,,{\bord14.265}—has been the source of disaster. Endless trouble will follow.
+Dialogue: 0,0:20:12.26,0:20:18.93,Default,,0,0,0,,{\bord14.265}If you're worried about the Cai-clan's power,\Nyou could reduce it a bit at a time.
+Dialogue: 0,0:20:19.24,0:20:23.83,Default,,0,0,0,,{\bord14.265}You can't make the younger the successor only because you dote on him.
+Dialogue: 0,0:20:29.42,0:20:33.54,Default,,0,0,0,,{\bord14.265}The days and months are slipping by, and I'm becoming old.
+Dialogue: 0,0:20:33.54,0:20:36.11,Default,,0,0,0,,{\bord14.265}{\pos(707.983,998.561)}But my great deeds are still to be accomplished...
+Dialogue: 0,0:20:38.46,0:20:41.66,Default,,0,0,0,,{\bord14.265}{\pos(707.983,998.561)}I hear that while you were in Xǔchāng —
+Dialogue: 0,0:20:41.66,0:20:46.37,Default,,0,0,0,,{\bord14.265}—you and Cao Cao talked about heroes over green plums and wine.
+Dialogue: 0,0:20:46.37,0:20:49.54,Default,,0,0,0,,{\bord14.318}You proposed many famous men of our present time —
+Dialogue: 0,0:20:49.54,0:20:56.83,Default,,0,0,0,,{\bord14.265}—but Cao Cao just said that: 'There are only two heroes of these lands, you and himself.'
+Dialogue: 0,0:20:57.70,0:21:03.27,Default,,0,0,0,,{\bord14.265}With all his power and influence，\NCao Cao didn't place himself before you.
+Dialogue: 0,0:21:04.58,0:21:08.83,Default,,0,0,0,,{\bord14.265}{\pos(707.983,998.561)}Why do you have to worry about great deeds?
+Dialogue: 0,0:21:14.02,0:21:17.07,Default,,0,0,0,,{\bord14.265}My only hurdle is that I don't have any armies or land.
+Dialogue: 0,0:21:17.07,0:21:19.34,Default,,0,0,0,,{\bord14.265}{\pos(707.983,998.561)}To tell you the truth—
+Dialogue: 0,0:21:19.34,0:21:24.83,Default,,0,0,0,,{\bord14.265}— if I had a real solid base, the lesser men of the world are indeed not worth worrying over!
 Dialogue: 0,0:21:30.82,0:21:33.56,Default,,0,0,0,,Please, my brother.
 Dialogue: 0,0:21:34.24,0:21:37.86,Default,,0,0,0,,Tonight at midnight,\NI will send men to surround Liu Bei's guest-house.
 Dialogue: 0,0:21:37.86,0:21:40.42,Default,,0,0,0,,We'll kill him first and then tell my brother-in-law.
@@ -306,10 +295,10 @@ Dialogue: 0,0:22:43.06,0:22:44.55,Default,,0,0,0,,There's nobody inside!
 Dialogue: 0,0:22:47.54,0:22:50.26,Default,,0,0,0,,Who leaked our plans?\NLiu Bei must have gotten away!
 Dialogue: 0,0:22:50.30,0:22:51.26,Default,,0,0,0,,After him!
 Dialogue: 0,0:22:51.50,0:22:52.80,Default,,0,0,0,,Roger!
-Dialogue: 0,0:23:07.78,0:23:10.50,Thinking,,0,0,0,,{\pos(715.909,920.455)}"Too long, far too long. I have been stuck—
-Dialogue: 0,0:23:10.50,0:23:14.02,Thinking,,0,0,0,,{\pos(715.909,920.455)}—gazing at the old mountains and rivers day by day.
-Dialogue: 0,0:23:14.02,0:23:16.22,Thinking,,0,0,0,,{\pos(715.909,920.455)}A dragon can never be kept in a pond—
-Dialogue: 0,0:23:16.22,0:23:18.88,Thinking,,0,0,0,,{\pos(715.909,920.455)}—he should ride on the thunder to heaven and beyond."
+Dialogue: 0,0:23:07.78,0:23:10.50,Thinking,,0,0,0,,{\bord14.265}{\pos(707.983,998.561)}"Too long, far too long. I have been stuck—
+Dialogue: 0,0:23:10.50,0:23:14.02,Thinking,,0,0,0,,{\bord14.265}{\pos(707.983,998.561)}—gazing at the old mountains and rivers day by day.
+Dialogue: 0,0:23:14.02,0:23:16.22,Thinking,,0,0,0,,{\bord14.265}{\pos(707.983,998.561)}A dragon can never be kept in a pond—
+Dialogue: 0,0:23:16.22,0:23:18.88,Thinking,,0,0,0,,{\bord14.265}—he should ride on the thunder to heaven and beyond."
 Dialogue: 0,0:23:22.06,0:23:26.52,Default,,0,0,0,,I will kill this ingrate!
 Dialogue: 0,0:23:48.02,0:23:50.48,Default,,0,0,0,,I have been with Xuande quite some time.
 Dialogue: 0,0:23:51.70,0:23:53.95,Default,,0,0,0,,I've never seen him write poems.
@@ -335,7 +324,7 @@ Dialogue: 0,0:25:55.82,0:25:58.74,Default,,0,0,0,,That's why I am asked to presi
 Dialogue: 0,0:26:02.66,0:26:06.61,Default,,0,0,0,,The other day, you returned in a hurry from Jing-Province, disturbed.
 Dialogue: 0,0:26:06.61,0:26:10.27,Default,,0,0,0,,I think something must have gone wrong in Jing-Province.
 Dialogue: 0,0:26:10.27,0:26:13.66,Default,,0,0,0,,You shouldn't go to this festival without preparation.
-Dialogue: 0,0:26:28.22,0:26:33.76,Default,,0,0,0,,When Brother Jingsheng and I had a drink, I made an indiscreet remark under the influence of alcohol.
+Dialogue: 0,0:26:28.22,0:26:33.76,Default,,0,0,0,,When Brother Jingsheng and I had a drink, I made an indiscreet remark
 Dialogue: 0,0:26:34.34,0:26:38.11,Default,,0,0,0,,But Brother Jingsheng didn't blame me.
 Dialogue: 0,0:26:39.46,0:26:43.19,Default,,0,0,0,,Only Lady Cai and Cai Mao tried to murder me.
 Dialogue: 0,0:26:47.10,0:26:52.27,Default,,0,0,0,,Thanks to Yi Ji's timely warning,\NI was able to escape to Xīnyě before dawn.
@@ -360,12 +349,12 @@ Dialogue: 0,0:28:07.76,0:28:09.82,Default,,0,0,0,,Those who disobey will be put 
 Dialogue: 0,0:28:09.30,0:28:10.48,Default,,0,0,0,,Yes, sir!
 Dialogue: 0,0:28:13.70,0:28:15.14,Default,,0,0,0,,General.
 Dialogue: 0,0:28:17.10,0:28:21.99,Default,,0,0,0,,General. Seeing your actions,\NI feel something is going to happen.
-Dialogue: 0,0:28:24.14,0:28:26.59,Default,,0,0,0,,Liu Bei is a {\i1}'Xiāoxióng' {\i0}of our time.
-Dialogue: 0,0:28:24.14,0:28:29.74,Note (Potential Style),,0,0,0,,Note: "Xiāoxióng"(枭雄) is a term used for fierce, ambitious and formidable "great men" of history.
+Dialogue: 0,0:28:24.14,0:28:26.59,Default,,0,0,0,,Liu Bei is a 'mighty raptor' of our time.
+Dialogue: 0,0:28:24.14,0:28:29.74,Note (Potential Style),,0,0,0,,Note: A "Mighty Raptor" or "Xiāoxióng"(枭雄) is a term used for fierce, ambitious and formidable "great men" of history.
 Dialogue: 0,0:28:26.72,0:28:30.22,Default,,0,0,0,,He'll be a source of trouble if he stays here long.
 Dialogue: 0,0:28:30.22,0:28:32.83,Default,,0,0,0,,We're going to kill him today.
-Dialogue: 0,0:28:33.90,0:28:35.48,Default,,0,0,0,,No!
-Dialogue: 0,0:28:35.48,0:28:40.16,Default,,0,0,0,,Today, the officials from the nine commanderies and forty-two counties are all at the banquet.
+Dialogue: 0,0:28:33.90,0:28:35.04,Default,,0,0,0,,No!
+Dialogue: 0,0:28:35.12,0:28:40.16,Default,,0,0,0,,Today, the officials from the nine commanderies and forty-two counties are all at the banquet.
 Dialogue: 0,0:28:40.48,0:28:43.18,Default,,0,0,0,,Such an act may make lose their favor.
 Dialogue: 0,0:28:43.18,0:28:46.32,Default,,0,0,0,,I have secret orders from my lord.
 Dialogue: 0,0:28:48.10,0:28:52.56,Default,,0,0,0,,Well, in that case, we will do as he says.
@@ -389,7 +378,7 @@ Dialogue: 0,0:30:23.78,0:30:26.26,Default,,0,0,0,,General Zhao, this way please.
 Dialogue: 0,0:30:26.26,0:30:28.27,Default,,0,0,0,,Lord Liu, this way please.
 Dialogue: 0,0:30:30.22,0:30:34.14,Default,,0,0,0,,Uncle, my father is feeling unwell and could not come.
 Dialogue: 0,0:30:34.14,0:30:38.66,Default,,0,0,0,,The officials from the counties are all present. Please preside at the ceremonies on his behalf.
-Dialogue: 0,0:30:31.90,0:30:35.82,Style Names,,0,0,0,,{\pos(225,572.728)}Liú Cóng
+Dialogue: 0,0:30:31.90,0:30:35.82,Style Names,,0,0,0,,{\pos(218.438,570.607)}Liú Cóng
 Dialogue: 0,0:30:39.02,0:30:41.52,Default,,0,0,0,,Please, uncle.
 Dialogue: 0,0:30:41.66,0:30:44.60,Default,,0,0,0,,I normally wouldn't dare undertake such a heavy task.
 Dialogue: 0,0:30:44.70,0:30:46.46,Default,,0,0,0,,But since it's my brother's order—
@@ -405,7 +394,7 @@ Dialogue: 0,0:31:45.82,0:31:47.15,Default,,0,0,0,,General Zhao.
 Dialogue: 0,0:31:48.02,0:31:50.14,Default,,0,0,0,,The banquet is ready in the side chamber
 Dialogue: 0,0:31:50.16,0:31:52.35,Default,,0,0,0,,and your presence is expected.
 Dialogue: 0,0:31:53.02,0:31:58.53,Default,,0,0,0,,Thank you two generals, but you don't need to mind me.\NI can't drink alcohol.
-Dialogue: 0,0:31:58.53,0:32:00.83,Style Names,,0,0,0,,{\pos(229.091,722.045)}Wén Pìn\NStyled:Zhòng Yè)
+Dialogue: 0,0:31:58.53,0:32:00.83,Style Names,,0,0,0,,{\pos(222.409,719.371)}Wén Pìn\NStyled:Zhòng Yè)
 Dialogue: 0,0:32:02.58,0:32:07.08,Default,,0,0,0,,Lord Liu.\NThe officers would like to drink with General Zhao.
 Dialogue: 0,0:32:07.08,0:32:09.27,Default,,0,0,0,,What would you say to it?
 Dialogue: 0,0:32:10.48,0:32:13.51,Default,,0,0,0,,Zilong. Yes, it's ok to listen to them.
@@ -470,13 +459,13 @@ Dialogue: 0,0:36:18.56,0:36:20.80,Default,,0,0,0,,General Cai, look!
 Dialogue: 0,0:36:22.80,0:36:23.60,Default,,0,0,0,,Liu Bei!
 Dialogue: 0,0:36:23.60,0:36:26.74,Default,,0,0,0,,Your life ends here!
 Dialogue: 0,0:36:26.74,0:36:30.48,Default,,0,0,0,,Dilu, Dilu, you indeed harmed your master!
-Dialogue: 0,0:36:55.50,0:36:58.27,Default,,0,0,0,,{\pos(715.909,920.455)}Heaven is helping him.
+Dialogue: 0,0:36:55.50,0:36:58.27,Default,,0,0,0,,{\bord14.318}Heaven is helping him.
 Dialogue: 0,0:37:25.48,0:37:28.85,Default,,0,0,0,,Lord Liu, why are you running away from the party?
 Dialogue: 0,0:37:28.85,0:37:31.50,Default,,0,0,0,,Cai Mao!\NWe have no grudge against each other!
 Dialogue: 0,0:37:31.50,0:37:33.06,Default,,0,0,0,,Why do you wish for my death!?
 Dialogue: 0,0:37:33.06,0:37:38.63,Default,,0,0,0,,I ... I have no such intention!\ND–don't be misled by others!
-Dialogue: 0,0:37:58.40,0:37:59.70,Default,,0,0,0,,Cai Mao!
-Dialogue: 0,0:37:59.70,0:38:01.46,Default,,0,0,0,,My lord is an invited guest to the festival!
+Dialogue: 0,0:37:58.40,0:37:59.50,Default,,0,0,0,,Cai Mao!
+Dialogue: 0,0:37:59.52,0:38:01.46,Default,,0,0,0,,My lord is an invited guest!
 Dialogue: 0,0:38:01.58,0:38:03.40,Default,,0,0,0,,Why are you chasing him with troops?
 Dialogue: 0,0:38:03.75,0:38:05.48,Default,,0,0,0,,Where is my lord?
 Dialogue: 0,0:38:05.48,0:38:08.62,Default,,0,0,0,,He's left the banquet. I don't know where he's gone.
@@ -492,16 +481,16 @@ Dialogue: 0,0:39:37.30,0:39:39.86,Default,,0,0,0,,But my teacher often talks wit
 Dialogue: 0,0:39:39.86,0:39:45.48,Default,,0,0,0,,They say Liu Xuande is a hero of the age, and he would pass here recently!
 Dialogue: 0,0:39:45.48,0:39:49.71,Default,,0,0,0,,I find you look like the person they talk about, that's why I asked you.
 Dialogue: 0,0:39:50.18,0:39:51.79,Default,,0,0,0,,Who's your teacher?
-Dialogue: 0,0:39:52.42,0:39:57.32,Default,,0,0,0,,{\pos(715.909,920.455)}My master is {\i1}Sīmǎ Huī{\i0}.\NHis style name is Décāo. He's from Yǐngchuān.
-Dialogue: 0,0:39:57.32,0:39:59.79,Default,,0,0,0,,{\pos(715.909,920.455)}His Taoist title is{\i1} Master Shuǐjìng{\i0}.*
+Dialogue: 0,0:39:52.42,0:39:57.32,Default,,0,0,0,,{\bord14.318}My master is {\i1}Sīmǎ Huī{\i0}.\NHis style name is Décāo. He's from Yǐngchuān.
+Dialogue: 0,0:39:57.32,0:39:59.79,Default,,0,0,0,,{\bord14.318\pos(699,998)}His Daoist title is{\i1} Master Shuǐjìng{\i0}.*
 Dialogue: 0,0:39:57.34,0:40:00.03,Note (Potential Style),,0,0,0,,*Water Mirror
-Dialogue: 0,0:40:00.03,0:40:02.38,Default,,0,0,0,,{\pos(715.909,920.455)}Among his many friends —
-Dialogue: 0,0:40:02.38,0:40:06.11,Default,,0,0,0,,{\pos(715.909,920.455)}— there are {\i1}Páng Dégōng{\i0} \Nand{\i1} Páng Tǒng{\i0}  from Xiangyang.
-Dialogue: 0,0:40:06.42,0:40:09.32,Default,,0,0,0,,{\pos(715.909,920.455)}And who are these two Pángs?
-Dialogue: 0,0:40:09.32,0:40:10.94,Default,,0,0,0,,{\pos(715.909,920.455)}They're uncle and nephew.
-Dialogue: 0,0:40:10.94,0:40:14.76,Default,,0,0,0,,{\pos(715.909,920.455)\i1}Páng Dégōng{\i0}, style name {\i1}Shanming{\i0},\Nis ten years older than my master.
-Dialogue: 0,0:40:14.76,0:40:18.52,Default,,0,0,0,,{\pos(715.909,920.455)\i1}Páng Tǒng{\i0}, style name {\i1}Shìyuán{\i0},\N he is five yours younger than my master.
-Dialogue: 0,0:40:18.64,0:40:22.32,Default,,0,0,0,,{\pos(715.909,920.455)}My master is very fond of Páng Tǒng\Nand calls him his younger brother.
+Dialogue: 0,0:40:00.03,0:40:02.38,Default,,0,0,0,,{\bord14.318\pos(699,998)}Among his many friends —
+Dialogue: 0,0:40:02.38,0:40:06.11,Default,,0,0,0,,{\bord14.318}— there are {\i1}Páng Dégōng{\i0} \Nand{\i1} Páng Tǒng{\i0}  from Xiangyang.
+Dialogue: 0,0:40:06.42,0:40:09.32,Default,,0,0,0,,{\bord14.318\pos(699,998)}And who are these two Pángs?
+Dialogue: 0,0:40:09.32,0:40:10.94,Default,,0,0,0,,{\bord14.318\pos(699,998)}They're uncle and nephew.
+Dialogue: 0,0:40:10.94,0:40:14.76,Default,,0,0,0,,{\bord14.318\i1}Páng Dégōng{\i0}, style name {\i1}Shanming{\i0},\Nis ten years older than my master.
+Dialogue: 0,0:40:14.76,0:40:18.52,Default,,0,0,0,,{\bord14.318\i1}Páng Tǒng{\i0}, style name {\i1}Shìyuán{\i0},\N he is five yours younger than my master.
+Dialogue: 0,0:40:18.64,0:40:22.32,Default,,0,0,0,,{\bord14.318}My master is very fond of Páng Tǒng\Nand calls him his younger brother.
 Dialogue: 0,0:40:25.48,0:40:27.23,Default,,0,0,0,,Where's your master now?
 Dialogue: 0,0:40:27.54,0:40:29.58,Default,,0,0,0,,In the cottage in the woods right ahead.
 Dialogue: 0,0:40:29.58,0:40:31.50,Default,,0,0,0,,Just come with me, General Liu.\N
@@ -510,9 +499,50 @@ Dialogue: 0,0:40:54.66,0:40:56.72,Default,,0,0,0,,Nice place!
 Dialogue: 0,0:41:22.54,0:41:25.84,Default,,0,0,0,,The melody is so beautiful.\NWe may as well listen to it.
 Dialogue: 0,0:41:48.02,0:41:49.63,Default,,0,0,0,,Master!
 Dialogue: 0,0:41:53.74,0:41:57.42,Default,,0,0,0,,A high note suddenly rang out.
-Dialogue: 0,0:41:53.22,0:41:58.96,Style Names,,0,0,0,,{\pos(362.045,728.181)}Sīmǎ Huī\NStyled: Dé Cāo)
+Dialogue: 0,0:41:53.22,0:41:58.96,Style Names,,0,0,0,,{\pos(351.485,725.484)}Sīmǎ Huī\NStyled: Décāo)
 Dialogue: 0,0:41:57.42,0:42:00.83,Default,,0,0,0,,It suggests that a hero must be listening.
 Dialogue: 0,0:42:01.26,0:42:03.75,Default,,0,0,0,,This is my master, Master Shuijing.
 Dialogue: 0,0:42:18.38,0:42:24.00,Default,,0,0,0,,Sire, today you're fortunate to have a narrow escape.
 Dialogue: 0,0:42:26.66,0:42:29.59,Default,,0,0,0,,Please, come in and have a cup of tea.
-Dialogue: 0,0:42:30.66,0:42:32.48,Default,,0,0,0,,Many thanks.
+Dialogue: 0,0:42:30.66,0:42:32.48,Default,,0,0,0,,If sir would please.
+Dialogue: 0,0:42:57.06,0:43:02.66,Default,,0,0,0,,{\pos(726.136,1008.515)}{\bord16}The blade's light and sword's shadow fade,
+Dialogue: 0,0:42:57.06,0:43:02.66,Song,,0,0,0,,{\k52}Àn{\k44}dàn{\k60}liao {\k77}dāo{\k64}guāng{\k146}jiàn{\k117}yǐng
+Dialogue: 0,0:43:03.18,0:43:08.86,Default,,0,0,0,,{\pos(726.136,1008.515)}{\bord16}Far away is the drum and horn's serenade;
+Dialogue: 0,0:43:03.18,0:43:08.86,Song,,0,0,0,,{\k68}yuǎn {\k48}qù{\k36}liao {\k39}gǔ{\k37}jiǎo {\k91}zhēng {\k249}míng
+Dialogue: 0,0:43:09.22,0:43:14.82,Default,,0,0,0,,{\pos(726.136,1008.515)}{\bord16}Before my eyes appear, one by one,
+Dialogue: 0,0:43:09.22,0:43:14.82,Song,,0,0,0,,{\k68}Yǎn{\k96}qián {\k74}fēi{\k42}yáng{\k41}zhe {\k67}yī{\k74}gè {\k98}gè{\k0}
+Dialogue: 0,0:43:15.20,0:43:20.68,Default,,0,0,0,,{\pos(726.136,1008.515)}{\bord16}Such vibrant visages.
+Dialogue: 0,0:43:15.20,0:43:20.68,Song,,0,0,0,,{\k93}xiān {\k35}huó {\k45}de {\k179}miàn{\k196}róng
+Dialogue: 0,0:43:21.39,0:43:27.18,Default,,0,0,0,,{\pos(726.136,1008.515)}{\bord16}The old paths are buried now—
+Dialogue: 0,0:43:21.39,0:43:27.18,Song,,0,0,0,,{\k59}yān{\k53}mò{\k64}liao {\k75}huáng {\k85}chén {\k128}gǔ{\k115}dào
+Dialogue: 0,0:43:27.64,0:43:32.44,Default,,0,0,0,,{\pos(726.136,1008.515)}{\bord16}—by a fire burning through every town.
+Dialogue: 0,0:43:27.64,0:43:32.44,Song,,0,0,0,,{\k46}huāng{\k77}wú{\k41}liao {\k45}fēng{\k51}huǒ {\k64}biān{\k156}chéng{\k0}
+Dialogue: 0,0:43:33.99,0:43:40.60,Default,,0,0,0,,{\pos(726.136,1008.515)}{\bord16}But time, you cannot take away that string—
+Dialogue: 0,0:43:33.99,0:43:40.60,Song,,0,0,0,,{\k62}Suì{\k93}yuè {\k99}a {\k38}nǐ {\k127}dài {\k33}bù {\k77}zǒu, {\k30}nà {\k40}yī {\k39}chuàn {\k23}chuàn{\k0}
+Dialogue: 0,0:43:40.74,0:43:45.54,Default,,0,0,0,,{\pos(726.136,1008.515)}{\bord16}—of still familiar names.
+Dialogue: 0,0:43:40.74,0:43:45.54,Song,,0,0,0,,{\k32}shú{\k38}xī {\k83}di {\k120}xìng{\k207}míng
+Dialogue: 0,0:43:45.80,0:43:51.50,Default,,0,0,0,,{\pos(726.136,1008.515)}{\bord16}What man will determine victory or death?
+Dialogue: 0,0:43:45.80,0:43:51.50,Song,,0,0,0,,{\k50}Xīng{\k50}wáng {\k53}shéi {\k45}rén {\k83}dìng {\k289}a{\k0}
+Dialogue: 0,0:43:52.10,0:43:57.70,Default,,0,0,0,,{\pos(726.136,1008.515)}{\bord16}Prosperity and decline have no cause, indeed!
+Dialogue: 0,0:43:52.10,0:43:57.70,Song,,0,0,0,,{\k46}shèng{\k42}shuāi {\k40}qǐ {\k41}wú {\k91}píng {\k300}a{\k0}
+Dialogue: 0,0:43:58.50,0:44:03.70,Default,,0,0,0,,{\pos(726.136,1008.515)}{\bord16}A single breeze scatters the clouds—
+Dialogue: 0,0:43:58.50,0:44:03.70,Song,,0,0,0,,{\k80}yī {\k80}yè {\k68}fēng{\k61}yún {\k87}sàn {\k144}nà
+Dialogue: 0,0:44:04.50,0:44:10.10,Default,,0,0,0,,{\pos(726.136,1008.515)}{\bord16}—and the world as we knew it vansih with them.
+Dialogue: 0,0:44:04.50,0:44:10.10,Song,,0,0,0,,{\k38}biàn{\k45}huàn{\k155}liao {\k131}shí{\k191}kōng
+Dialogue: 0,0:44:10.72,0:44:16.42,Default,,0,0,0,,{\pos(726.136,1008.515)}{\bord16}Meetings and partings happen for their reasons—
+Dialogue: 0,0:44:10.72,0:44:16.42,Song,,0,0,0,,{\k37}Jù {\k41}sàn {\k42}jiē {\k54}shì {\k80}yuán {\k316}a{\k0}
+Dialogue: 0,0:44:17.02,0:44:22.31,Default,,0,0,0,,{\pos(726.136,1008.515)}{\bord16}—but these comings and going still rouse our feelings!
+Dialogue: 0,0:44:17.02,0:44:22.31,Song,,0,0,0,,{\k28}lí{\k40}hé {\k46}zǒng {\k34}guān {\k78}qíng {\k303}a
+Dialogue: 0,0:44:23.09,0:44:28.31,Default,,0,0,0,,{\pos(726.136,1008.515)}{\bord16}We carry the weight of our pasts—
+Dialogue: 0,0:44:23.09,0:44:28.31,Song,,0,0,0,,{\k74}dān{\k75}dāng {\k76}shēng{\k76}qián {\k80}shì {\k141}a
+Dialogue: 0,0:44:29.11,0:44:35.11,Default,,0,0,0,,{\pos(726.136,1008.515)}{\bord16}—and account little for the opinions left behind.
+Dialogue: 0,0:44:29.11,0:44:35.11,Song,,0,0,0,,{\k51}hé {\k104}jì {\k80}shēn{\k89}hòu {\k276}píng
+Dialogue: 0,0:44:35.19,0:44:40.91,Default,,0,0,0,,{\pos(726.136,1008.515)}{\bord16}The Long River turns to tears—
+Dialogue: 0,0:44:35.19,0:44:40.91,Song,,0,0,0,,{\k139}Cháng{\k41}jiāng {\k74}yǒu{\k67}yì {\k90}huà {\k96}zuò {\k65}lèi{\k0}
+Dialogue: 0,0:44:41.41,0:44:47.01,Default,,0,0,0,,{\pos(726.136,1008.515)}{\bord16}—its waters rise in a song;
+Dialogue: 0,0:44:41.41,0:44:47.01,Song,,0,0,0,,{\k70}Cháng{\k99}jiāng {\k58}yǒu{\k86}qíng {\k82}qǐ {\k62}gē{\k103}shēng
+Dialogue: 0,0:44:47.51,0:44:53.11,Default,,0,0,0,,{\pos(726.136,1008.515)}{\bord16}In the skies of history there yet shines a few stars—
+Dialogue: 0,0:44:47.51,0:44:53.11,Song,,0,0,0,,{\k36}lì{\k88}shǐ {\k31}di {\k83}tiān{\k75}kōng {\k43}shǎn{\k47}shuò {\k40}jǐ {\k36}kē {\k81}xīng
+Dialogue: 0,0:44:53.61,0:45:12.11,Default,,0,0,0,,{\bord16}—as in the world of man dwells a spirit of heroism, ever galloping forward.
+Dialogue: 0,0:44:53.61,0:45:16.11,Song,,0,0,0,,{\k79}rén{\k27}jiān {\k29}yī {\k45}gǔ {\k70}yīng{\k82}xióng {\k230}qì {\k95}zài {\k59}chí{\k200}chěng {\k473}zòng{\k461}héng{\k400}
+Dialogue: 0,0:42:32.48,0:42:34.48,Default,,0,0,0,,

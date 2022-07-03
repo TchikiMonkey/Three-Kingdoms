@@ -9,76 +9,61 @@ Original Editing:
 Script Updated By: 
 Update Details: 
 ScriptType: v4.00+
-PlayResX: 704
-PlayResY: 528
+PlayResX: 1440
+PlayResY: 1080
 Timer: 100.0000
 Synch Point: 
 WrapStyle: 0
-ScaledBorderAndShadow: no
+ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
-
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: D:/torrents/1994版三国演义.84集全.国语中字￡CMCT暮雨潇潇/三国演义.E04.孟德献刀.1994.DVDRip.x264-10bit.AC3-CMCT.mkv
-Video File: D:/torrents/1994版三国演义.84集全.国语中字￡CMCT暮雨潇潇/三国演义.E04.孟德献刀.1994.DVDRip.x264-10bit.AC3-CMCT.mkv
-Video AR Mode: 4
-Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Scroll Position: 371
-Active Line: 386
-Video Position: 943
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Yu Gothic,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,2.1,0,2,10,10,10,1
-Style: Header,Yu Gothic,30,&H0034C0CD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,95,0,0,1,2,1,8,10,10,10,1
-Style: Style Names,Tahoma,24,&H00FDFCFC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,105,110,0,0,1,1.8,0.1,5,10,10,10,1
-Style: Title,Yu Gothic,35,&H001132D6,&H000000FF,&H00000000,&H00000000,-1,0,0,0,110,105,0.5,0,1,2,1,5,10,10,10,1
-Style: Song,Yu Gothic,32,&H000000FF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,2,0.4,2,10,10,10,1
-Style: Episode Title,Yu Gothic,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,110,100,0,0,1,2,2.5,5,10,10,10,1
-Style: Thinking,Yu Gothic,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,103,103,0,0,1,2.2,0,2,10,10,10,1
-Style: Note (Potential style?),Yu Gothic UI Semibold,28,&H0018CBDC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,97,0,0,1,1.5,1,9,10,10,10,1
-Style: Default (small),Yu Gothic,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,2.1,0,2,10,10,10,1
+Style: Default,Yu Gothic,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,4.29545,0,2,20,20,20,1
+Style: Header,Yu Gothic,61,&H0034C0CD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,95,0,0,1,4.09091,2.04545,8,20,20,20,1
+Style: Style Names,Tahoma,49,&H00FDFCFC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,105,110,0,0,1,3.68182,0.204545,5,20,20,20,1
+Style: Title,Yu Gothic,72,&H001132D6,&H000000FF,&H00000000,&H00000000,-1,0,0,0,110,105,1.02273,0,1,4.09091,2.04545,5,20,20,20,1
+Style: Song,Yu Gothic,65,&H000000FF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,4.09091,0.818182,2,20,20,20,1
+Style: Episode Title,Yu Gothic,86,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,110,100,0,0,1,4.09091,5.11364,5,20,20,20,1
+Style: Thinking,Yu Gothic,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,103,103,0,0,1,4.5,0,2,20,20,20,1
+Style: Note (Potential style?),Yu Gothic UI Semibold,45,&H0018CBDC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,97,0,0,1,3.06818,2.04545,9,20,20,20,1
+Style: Default (small),Yu Gothic,57,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,4.29545,0,2,20,20,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.54,0:00:06.94,Episode Title,,0,0,0,,{\fade(255,0,255,0,1700,5140,6380)\pos(356.571,250.286)}Episode 4
+Dialogue: 0,0:00:00.54,0:00:06.94,Episode Title,,0,0,0,,{\fade(255,0,255,0,1700,5140,6380)\pos(729.35,511.949)}Episode 4
 Dialogue: 0,0:00:00.10,0:00:02.90,Header,,0,0,0,,This is a Gentlemen of the Hàn free fansub.
-Dialogue: 0,0:00:00.54,0:00:06.94,Episode Title,,0,0,0,,{\fade(255,0,255,0,1700,5140,6380)\pos(342.857,386.286)}Mèngdé presents a blade
-Dialogue: 0,0:00:37.72,0:00:40.12,Style Names,,0,0,0,,{\fade(255,0,255,0,360,2040,2400)\pos(118,336)}Wáng Yǔn\NStyled: Zishī
-Dialogue: 0,0:00:38.46,0:00:43.28,Default,,0,0,0,,Yuán Shào heard at Bóhǎi that \NDǒng Zhuó was abusing his authority,
-Dialogue: 0,0:00:43.62,0:00:46.16,Default,,0,0,0,,so he wrote a confidential letter to Wáng Yǔn,
-Dialogue: 0,0:00:46.36,0:00:49.14,Default,,0,0,0,,plotting to assassinate Dǒng Zhuó.
+Dialogue: 0,0:00:00.54,0:00:06.94,Episode Title,,0,0,0,,{\fade(255,0,255,0,1700,5140,6380)\pos(701.298,790.13)}Mèngdé presents a blade
+Dialogue: 0,0:00:37.72,0:00:40.12,Style Names,,0,0,0,,{\fade(255,0,255,0,360,2040,2400)\pos(241.364,687.273)}Wáng Yǔn\NStyled: Zishī
+Dialogue: 0,0:00:38.46,0:00:43.28,Thinking,,0,0,0,,Yuán Shào heard at Bóhǎi that \NDǒng Zhuó was abusing his authority,
+Dialogue: 0,0:00:43.62,0:00:46.16,Thinking,,0,0,0,,so he wrote a confidential letter to Wáng Yǔn,
+Dialogue: 0,0:00:46.36,0:00:49.14,Thinking,,0,0,0,,plotting to assassinate Dǒng Zhuó.
 Dialogue: 0,0:01:20.06,0:01:22.82,Default,,0,0,0,,Gentlemen, please take your seats. Do so.
 Dialogue: 0,0:01:25.84,0:01:28.32,Default,,0,0,0,,Today is my birthday.
-Dialogue: 0,0:01:27.60,0:01:29.12,Style Names,,0,0,0,,{\pos(584,365)\fade(255,0,255,0,360,1520,1520)}Cáo Cāo\NStyled: Mèngdé
+Dialogue: 0,0:01:27.60,0:01:29.12,Style Names,,0,0,0,,{\pos(1194.545,746.591)\fade(255,0,255,0,360,1520,1520)}Cáo Cāo\NStyled: Mèngdé
 Dialogue: 0,0:01:29.84,0:01:31.02,Default,,0,0,0,,All of you...
-Dialogue: 0,0:01:32.78,0:01:35.30,Default,,0,0,0,,are old ministers who \Nserved the Imperial Court.
+Dialogue: 0,0:01:32.58,0:01:35.30,Default,,0,0,0,,are old ministers who \Nserved the Imperial Court.
 Dialogue: 0,0:01:38.20,0:01:41.00,Default,,0,0,0,,I... I...
-Dialogue: 0,0:01:53.66,0:01:57.02,Default,,0,0,0,,Your Excellency, why are you crying on your birthday?
+Dialogue: 0,0:01:53.66,0:01:57.02,Default,,0,0,0,,Ducal Minister, why are you crying on your birthday?
 Dialogue: 0,0:01:57.12,0:01:57.96,Default,,0,0,0,,Yes!
-Dialogue: 0,0:02:01.68,0:02:04.00,Default,,0,0,0,,{\pos(352,415)}The truth is,
-Dialogue: 0,0:02:06.18,0:02:10.46,Default,,0,0,0,,{\pos(352,415)}today {\pos(352,415)}is actually not my birthday.
+Dialogue: 0,0:02:01.68,0:02:04.00,Default,,0,0,0,,{\pos(720,848.864)}The truth is,
+Dialogue: 0,0:02:06.18,0:02:10.46,Default,,0,0,0,,{\pos(720,848.864)}today {\pos(720,848.864)}is actually not my birthday.
 Dialogue: 0,0:02:10.46,0:02:11.67,Default,,0,0,0,,Eh?
-Dialogue: 0,0:02:12.14,0:02:14.98,Default,,0,0,0,,{\pos(352,415)}I only wanted to have a meeting with you all,
-Dialogue: 0,0:02:15.74,0:02:18.00,Default,,0,0,0,,{\pos(352,415)}because I feared \NDǒng Zhuó would get suspicious.
-Dialogue: 0,0:02:18.77,0:02:21.28,Default,,0,0,0,,{\pos(352,415)}so I made this excuse, that's all.
+Dialogue: 0,0:02:12.14,0:02:14.98,Default,,0,0,0,,{\pos(720,848.864)}I only wanted to have a meeting with you all,
+Dialogue: 0,0:02:15.42,0:02:18.20,Default,,0,0,0,,{\pos(720,848.864)}because I feared \NDǒng Zhuó would get suspicious.
+Dialogue: 0,0:02:18.77,0:02:21.28,Default,,0,0,0,,{\pos(720,848.864)}so I made this excuse, that's all.
 Dialogue: 0,0:02:21.34,0:02:24.64,Default,,0,0,0,,Oh... so that was the real intention...
-Dialogue: 0,0:02:30.90,0:02:34.60,Default,,0,0,0,,{\pos(352,415)}Dǒng Zhuó insults His Majesty, abuses his power,
-Dialogue: 0,0:02:34.93,0:02:38.06,Default,,0,0,0,,{\pos(352,415)}and endangered the nation's spirits many times.
-Dialogue: 0,0:02:39.68,0:02:41.43,Default,,0,0,0,,{\pos(352,415)}Who would have thought
-Dialogue: 0,0:02:42.21,0:02:44.09,Default,,0,0,0,,{\pos(352,415)}that the empire founded by Emperor Gāozǔ,
-Dialogue: 0,0:02:44.11,0:02:45.31,Default,,0,0,0,,{\pos(352,415)}who defeated Qín and Chǔ,
-Dialogue: 0,0:02:46.90,0:02:49.20,Default,,0,0,0,,{\pos(352,415)}which shelters us as of now
-Dialogue: 0,0:02:50.42,0:02:54.31,Default,,0,0,0,,{\pos(352,415)}would fall at the hands of Dǒng Zhuó?
+Dialogue: 0,0:02:30.90,0:02:34.60,Default,,0,0,0,,{\pos(720,848.864)}Dǒng Zhuó insults His Majesty, abuses his power,
+Dialogue: 0,0:02:34.93,0:02:38.06,Default,,0,0,0,,{\pos(720,848.864)}and endangered the nation's spirits many times.
+Dialogue: 0,0:02:39.68,0:02:41.43,Default,,0,0,0,,{\pos(720,848.864)}Who would have thought-
+Dialogue: 0,0:02:42.21,0:02:49.20,Default,,0,0,0,,{\pos(720,848.864)}that the empire, founded by Emperor Gāozǔ, who defeated Qín and Chǔ, which shelters us as of now
+Dialogue: 0,0:02:50.42,0:02:54.31,Default,,0,0,0,,{\pos(720,848.864)}would fall at the hands of Dǒng Zhuó?
 Dialogue: 0,0:03:25.10,0:03:27.98,Default,,0,0,0,,Mèngdé, why are you laughing?
-Dialogue: 0,0:03:29.42,0:03:31.12,Default,,0,0,0,,All you grand ministers do is
-Dialogue: 0,0:03:31.36,0:03:34.08,Default,,0,0,0,,wail from dusk to dawn and dawn to dusk, heh.
+Dialogue: 0,0:03:29.42,0:03:34.08,Default,,0,0,0,,All you grand ministers do is wail \Nfrom dusk to dawn and dawn to dusk, heh.
 Dialogue: 0,0:03:34.12,0:03:37.43,Default,,0,0,0,,You think crying can kill Dǒng Zhuó?
 Dialogue: 0,0:03:37.57,0:03:39.49,Default,NTP,0,0,0,,Cáo Mèngdé!
-Dialogue: 0,0:03:40.62,0:03:43.44,Default,NTP,0,0,0,,Your ancestors too enjoyed the Hàn Empire's favor!
-Dialogue: 0,0:03:43.68,0:03:45.29,Default,,0,0,0,,But you don't think of serving the nation...
-Dialogue: 0,0:03:45.37,0:03:47.32,Default,NTP,0,0,0,,Instead you are laughing at us!
+Dialogue: 0,0:03:40.62,0:03:43.44,Default,NTP,0,0,0,,Your forefathers too enjoyed the Hàn Empire's favor!
+Dialogue: 0,0:03:43.68,0:03:47.50,Default,,0,0,0,,But you don't think of serving the nation... Instead you are laughing at us!
 Dialogue: 0,0:03:47.62,0:03:49.89,Default,,0,0,0,,What is your reason!?
 Dialogue: 0,0:03:54.93,0:03:57.82,Default,,0,0,0,,I don't laugh at anything else
 Dialogue: 0,0:03:58.02,0:04:03.88,Default,,0,0,0,,but at you folks, for not coming up \Nwith a single plan to kill Dǒng Zhuó.
@@ -88,7 +73,7 @@ Dialogue: 0,0:04:13.85,0:04:16.42,Default,,0,0,0,,I am willing to cut off Dǒng 
 Dialogue: 0,0:04:16.53,0:04:18.46,Default,NTP,0,0,0,,and hang it on the capital city's gate
 Dialogue: 0,0:04:18.46,0:04:20.33,Default,,0,0,0,,to appease the realm!
 Dialogue: 0,0:04:34.11,0:04:36.61,Default,,0,0,0,,Mèngdé, what is your plan?
-Dialogue: 0,0:04:43.49,0:04:45.08,Default,,0,0,0,,Come; follow me.
+Dialogue: 0,0:04:43.49,0:04:45.08,Default,,0,0,0,,Come, follow me.
 Dialogue: 0,0:05:44.80,0:05:45.72,Default,,0,0,0,,Please look.
 Dialogue: 0,0:06:04.69,0:06:10.24,Default,,0,0,0,,Běnchū's writing in this \Nletter is very passionate.
 Dialogue: 0,0:06:12.40,0:06:14.00,Default,,0,0,0,,But...
@@ -106,7 +91,7 @@ Dialogue: 0,0:07:05.31,0:07:06.81,Default,,0,0,0,,Won't do. Won't do.
 Dialogue: 0,0:07:07.05,0:07:09.12,Default,,0,0,0,,You must learn from the past!
 Dialogue: 0,0:07:16.12,0:07:17.80,Default,,0,0,0,,Why are you laughing?
 Dialogue: 0,0:07:19.89,0:07:22.63,Default,,0,0,0,,Assassinating the tyrant is easier said than done.
-Dialogue: 0,0:07:25.85,0:07:28.72,Default,NTP,0,0,0,,That traitor has armored\Nbodyguards wherever he goes to.
+Dialogue: 0,0:07:25.72,0:07:28.72,Default,NTP,0,0,0,,That traitor has armored\Nbodyguards wherever he goes to.
 Dialogue: 0,0:07:29.17,0:07:31.99,Default,NTP,0,0,0,,He also has that lackey, Lǚ Bù,\N who never leaves his side.
 Dialogue: 0,0:07:32.60,0:07:33.68,Default,,0,0,0,,Impossible.
 Dialogue: 0,0:07:34.38,0:07:35.94,Default,,0,0,0,,Impossible!
@@ -118,31 +103,30 @@ Dialogue: 0,0:08:02.09,0:08:06.68,Default,NTP,0,0,0,,Dǒng Zhuó killed him as a
 Dialogue: 0,0:08:07.61,0:08:09.84,Default,,0,0,0,,But things are different now.
 Dialogue: 0,0:08:09.93,0:08:15.65,Default,,0,0,0,,While it has failed in the past, this time it may not.
 Dialogue: 0,0:08:16.45,0:08:19.82,Default,,0,0,0,,That being said, it's still difficult.
-Dialogue: 0,0:08:20.03,0:08:23.71,Default,,0,0,0,,{\pos(352,430)}It goes without saying \Nthat the traitor's heart is distrustful.
-Dialogue: 0,0:08:23.89,0:08:26.42,Default,,0,0,0,,{\pos(352,430)}But who is he distrustful of?
-Dialogue: 0,0:08:26.58,0:08:29.44,Default,,0,0,0,,{\pos(352,430)}Without a doubt it is his enemies.
+Dialogue: 0,0:08:20.03,0:08:23.71,Default,,0,0,0,,{\pos(720,879.545)}It goes without saying \Nthat the traitor's heart is distrustful.
+Dialogue: 0,0:08:23.89,0:08:26.42,Default,,0,0,0,,{\pos(720,879.545)}But who is he distrustful of?
+Dialogue: 0,0:08:26.58,0:08:29.44,Default,,0,0,0,,{\pos(720,879.545)}Without a doubt it is his enemies.
 Dialogue: 0,0:08:30.76,0:08:39.52,Note (Potential style?),,0,0,0,,Note: Yào Lí was an assassin of Wú hired to kill Prince Qìngjì of Wú during the Spring and Autumn period.
-Dialogue: 0,0:08:30.76,0:08:32.92,Default,,0,0,0,,{\pos(352,430)}In the past, Yào Lí assassinated Qìngjì.
-Dialogue: 0,0:08:32.92,0:08:35.84,Default,,0,0,0,,{\pos(352,430)}Even 10,000 people could \Nnot match up to Qìngjì's bravery,
-Dialogue: 0,0:08:35.84,0:08:39.52,Default,,0,0,0,,{\pos(352,430)}yet Yào Lí was handicapped.
-Dialogue: 0,0:08:39.62,0:08:41.51,Default,,0,0,0,,{\pos(352,430)}How was he able to succeed?
-Dialogue: 0,0:08:41.51,0:08:45.00,Default,,0,0,0,,{\pos(352,430)}Because Qìngjì trusted Yào Lí.
-Dialogue: 0,0:08:51.27,0:08:52.63,Default,,0,0,0,,{\pos(352,430)}Right right right!
-Dialogue: 0,0:08:53.68,0:08:57.42,Default,,0,0,0,,{\pos(352,425)}His confidant assassinated him.
-Dialogue: 0,0:08:57.88,0:09:01.25,Default,,0,0,0,,{\pos(352,425)}It is very hard to defend\N yourself against your confidant!
-Dialogue: 0,0:09:02.05,0:09:06.69,Default,,0,0,0,,{\pos(352,425)}I have been serving Dǒng Zhuó recently,\Nand I have gained his trust.
-Dialogue: 0,0:09:06.94,0:09:09.07,Default,,0,0,0,,{\pos(352,425)}He consults me on all matters, big or small.
-Dialogue: 0,0:09:09.14,0:09:13.70,Default,,0,0,0,,{\pos(352,425)}I have become so close with Dǒng Zhuó\N that I can enter and leave his residence freely.
-Dialogue: 0,0:09:14.26,0:09:19.25,Default,,0,0,0,,{\pos(352,425)}If I have the Seven Star dagger,\NI can wait for a chance to assassinate the bastard.
-Dialogue: 0,0:09:19.41,0:09:21.23,Default,,0,0,0,,{\pos(352,425)}Success is guaranteed!
+Dialogue: 0,0:08:30.76,0:08:32.92,Default,,0,0,0,,{\pos(720,879.545)}In the past, Yào Lí assassinated Qìngjì.
+Dialogue: 0,0:08:32.92,0:08:35.98,Default,,0,0,0,,{\pos(720,879.545)}Even 10,000 people could \Nnot match up to Qìngjì's bravery,
+Dialogue: 0,0:08:36.02,0:08:39.52,Default,,0,0,0,,{\pos(720,879.545)}yet Yào Lí was handicapped.
+Dialogue: 0,0:08:39.62,0:08:41.51,Default,,0,0,0,,{\pos(720,879.545)}How was he able to succeed?
+Dialogue: 0,0:08:41.51,0:08:45.00,Default,,0,0,0,,{\pos(720,879.545)}Because Qìngjì trusted Yào Lí.
+Dialogue: 0,0:08:51.27,0:08:52.63,Default,,0,0,0,,{\pos(720,879.545)}Right right right!
+Dialogue: 0,0:08:53.68,0:08:57.42,Default,,0,0,0,,{\pos(720,869.318)}His confidant assassinated him.
+Dialogue: 0,0:08:57.88,0:09:01.25,Default,,0,0,0,,{\pos(720,869.318)}It is very hard to defend\N yourself against your confidant!
+Dialogue: 0,0:09:02.05,0:09:06.69,Default,,0,0,0,,{\pos(720,869.318)}I have been serving Dǒng Zhuó recently,\Nand I have gained his trust.
+Dialogue: 0,0:09:06.94,0:09:09.07,Default,,0,0,0,,{\pos(720,869.318)}He consults me on all matters, big or small.
+Dialogue: 0,0:09:09.14,0:09:13.70,Default,,0,0,0,,{\pos(720,869.318)}I have become so close with Dǒng Zhuó\N that I can enter and leave his residence freely.
+Dialogue: 0,0:09:14.26,0:09:19.25,Default,,0,0,0,,{\pos(720,869.318)}If I have the Seven Star dagger,\NI can wait for a chance to assassinate the bastard.
+Dialogue: 0,0:09:19.41,0:09:21.23,Default,,0,0,0,,{\pos(720,869.318)}Success is guaranteed!
 Dialogue: 0,0:09:37.75,0:09:39.94,Default,,0,0,0,,Mèngdé, you are a devoted official.
 Dialogue: 0,0:09:40.28,0:09:43.29,Default,,0,0,0,,The Empire is very fortunate to have you!
 Dialogue: 0,0:09:43.66,0:09:47.17,Default,,0,0,0,,Please accept my respects.
 Dialogue: 0,0:09:56.87,0:09:58.86,Default,NTP,0,0,0,,By the gods of Heaven and Earth,
-Dialogue: 0,0:09:59.05,0:10:01.26,Default,,0,0,0,,your servant, the Colonel\N of Valiant Cavalry; Cáo Cāo,
-Dialogue: 0,0:10:01.45,0:10:03.40,Default,NTP,0,0,0,,will assassinate the evil traitor Dǒng Zhuó
-Dialogue: 0,0:10:03.40,0:10:05.28,Default,,0,0,0,,to appease the Imperial Court, the state,
-Dialogue: 0,0:10:05.28,0:10:06.61,Default,,0,0,0,,the world, and the people.
+Dialogue: 0,0:09:59.05,0:10:01.60,Default,,0,0,0,,your servant, {\i1}the Colonel of Valiant Cavalry {\i0} Cáo Cāo,
+Dialogue: 0,0:10:01.62,0:10:05.28,Default,,0,0,0,,will assassinate the evil traitor Dǒng Zhuó to appease the Imperial Court, the state,
+Dialogue: 0,0:10:05.28,0:10:07.06,Default,,0,0,0,,the world, and the people.
 Dialogue: 0,0:10:07.13,0:10:12.00,Default,,0,0,0,,I will go through fire and water, risk life and limb, and stop at nothing!
 Dialogue: 0,0:10:19.94,0:10:22.32,Default,,0,0,0,,Brother Rú, where are you going?
 Dialogue: 0,0:10:23.93,0:10:27.91,Default,,0,0,0,,Mèngdé, the Premier of State is in the small pavilion.
@@ -154,12 +138,12 @@ Dialogue: 0,0:10:50.73,0:10:52.59,Default,,0,0,0,,Oh, it's you.
 Dialogue: 0,0:10:57.29,0:11:01.25,Default,,0,0,0,,Why is it so quiet today in the Premier's mansion?
 Dialogue: 0,0:11:01.37,0:11:04.22,Default,,0,0,0,,The Premier is resting at the pavilion in the garden.
 Dialogue: 0,0:11:04.33,0:11:07.42,Default,,0,0,0,,The servants are having this day off.
-Dialogue: 0,0:11:07.56,0:11:10.00,Default,,0,0,0,,If you wish to see him,\Nyou will have to find the way yourself.
+Dialogue: 0,0:11:07.56,0:11:10.56,Default,,0,0,0,,If you wish to see him,\Nyou will have to find the way yourself.
 Dialogue: 0,0:11:10.62,0:11:13.64,Default,,0,0,0,,Ah, then please have some rest.
 Dialogue: 0,0:11:36.20,0:11:37.65,Default,,0,0,0,,Where are you going?
 Dialogue: 0,0:11:41.27,0:11:43.50,Default,,0,0,0,,You are still running.
 Dialogue: 0,0:12:07.44,0:12:09.33,Default,,0,0,0,,Salutations, Premier.
-Dialogue: 0,0:12:11.00,0:12:13.24,Style Names,,0,0,0,,{\pos(600,348)\fade(255,0,255,0,400,1840,2240)}Dǒng Zhuó\NStyled: Zhòngyǐng
+Dialogue: 0,0:12:11.00,0:12:13.24,Style Names,,0,0,0,,{\pos(1227.273,711.818)\fade(255,0,255,0,400,1840,2240)}Dǒng Zhuó\NStyled: Zhòngyǐng
 Dialogue: 0,0:12:11.39,0:12:12.63,Default,,0,0,0,,Mèngdé,
 Dialogue: 0,0:12:13.47,0:12:16.86,Default,,0,0,0,,why are you late today?
 Dialogue: 0,0:12:19.18,0:12:24.61,Default,,0,0,0,,My horse is frail and it couldn't endure the travel. That's why I'm late.
@@ -167,7 +151,7 @@ Dialogue: 0,0:12:26.20,0:12:28.96,Default,,0,0,0,,Well why didn't you tell me so
 Dialogue: 0,0:12:29.19,0:12:32.65,Default,,0,0,0,,How can an officer not have a good horse?
 Dialogue: 0,0:12:35.20,0:12:36.46,Default,,0,0,0,,Fèngxiān!
 Dialogue: 0,0:12:38.20,0:12:42.56,Default,,0,0,0,,Go and pick out a good Xīliáng horse!
-Dialogue: 0,0:12:38.16,0:12:43.31,Style Names,,0,0,0,,{\pos(600,350)\fade(255,0,255,0,320,2320,2680)}Lǚ Bù\NStyled: Fèngxiān
+Dialogue: 0,0:12:38.16,0:12:43.31,Style Names,,0,0,0,,{\pos(1227.273,715.909)\fade(255,0,255,0,320,2320,2680)}Lǚ Bù\NStyled: Fèngxiān
 Dialogue: 0,0:12:43.28,0:12:44.77,Default,,0,0,0,,and give it to Mèngdé.
 Dialogue: 0,0:12:45.08,0:12:45.98,Default,,0,0,0,,Yes.
 Dialogue: 0,0:12:52.85,0:12:54.35,Default,,0,0,0,,Thank you, Premier!
@@ -198,7 +182,7 @@ Dialogue: 0,0:17:13.48,0:17:14.97,Default,,0,0,0,,Just then, I think Cáo Cāo
 Dialogue: 0,0:17:15.49,0:17:17.39,Default,,0,0,0,,was trying to assassinate you.
 Dialogue: 0,0:17:25.21,0:17:27.60,Default,,0,0,0,,I had my doubts too.
 Dialogue: 0,0:17:36.80,0:17:39.96,Default,,0,0,0,,The Premier is in the pavilion.\NYou may enter.
-Dialogue: 0,0:17:40.24,0:17:42.00,Style Names,,0,0,0,,{\pos(605,351)\fade(255,0,255,0,360,1360,1760)}Lǐ Rú
+Dialogue: 0,0:17:40.24,0:17:42.00,Style Names,,0,0,0,,{\pos(1237.5,717.955)\fade(255,0,255,0,360,1360,1760)}Lǐ Rú
 Dialogue: 0,0:17:52.11,0:17:53.33,Default,,0,0,0,,Could it be
 Dialogue: 0,0:17:53.84,0:17:55.52,Default,,0,0,0,,that when you caught him,
 Dialogue: 0,0:17:56.03,0:17:57.81,Default,,0,0,0,,he pretended to present the blade?
@@ -212,8 +196,7 @@ Dialogue: 0,0:18:37.03,0:18:39.16,Default,,0,0,0,,Send someone to summon him.
 Dialogue: 0,0:18:46.51,0:18:47.55,Default,,0,0,0,,Premier,
 Dialogue: 0,0:18:47.84,0:18:50.31,Default,,0,0,0,,Cáo Cāo really wanted to assassinate you.
 Dialogue: 0,0:18:53.39,0:18:55.50,Default,,0,0,0,,Cáo Cāo never returned home.
-Dialogue: 0,0:18:55.71,0:18:57.55,Default,,0,0,0,,He rode his horse to the east gate,
-Dialogue: 0,0:18:57.64,0:18:58.63,Default,,0,0,0,,told the guard there
+Dialogue: 0,0:18:55.71,0:18:58.63,Default,,0,0,0,,He rode his horse to the east gate, told the guard there
 Dialogue: 0,0:18:58.72,0:19:01.55,Default,,0,0,0,,that he was sent by the \NPremier on urgent business,
 Dialogue: 0,0:19:01.77,0:19:04.24,Default,,0,0,0,,and rode out of the city.
 Dialogue: 0,0:19:06.43,0:19:09.25,Default,,0,0,0,,I valued him,
@@ -238,16 +221,16 @@ Dialogue: 0,0:21:00.63,0:21:01.75,Default,,0,0,0,,Let me go!
 Dialogue: 0,0:21:02.27,0:21:03.72,Default,,0,0,0,,You've got it wrong!
 Dialogue: 0,0:21:25.24,0:21:26.84,Default,NTP,0,0,0,,I'm just a merchant passing by!
 Dialogue: 0,0:21:26.84,0:21:29.11,Default,NTP,0,0,0,,My surname is Huángfǔ. Let me go!
-Dialogue: 0,0:21:46.44,0:21:49.00,Style Names,,0,0,0,,{\pos(597,360)\fade(255,0,255,0,360,2200,2560)}Chén Gōng\NStyled: Gōngtái
+Dialogue: 0,0:21:46.44,0:21:49.00,Style Names,,0,0,0,,{\pos(1221.136,736.364)\fade(255,0,255,0,360,2200,2560)}Chén Gōng\NStyled: Gōngtái
 Dialogue: 0,0:21:59.88,0:22:01.24,Default,,0,0,0,,Hurry up and let me go!
-Dialogue: 0,0:22:16.09,0:22:18.26,Thoughts,,0,0,0,,To hand him over and be rewarded,
-Dialogue: 0,0:22:19.29,0:22:21.20,Thoughts,,0,0,0,,or to let him go?
-Dialogue: 0,0:22:21.73,0:22:26.20,Thoughts,,0,0,0,,If I hand him over to Dǒng\N Zhuó the realm will curse me.
-Dialogue: 0,0:22:26.65,0:22:29.28,Thoughts,,0,0,0,,If I release him, my career will be...
-Dialogue: 0,0:22:43.05,0:22:44.90,Default,,0,0,0,,You do somewhat
-Dialogue: 0,0:22:46.94,0:22:48.32,Default,,0,0,0,,bear a resemblance.
+Dialogue: 0,0:22:16.09,0:22:18.26,Thinking,,0,0,0,,To hand him over and be rewarded,
+Dialogue: 0,0:22:19.29,0:22:21.20,Thinking,,0,0,0,,or to let him go?
+Dialogue: 0,0:22:21.73,0:22:26.20,Thinking,,0,0,0,,If I hand him over to Dǒng\N Zhuó the realm will curse me.
+Dialogue: 0,0:22:26.65,0:22:29.28,Thinking,,0,0,0,,If I release him, my career will be...
+Dialogue: 0,0:22:43.05,0:22:44.90,Default,,0,0,0,,You do somewhat...
+Dialogue: 0,0:22:46.94,0:22:48.32,Default,,0,0,0,,Bear a resemblance.
 Dialogue: 0,0:22:50.03,0:22:53.12,Default,,0,0,0,,Correct, but there are many\N people who resemble each other.
-Dialogue: 0,0:22:53.38,0:22:56.98,Default,,0,0,0,,You made a mistake by arresting me, and I don't blame you.\NJust hurry and let me go!
+Dialogue: 0,0:22:53.38,0:22:56.98,Default,,0,0,0,,You made a mistake arresting me.\NJust hurry and let me go!
 Dialogue: 0,0:23:00.41,0:23:02.82,Default,,0,0,0,,For now, imprison him.
 Dialogue: 0,0:23:06.95,0:23:10.25,Default,,0,0,0,,You've got the wrong man!
 Dialogue: 0,0:23:10.37,0:23:11.87,Default,,0,0,0,,Hurry up and let me go!
@@ -263,14 +246,14 @@ Dialogue: 0,0:24:33.88,0:24:34.85,Default,,0,0,0,,Cáo Cāo.
 Dialogue: 0,0:24:43.50,0:24:44.98,Default,,0,0,0,,You must be mistaken.
 Dialogue: 0,0:24:45.47,0:24:47.16,Default,,0,0,0,,My surname is Huángfǔ.
 Dialogue: 0,0:24:49.25,0:24:51.08,Default,,0,0,0,,Why must you hide your identity?
-Dialogue: 0,0:24:51.37,0:24:54.20,Default,,0,0,0,,When I went to Luòyáng to seek\N a government post in the past,
-Dialogue: 0,0:24:54.20,0:24:56.58,Default,,0,0,0,,I happened to meet you, Cáo Cāo.
+Dialogue: 0,0:24:51.37,0:24:54.38,Default,,0,0,0,,When I went to Luòyáng to seek\N a government post in the past,
+Dialogue: 0,0:24:54.44,0:24:56.58,Default,,0,0,0,,I happened to meet you, Cáo Cāo.
 Dialogue: 0,0:25:16.13,0:25:18.61,Default,,0,0,0,,I heard the Premier treated you very well.
 Dialogue: 0,0:25:19.97,0:25:22.59,Default,,0,0,0,,Why did you invite trouble for yourself?
-Dialogue: 0,0:25:26.53,0:25:31.08,Default,,0,0,0,,{\pos(352,432.286)}A sparrow cannot understand the aspirations of a swan!
-Dialogue: 0,0:25:34.21,0:25:37.82,Default,,0,0,0,,{\pos(352,432.286)}You compare yourself to a swan, \Nbut how can you know the others are sparrows?
+Dialogue: 0,0:25:26.53,0:25:31.08,Default,,0,0,0,,{\pos(720,884.221)}A sparrow cannot understand the aspirations of a swan!
+Dialogue: 0,0:25:34.21,0:25:37.82,Default,,0,0,0,,{\pos(720,884.221)}You compare yourself to a swan, \Nbut how can you know the others are sparrows?
 Dialogue: 0,0:25:37.90,0:25:39.07,Default,NTP,0,0,0,,Stop blabbering!
-Dialogue: 0,0:25:39.12,0:25:41.67,Default,NTP,0,0,0,,Now that you've caught me, hand me over and claim your prize!
+Dialogue: 0,0:25:39.12,0:25:41.72,Default,NTP,0,0,0,,Now that you've caught me, hand me over and claim your prize!
 Dialogue: 0,0:25:41.72,0:25:43.01,Default,,0,0,0,,How did you know I was going to?
 Dialogue: 0,0:25:43.01,0:25:46.50,Default,,0,0,0,,Treasures and a title of a marquis.\N Is that not enough?
 Dialogue: 0,0:25:52.70,0:25:56.09,Default,,0,0,0,,It's a lot for a small magistrate like me.
@@ -288,72 +271,72 @@ Dialogue: 0,0:26:49.64,0:26:50.94,Default,,0,0,0,,I was just asking!
 Dialogue: 0,0:26:51.54,0:26:53.34,Default,,0,0,0,,The Premier trusted you,
 Dialogue: 0,0:26:53.34,0:26:55.56,Default,,0,0,0,,but you attempted to assassinate him.
 Dialogue: 0,0:26:56.26,0:26:59.02,Default,,0,0,0,,What is the reason for this?
-Dialogue: 0,0:27:03.04,0:27:05.70,Default,,0,0,0,,{\pos(352,430)}For generations, my family was favored by the Hàn Empire.
-Dialogue: 0,0:27:05.89,0:27:08.00,Default,,0,0,0,,{\pos(352,430)}If I turned from my country,
-Dialogue: 0,0:27:08.48,0:27:10.45,Default,,0,0,0,,{\pos(352,430)}how would I differ from a beast?
-Dialogue: 0,0:27:12.68,0:27:16.03,Default,,0,0,0,,{\pos(352,430)}That's why I bowed down to Dǒng Zhuó.
-Dialogue: 0,0:27:16.23,0:27:18.60,Default,,0,0,0,,{\pos(352,430)}It was to find a chance to kill the bastard.
-Dialogue: 0,0:27:19.00,0:27:21.89,Default,,0,0,0,,{\pos(352,430)}Yet now I would fail and my efforts are for naught.
-Dialogue: 0,0:27:23.20,0:27:25.54,Default,,0,0,0,,{\pos(352,430)}But alas, perhaps this is the will of Heaven.
-Dialogue: 0,0:27:26.52,0:27:30.11,Default,,0,0,0,,{\pos(352,430)}Then, where will you go?
-Dialogue: 0,0:27:31.29,0:27:34.15,Default,,0,0,0,,{\pos(352,430)}I will return to my hometown and issue an edict
-Dialogue: 0,0:27:34.44,0:27:37.62,Default,,0,0,0,,{\pos(352,430)}calling all the lords of the\Nrealm to march against Dǒng Zhuó!
-Dialogue: 0,0:27:37.79,0:27:38.94,Default,,0,0,0,,{\pos(352,430)}An expedition?
-Dialogue: 0,0:27:39.89,0:27:42.30,Default,,0,0,0,,{\pos(352,430)}Against Dǒng Zhuó in support of the Hàn!
-Dialogue: 0,0:27:57.77,0:27:59.33,Default,,0,0,0,,Please sit, accept my respects!
-Dialogue: 0,0:27:59.40,0:28:01.70,Default,,0,0,0,,Your prisoner does not dare\N to accept such a virtue.
+Dialogue: 0,0:27:02.94,0:27:05.76,Default,,0,0,0,,{\pos(720,879.545)}For generations, my family was favored by the Hàn Empire.
+Dialogue: 0,0:27:05.89,0:27:08.00,Default,,0,0,0,,{\pos(720,879.545)}If I turned from my country,
+Dialogue: 0,0:27:08.48,0:27:10.45,Default,,0,0,0,,{\pos(720,879.545)}how would I differ from a beast?
+Dialogue: 0,0:27:12.68,0:27:16.03,Default,,0,0,0,,{\pos(720,879.545)}That's why I bowed down to Dǒng Zhuó.
+Dialogue: 0,0:27:16.23,0:27:18.60,Default,,0,0,0,,{\pos(720,879.545)}It was to find a chance to kill the bastard.
+Dialogue: 0,0:27:19.00,0:27:21.89,Default,,0,0,0,,{\pos(720,879.545)}Yet now I would fail and my efforts are for naught.
+Dialogue: 0,0:27:23.20,0:27:25.54,Default,,0,0,0,,{\pos(720,879.545)}But alas, perhaps this is the will of Heaven.
+Dialogue: 0,0:27:26.52,0:27:30.11,Default,,0,0,0,,{\pos(720,879.545)}Then, where will you go?
+Dialogue: 0,0:27:31.29,0:27:34.15,Default,,0,0,0,,{\pos(720,879.545)}I will return to my hometown and issue an edict
+Dialogue: 0,0:27:34.44,0:27:37.62,Default,,0,0,0,,{\pos(720,879.545)}calling all the lords of the\Nrealm to march against Dǒng Zhuó!
+Dialogue: 0,0:27:37.79,0:27:38.94,Default,,0,0,0,,{\pos(720,879.545)}Against Dǒng Zhuó?
+Dialogue: 0,0:27:39.89,0:27:42.48,Default,,0,0,0,,{\pos(720,879.545)}Against Dǒng Zhuó, to save the Hàn Empire!
+Dialogue: 0,0:27:57.77,0:27:59.46,Default,,0,0,0,,Please sit, accept my respects!
+Dialogue: 0,0:27:59.50,0:28:02.12,Default,,0,0,0,,Your prisoner does not dare\N to accept such a virtue.
 Dialogue: 0,0:28:04.96,0:28:05.78,Default,,0,0,0,,Please sit.
 Dialogue: 0,0:28:05.92,0:28:07.42,Default,,0,0,0,,I dare not sit first.
 Dialogue: 0,0:28:11.52,0:28:12.36,Default,,0,0,0,,Please.
 Dialogue: 0,0:28:18.44,0:28:20.48,Default,,0,0,0,,I don't know where your hometown is.
-Dialogue: 0,0:28:21.29,0:28:23.89,Default,,0,0,0,,My father and his family are \Nall live in Dōng commandery.
-Dialogue: 0,0:28:24.84,0:28:27.42,Default,,0,0,0,,My wife and children also reside in Dōng commandery!
-Dialogue: 0,0:28:27.48,0:28:31.17,Default,,0,0,0,,So you and I are fellow townsmen?
+Dialogue: 0,0:28:21.16,0:28:24.04,Default,,0,0,0,,My father and his family are \Nall live in Dōng commandery.
+Dialogue: 0,0:28:24.70,0:28:27.58,Default,,0,0,0,,My wife and children also reside in Dōng commandery!
+Dialogue: 0,0:28:27.62,0:28:31.17,Default,,0,0,0,,So you and I are fellow townsmen?
 Dialogue: 0,0:28:31.79,0:28:33.79,Default,,0,0,0,,May I ask your name?
-Dialogue: 0,0:28:33.91,0:28:36.47,Default,,0,0,0,,My surname is Chén and my\N forename is Gōng, styled Gōngtái.
+Dialogue: 0,0:28:33.86,0:28:36.80,Default,,0,0,0,,My surname is Chén and my\N forename is Gōng, styled Gōngtái.
 Dialogue: 0,0:28:36.93,0:28:41.44,Default,,0,0,0,,After you return home,\Nhow are you going to rally the lords of the realm?
-Dialogue: 0,0:28:52.20,0:28:56.40,Default,,0,0,0,,{\pos(352,420)}Now, the realm is in chaos and all the lords are beginning to rise up.
-Dialogue: 0,0:28:56.84,0:28:58.24,Default,,0,0,0,,{\pos(352,420)}After I return home,
-Dialogue: 0,0:28:58.24,0:29:02.52,Default,,0,0,0,,{\pos(352,420)}I will use all my family's wealth to conscript an army.
-Dialogue: 0,0:29:05.94,0:29:08.78,Default,,0,0,0,,{\pos(352,420)}I am good friends with Yuán Shào, \Nstyled Běnchū, of Jìzhōu.
-Dialogue: 0,0:29:08.88,0:29:14.76,Default,,0,0,0,,{\pos(352,420)}His family has served the \Nnation for many generations.
-Dialogue: 0,0:29:14.98,0:29:19.09,Default,,0,0,0,,{\pos(352,420)}He has deep connections\N with the nobles of the realm,
-Dialogue: 0,0:29:19.14,0:29:22.59,Default,,0,0,0,,{\pos(352,420)}so I can cooperate with him to call an expedition against Dǒng Zhuó and save the royal family.
-Dialogue: 0,0:29:22.61,0:29:25.38,Default,,0,0,0,,{\pos(352,420)}I am sure they will respond.
+Dialogue: 0,0:28:52.20,0:28:56.40,Default,,0,0,0,,{\pos(720,859.091)}Now, the realm is in chaos and all the lords are beginning to rise up.
+Dialogue: 0,0:28:56.84,0:28:58.24,Default,,0,0,0,,{\pos(720,859.091)}After I return home,
+Dialogue: 0,0:28:58.24,0:29:02.52,Default,,0,0,0,,{\pos(720,859.091)}I will use all my family's wealth to conscript an army.
+Dialogue: 0,0:29:05.56,0:29:08.88,Default,,0,0,0,,{\pos(720,859.091)}I am good friends with Yuán Shào, \Nstyled Běnchū, of Jì-Province.
+Dialogue: 0,0:29:08.88,0:29:14.76,Default,,0,0,0,,{\pos(720,859.091)}His family has served the \Nnation for many generations.
+Dialogue: 0,0:29:14.98,0:29:19.09,Default,,0,0,0,,{\pos(720,859.091)}He has deep connections\N with the nobles of the realm,
+Dialogue: 0,0:29:19.14,0:29:23.36,Default,,0,0,0,,{\pos(720,859.091)}so I can cooperate with him to call an expedition against Dǒng Zhuó and save the royal family.
+Dialogue: 0,0:29:23.50,0:29:25.38,Default,,0,0,0,,{\pos(720,859.091)}I am sure they will respond.
 Dialogue: 0,0:29:26.04,0:29:27.32,Default,,0,0,0,,Good.
-Dialogue: 0,0:29:53.46,0:29:56.71,Default,,0,0,0,,{\pos(352,420)}Dǒng Zhuó runs amok and is\N a calamity for the state and the people;
-Dialogue: 0,0:29:56.71,0:29:59.02,Default,,0,0,0,,{\pos(352,420)}the whole realm wants to get rid of him.
-Dialogue: 0,0:29:59.56,0:30:03.56,Default,,0,0,0,,{\pos(352,420)}You're following the will of heaven and the people.
-Dialogue: 0,0:30:04.38,0:30:07.00,Default,,0,0,0,,{\pos(352,420)}You will surely succeed in your undertaking.
-Dialogue: 0,0:30:07.11,0:30:08.71,Default,,0,0,0,,{\pos(352,420)}However, at the moment...
-Dialogue: 0,0:30:12.74,0:30:15.33,Default,,0,0,0,,Do you think I would have\N handed you over for a reward?
+Dialogue: 0,0:29:53.34,0:29:56.71,Default,,0,0,0,,{\pos(720,859.091)}Dǒng Zhuó runs amok and is\N a calamity for the state and the people,
+Dialogue: 0,0:29:56.71,0:29:59.02,Default,,0,0,0,,{\pos(720,859.091)}the whole realm wants to get rid of him.
+Dialogue: 0,0:29:59.56,0:30:03.56,Default,,0,0,0,,{\pos(720,859.091)}You're following the will of heaven and the people.
+Dialogue: 0,0:30:04.38,0:30:07.00,Default,,0,0,0,,{\pos(720,859.091)}You will surely succeed in your undertaking.
+Dialogue: 0,0:30:07.11,0:30:08.71,Default,,0,0,0,,{\pos(720,859.091)}However, at the moment...
+Dialogue: 0,0:30:12.74,0:30:15.64,Default,,0,0,0,,Do you think I would have\N handed you over for a reward?
 Dialogue: 0,0:30:17.16,0:30:20.03,Default,,0,0,0,,I, Chén Gōng, am not just a petty official,
-Dialogue: 0,0:30:20.54,0:30:22.65,Default,,0,0,0,,but I've never met a worthy master.
+Dialogue: 0,0:30:20.54,0:30:22.65,Default,,0,0,0,,but I've never met a worthy leader.
 Dialogue: 0,0:30:24.05,0:30:27.76,Default,,0,0,0,,I'm deeply moved by your loyalty \Ntowards the nation and the people.
-Dialogue: 0,0:30:28.08,0:30:30.41,Default,,0,0,0,,I will relinquish my duty as county magistrate,
-Dialogue: 0,0:30:30.53,0:30:33.89,Default,,0,0,0,,and follow you to help in this great cause.
+Dialogue: 0,0:30:28.08,0:30:30.56,Default,,0,0,0,,I will relinquish my duty as county magistrate,
+Dialogue: 0,0:30:30.62,0:30:33.89,Default,,0,0,0,,and follow you to help in this great cause.
 Dialogue: 0,0:31:04.43,0:31:05.48,Default,,0,0,0,,Gōngtái,
 Dialogue: 0,0:31:06.24,0:31:09.12,Default,,0,0,0,,a person named Lǚ Bóshē lives here.
 Dialogue: 0,0:31:09.18,0:31:11.17,Default,,0,0,0,,He is my father's sworn brother.
 Dialogue: 0,0:31:11.59,0:31:14.53,Default,NTP,0,0,0,,For the night, why don't we stay here?
-Dialogue: 0,0:31:14.53,0:31:16.14,Default,NTP,0,0,0,,I can ask about my family's whereabouts.
+Dialogue: 0,0:31:14.53,0:31:16.64,Default,NTP,0,0,0,,I can ask about my family's whereabouts.
 Dialogue: 0,0:31:17.15,0:31:19.80,Default,,0,0,0,,He won't reject his sworn brother's own son, then!
 Dialogue: 0,0:31:19.87,0:31:20.75,Default,,0,0,0,,Let's go.
 Dialogue: 0,0:31:37.69,0:31:39.39,Default,,0,0,0,,Who are you looking for?
 Dialogue: 0,0:31:40.52,0:31:42.44,Default,,0,0,0,,Is your master in?
 Dialogue: 0,0:31:42.61,0:31:43.74,Default,,0,0,0,,Yes.
 Dialogue: 0,0:31:44.15,0:31:46.47,Default,,0,0,0,,Master, there's someone here to see you.
-Dialogue: 0,0:31:48.40,0:31:50.24,Style Names,,0,0,0,,{\pos(554,191)\fade(255,0,255,0,360,1520,1840)}Lǚ Bóshē
+Dialogue: 0,0:31:48.40,0:31:50.24,Style Names,,0,0,0,,{\pos(1133.182,390.682)\fade(255,0,255,0,360,1520,1840)}Lǚ Bóshē
 Dialogue: 0,0:31:50.49,0:31:52.30,Default,,0,0,0,,You are...
 Dialogue: 0,0:31:53.02,0:31:54.06,Default,,0,0,0,,Uncle,
 Dialogue: 0,0:31:54.78,0:31:56.34,Default,,0,0,0,,I am Āmán.
-Dialogue: 0,0:31:54.78,0:31:56.34,Header,,0,0,0,,Note: Āmán is Cáo Cāo's childhood name.
+Dialogue: 0,0:31:54.78,0:31:57.30,Note (Potential style?),,0,0,0,,Note: Āmán is Cáo Cāo's childhood name.
 Dialogue: 0,0:31:58.01,0:31:59.22,Default,,0,0,0,,Āmán!
 Dialogue: 0,0:31:59.79,0:32:01.25,Default,,0,0,0,,Please come in quickly.
 Dialogue: 0,0:32:01.66,0:32:02.53,Default,,0,0,0,,Quickly.
 Dialogue: 0,0:32:03.45,0:32:05.28,Default,,0,0,0,,Please. Come in quickly.
 Dialogue: 0,0:32:05.72,0:32:06.94,Default,,0,0,0,,Uncle.
-Dialogue: 0,0:32:13.30,0:32:13.83,Default,,0,0,0,,Please sit.
+Dialogue: 0,0:32:13.30,0:32:13.94,Default,,0,0,0,,Please sit.
 Dialogue: 0,0:32:14.47,0:32:15.74,Default,,0,0,0,,Please sit, Gōngtái.
 Dialogue: 0,0:32:21.70,0:32:23.01,Default,,0,0,0,,Āmán,
 Dialogue: 0,0:32:24.80,0:32:26.24,Default,,0,0,0,,I heard...
@@ -367,8 +350,8 @@ Dialogue: 0,0:32:53.36,0:32:55.36,Default,,0,0,0,,It's hard to explain.
 Dialogue: 0,0:33:03.23,0:33:05.41,Default,,0,0,0,,I failed to assassinate Dǒng Zhuó,
 Dialogue: 0,0:33:05.90,0:33:07.86,Default,,0,0,0,,so I fled the capital city in the night.
 Dialogue: 0,0:33:08.51,0:33:12.33,Default,,0,0,0,,I ran until I was arrested at Zhōngmóu county.
-Dialogue: 0,0:33:13.80,0:33:17.14,Default,,0,0,0,,Were it not for magistrate Chén\Nsacrificing his post to escape with me,
-Dialogue: 0,0:33:18.24,0:33:20.14,Default,,0,0,0,,your nephew would have long been dead.
+Dialogue: 0,0:33:13.70,0:33:17.46,Default,,0,0,0,,Were it not for magistrate Chén\Nsacrificing his post to escape with me,
+Dialogue: 0,0:33:18.24,0:33:20.56,Default,,0,0,0,,your nephew would have long been dead.
 Dialogue: 0,0:33:26.81,0:33:30.65,Default,,0,0,0,,Were it not for you, the entire Cáo clan would have ended.
 Dialogue: 0,0:33:31.22,0:33:35.77,Default,,0,0,0,,Please take a seat and rest here for the night.
 Dialogue: 0,0:33:35.77,0:33:37.44,Default,,0,0,0,,Sorry to bother you, uncle.
@@ -413,19 +396,19 @@ Dialogue: 0,0:38:19.69,0:38:21.62,Default,,0,0,0,,and we would be doomed.
 Dialogue: 0,0:38:22.22,0:38:23.24,Default,,0,0,0,,Uncle.
 Dialogue: 0,0:38:24.65,0:38:25.94,Default,,0,0,0,,Uncle.
 Dialogue: 0,0:38:26.63,0:38:28.64,Default,,0,0,0,,He's already dead.
-Dialogue: 0,0:38:29.31,0:38:30.81,Default,,0,0,0,,Crying won't make a difference.
+Dialogue: 0,0:38:29.18,0:38:30.84,Default,,0,0,0,,Crying won't make a difference.
 Dialogue: 0,0:38:31.07,0:38:32.00,Default,,0,0,0,,Let's go.
-Dialogue: 0,0:38:32.33,0:38:34.23,Default,,0,0,0,,You murdered him.
+Dialogue: 0,0:38:32.33,0:38:34.23,Default,,0,0,0,,You {\i1}murdered him.
 Dialogue: 0,0:38:34.36,0:38:35.29,Default,,0,0,0,,You...
 Dialogue: 0,0:38:35.61,0:38:36.48,Default,,0,0,0,,You...
 Dialogue: 0,0:38:36.81,0:38:38.44,Default,,0,0,0,,You've gone too far!
-Dialogue: 0,0:38:56.14,0:39:00.92,Default,,0,0,0,,{\pos(352,430)}Rather I {\pos(352,430)}betray the world,
-Dialogue: 0,0:39:02.25,0:39:06.38,Default,,0,0,0,,{\pos(352,430)}than let the world betray me.
+Dialogue: 0,0:38:56.14,0:39:00.92,Default,,0,0,0,,{\pos(720,879.545)}Rather I betray the world,
+Dialogue: 0,0:39:02.25,0:39:06.38,Default,,0,0,0,,{\pos(720,879.545)}than let the world betray me.
 Dialogue: 0,0:39:18.40,0:39:20.70,Default,,0,0,0,,Until now I followed him for the nation.
 Dialogue: 0,0:39:21.22,0:39:22.62,Default,,0,0,0,,For that, I can't kill him,
-Dialogue: 0,0:39:23.16,0:39:25.26,Default,,0,0,0,,but I can't stand with him.
-Dialogue: 0,0:39:28.31,0:39:32.18,Default,,0,0,0,,I will leave now. You may go ahead with your 'great cause'
-Dialogue: 0,0:39:56.86,0:40:00.20,Default,,0,0,0,,Cáo Cāo went back to Chénliú afterwards.
-Dialogue: 0,0:40:00.45,0:40:04.37,Default,,0,0,0,,He spent all his family's wealth to recruit an army.
-Dialogue: 0,0:40:04.88,0:40:10.39,Default,,0,0,0,,He contacted Yuán Shào and sent out declarations to all provinces to march against Dǒng Zhuó.
-Dialogue: 0,0:40:10.52,0:40:14.95,Default,,0,0,0,,They were answered all across the realm.
+Dialogue: 0,0:39:23.16,0:39:25.42,Default,,0,0,0,,but I can't stand with him.
+Dialogue: 0,0:39:28.31,0:39:32.18,Default,,0,0,0,,I will leave now. You may go ahead with your {\i1}'great cause'.
+Dialogue: 0,0:39:56.86,0:40:00.20,Thinking,,0,0,0,,Cáo Cāo went back to Chénliú afterwards.
+Dialogue: 0,0:40:00.45,0:40:04.37,Thinking,,0,0,0,,He spent all his family's wealth to recruit an army.
+Dialogue: 0,0:40:04.88,0:40:10.39,Thinking,,0,0,0,,He contacted Yuán Shào and sent out declarations to all provinces to march against Dǒng Zhuó.
+Dialogue: 0,0:40:10.52,0:40:14.95,Thinking,,0,0,0,,They were answered all across the realm.

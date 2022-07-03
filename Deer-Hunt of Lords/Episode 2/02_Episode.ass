@@ -9,71 +9,60 @@ Original Editing:
 Script Updated By: 
 Update Details: 
 ScriptType: v4.00+
-PlayResX: 704
-PlayResY: 528
+PlayResX: 1440
+PlayResY: 1080
 Timer: 100.0000
 Synch Point: 
 WrapStyle: 0
 ScaledBorderAndShadow: no
 YCbCr Matrix: TV.601
 
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: ../../../Downloads/〔1994〕【三国演义】大陆.全84集.国语.简体中字.MKV.704×528/三国演义.E02.十常侍乱政.1994.DVDRip.x264-10bit.AC3-CMCT.mkv
-Video File: ../../../Downloads/〔1994〕【三国演义】大陆.全84集.国语.简体中字.MKV.704×528/三国演义.E02.十常侍乱政.1994.DVDRip.x264-10bit.AC3-CMCT.mkv
-Video AR Mode: 4
-Video AR Value: 1.333333
-Video Zoom Percent: 1.000000
-Scroll Position: 448
-Active Line: 450
-Video Position: 59694
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Yu Gothic,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,2.1,0,2,10,10,10,1
-Style: Header,Yu Gothic,30,&H0034C0CD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,95,0,0,1,2,0.999998,8,10,10,10,1
-Style: Style Names,Tahoma,24,&H00FDFCFC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,105,110,0,0,1,1.8,0.0999998,5,10,10,10,1
-Style: Title,Yu Gothic,35,&H001132D6,&H000000FF,&H00000000,&H00000000,-1,0,0,0,110,105,0.500001,0,1,2,0.999998,5,10,10,10,1
-Style: Song,Yu Gothic,32,&H000000FF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,2,0.4,2,10,10,10,1
-Style: Episode Title,Yu Gothic,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,110,100,0,0,1,2,2.5,5,10,10,10,1
-Style: Thinking,Yu Gothic,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,103,103,0,0,1,2.2,0,2,10,10,10,1
-Style: Note (Potential style?),Yu Gothic UI Semibold,22,&H0018CBDC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,97,0,0,1,1.5,0.999998,9,10,10,10,1
-Style: Default (small),Yu Gothic,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,2.1,0,2,10,10,10,1
+Style: Default,Yu Gothic,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,4.29545,0,2,20,20,20,1
+Style: Header,Yu Gothic,61,&H0034C0CD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,95,0,0,1,4.09091,2.04545,8,20,20,20,1
+Style: Style Names,Tahoma,49,&H00FDFCFC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,105,110,0,0,1,3.68182,0.204545,5,20,20,20,1
+Style: Title,Yu Gothic,72,&H001132D6,&H000000FF,&H00000000,&H00000000,-1,0,0,0,110,105,1.02273,0,1,4.09091,2.04545,5,20,20,20,1
+Style: Song,Yu Gothic,65,&H000000FF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,4.09091,0.818182,2,20,20,20,1
+Style: Episode Title,Yu Gothic,86,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,110,100,0,0,1,4.09091,5.11364,5,20,20,20,1
+Style: Thinking,Yu Gothic,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,103,103,0,0,1,4.5,0,2,20,20,20,1
+Style: Note (Potential style?),Yu Gothic UI Semibold,45,&H0018CBDC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,97,0,0,1,3.06818,2.04545,9,20,20,20,1
+Style: Default (small),Yu Gothic,57,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,4.29545,0,2,20,20,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:06.10,Header,,0,0,0,,This is a Gentlemen of the Hàn free fansub.
-Dialogue: 0,0:00:01.06,0:00:06.70,Episode Title,,0,0,0,,{\pos(350,245)\fade(255,0,255,0,1435,4780,5620)}Episode 2
-Dialogue: 0,0:00:01.06,0:00:06.70,Episode Title,,0,0,0,,{\pos(350,420)\fade(255,0,255,0,1435,4780,5620)}The Crisis of Ten Attendants
+Dialogue: 0,0:00:01.06,0:00:06.70,Episode Title,,0,0,0,,{\pos(715.909,501.136)\fade(255,0,255,0,1435,4780,5620)}Episode 2
+Dialogue: 0,0:00:01.06,0:00:06.70,Episode Title,,0,0,0,,{\pos(715.909,859.091)\fade(255,0,255,0,1435,4780,5620)}The Crisis of Ten Attendants
 Dialogue: 0,0:00:30.30,0:00:31.45,Default,,0,0,0,,Ginseng soup.
 Dialogue: 0,0:00:49.95,0:00:54.04,Default,,0,0,0,,As I see it, the emperor will\Nonly last for another two days.
 Dialogue: 0,0:00:56.15,0:00:57.62,Default,,0,0,0,,What shall we do?
 Dialogue: 0,0:00:58.35,0:01:01.97,Default,,0,0,0,,The emperor favors Liú Xié,\Nnaturally he'd like for him to succeed.
 Dialogue: 0,0:01:03.00,0:01:04.72,Default,,0,0,0,,What about Liú Biàn?
 Dialogue: 0,0:01:05.22,0:01:09.87,Default,,0,0,0,,Do you think Empress Hé and Hé Jìn\Nwill just leave it at that?
-Dialogue: 0,0:01:05.58,0:01:08.30,Style Names,,0,0,0,,{\pos(90,296)\fade(255,0,255,0,445,2340,2700)}Duàn Guī
+Dialogue: 0,0:01:05.58,0:01:08.30,Style Names,,0,0,0,,{\pos(184.091,605.455)\fade(255,0,255,0,445,2340,2700)}Duàn Guī
 Dialogue: 0,0:01:10.90,0:01:16.10,Default,,0,0,0,,Currently, our first plan is\N to deal with Hé Jìn. When he dies, Empress Hé-
 Dialogue: 0,0:01:16.10,0:01:19.27,Default,,0,0,0,,What can she do?\NEverything she has she owes to us.
 Dialogue: 0,0:01:20.97,0:01:21.65,Default,,0,0,0,,Who's there?
-Dialogue: 0,0:01:30.18,0:01:32.10,Style Names,,0,0,0,,{\pos(114,268)\fade(255,0,255,0,450,1540,2302)}Empress Dowager\NDǒng
+Dialogue: 0,0:01:30.18,0:01:32.10,Style Names,,0,0,0,,{\pos(233.182,548.182)\fade(255,0,255,0,450,1540,2302)}Empress Dowager\NDǒng
 Dialogue: 0,0:01:30.32,0:01:35.25,Default,,0,0,0,,Divine spirits hear me.\NBless his majesty with a speedy recovery.
 Dialogue: 0,0:01:35.90,0:01:40.27,Default,,0,0,0,,I'm willing to trade the years I have left\Nfor the emperor to have a few more.
 Dialogue: 0,0:01:40.89,0:01:43.24,Default,,0,0,0,,Please bless his majesty, divine spirits.
 Dialogue: 0,0:01:43.45,0:01:45.22,Default,,0,0,0,,Please bless his majesty, divine spirits.
 Dialogue: 0,0:01:46.00,0:01:47.92,Default,,0,0,0,,Please bless his majesty, divine spirits.
-Dialogue: 0,0:01:45.46,0:01:47.82,Style Names,,0,0,0,,{\pos(201,349)\fade(255,0,255,0,500,2020,2340)}Liú Xié
+Dialogue: 0,0:01:45.46,0:01:47.82,Style Names,,0,0,0,,{\pos(411.137,713.864)\fade(255,0,255,0,500,2020,2340)}Liú Xié
 Dialogue: 0,0:01:49.50,0:01:51.97,Default,,0,0,0,,Grandmother.\NNo... Empress Dowager, don't worry.
 Dialogue: 0,0:01:52.07,0:01:54.00,Default,,0,0,0,,I'll definitely be a good emperor.
 Dialogue: 0,0:01:54.31,0:01:56.30,Default,,0,0,0,,Please bless his majesty, divine spirits.
-Dialogue: 0,0:02:00.94,0:02:03.10,Style Names,,0,0,0,,{\pos(595,346)\fade(255,0,255,0,500,1780,2140)}Empress Hé
-Dialogue: 0,0:02:06.74,0:02:09.22,Style Names,,0,0,0,,{\pos(574,335)\fade(255,0,255,0,400,2050,2460)}Liú Biàn
+Dialogue: 0,0:02:00.94,0:02:03.10,Style Names,,0,0,0,,{\pos(1217.045,707.727)\fade(255,0,255,0,500,1780,2140)}Empress Hé
+Dialogue: 0,0:02:06.74,0:02:09.22,Style Names,,0,0,0,,{\pos(1174.091,685.227)\fade(255,0,255,0,400,2050,2460)}Liú Biàn
 Dialogue: 0,0:02:22.05,0:02:24.05,Default,,0,0,0,,My respects to Empress Dowager Dǒng.
 Dialogue: 0,0:02:22.75,0:02:24.05,Default,,0,0,0,,My respects to Empress Hé!
 Dialogue: 0,0:02:25.90,0:02:26.52,Default,,0,0,0,,Rise.
 Dialogue: 0,0:02:28.50,0:02:29.25,Default,,0,0,0,,Rise.
 Dialogue: 0,0:02:40.57,0:02:41.45,Default,,0,0,0,,My grandson?
 Dialogue: 0,0:03:06.91,0:03:07.62,Default,,0,0,0,,His Majesty?
-Dialogue: 0,0:03:26.98,0:03:29.94,Style Names,,0,0,0,,{\pos(107,278)\fade(255,0,255,0,520,260,2940)}Jiàn Shuò
+Dialogue: 0,0:03:26.98,0:03:29.94,Style Names,,0,0,0,,{\pos(218.863,568.636)\fade(255,0,255,0,520,260,2940)}Jiàn Shuò
 Dialogue: 0,0:03:08.47,0:03:09.52,Default,,0,0,0,,His Majesty!
 Dialogue: 0,0:03:09.62,0:03:12.20,Default,,0,0,0,,His Majesty!
 Dialogue: 0,0:03:36.95,0:03:37.60,Default,,0,0,0,,Alright.
@@ -90,7 +79,7 @@ Dialogue: 0,0:04:27.65,0:04:29.88,Default,,0,0,0,,The Ten Attendants are keeping
 Dialogue: 0,0:04:29.88,0:04:32.00,Default,,0,0,0,,I think, sir, they intend to assassinate you.
 Dialogue: 0,0:04:34.50,0:04:36.00,Default,,0,0,0,,Is it true?
 Dialogue: 0,0:04:41.47,0:04:42.17,Default,,0,0,0,,Let's go!
-Dialogue: 0,0:04:43.02,0:04:45.54,Style Names,,0,0,0,,{\pos(118.857,317.714)\fade(255,0,255,0,520,1980,2500)}Zhāng Ràng
+Dialogue: 0,0:04:43.02,0:04:45.54,Style Names,,0,0,0,,{\pos(243.116,649.87)\fade(255,0,255,0,520,1980,2500)}Zhāng Ràng
 Dialogue: 0,0:04:43.90,0:04:45.10,Default,,0,0,0,,Who leaked the news?
 Dialogue: 0,0:04:49.82,0:04:51.72,Default,,0,0,0,,It's all over!
 Dialogue: 0,0:04:54.57,0:04:59.17,Default,,0,0,0,,Jiǎn Shuò, make sure to step up security!
@@ -102,11 +91,11 @@ Dialogue: 0,0:05:22.35,0:05:26.47,Default,,0,0,0,,Today will be a momentous day!
 Dialogue: 0,0:05:31.22,0:05:32.74,Default,,0,0,0,,Those rotten eunuchs!
 Dialogue: 0,0:05:32.74,0:05:35.32,Default,,0,0,0,,I will exterminate them all!
 Dialogue: 0,0:05:37.10,0:05:38.12,Default,,0,0,0,,Sire, please calm.
-Dialogue: 0,0:05:37.94,0:05:40.50,Style Names,,0,0,0,,{\pos(126,344)\fade(255,0,255,0,540,1950,2500)}Cáo Cāo\NStyled: Mèngdé
+Dialogue: 0,0:05:37.94,0:05:40.50,Style Names,,0,0,0,,{\pos(257.727,703.636)\fade(255,0,255,0,540,1950,2500)}Cáo Cāo\NStyled: Mèngdé
 Dialogue: 0,0:05:38.72,0:05:42.44,Default,,0,0,0,,The eunuchs' power has been growing since the reigns of Emperors Chōng and Zhì.
 Dialogue: 0,0:05:42.62,0:05:44.70,Default,,0,0,0,,Their influence spreads all across the court.
 Dialogue: 0,0:05:44.70,0:05:49.24,Default,,0,0,0,,Their power didn't accumulate overnight,\Nnor can it be taken down overnight.
-Dialogue: 0,0:05:50.02,0:05:52.06,Style Names,,0,0,0,,{\pos(122,337.143)\fade(255,0,255,0,500,1500,2020)}Hé Jìn\NStyled: Suìgāo
+Dialogue: 0,0:05:50.02,0:05:52.06,Style Names,,0,0,0,,{\pos(249.545,689.611)\fade(255,0,255,0,500,1500,2020)}Hé Jìn\NStyled: Suìgāo
 Dialogue: 0,0:05:49.22,0:05:52.42,Default,,0,0,0,,If we don't keep this a secret,\Nwe'll be the ones eliminated.
 Dialogue: 0,0:05:53.01,0:05:55.14,Default,,0,0,0,,Please, Generalissimo, reconsider.
 Dialogue: 0,0:05:56.35,0:06:00.42,Default,,0,0,0,,You're just a subordinate. What would you know of imperial court affairs?
@@ -121,26 +110,26 @@ Dialogue: 0,0:06:39.77,0:06:40.82,Default,,0,0,0,,Return ahead of me.
 Dialogue: 0,0:06:40.92,0:06:41.35,Default,,0,0,0,,Yes.
 Dialogue: 0,0:06:41.72,0:06:45.10,Default,,0,0,0,,Sir, the imperial guardsmen are\N under the command of Jiǎn Shuò.
 Dialogue: 0,0:06:45.14,0:06:47.12,Default,,0,0,0,,I'm worried they've already set an ambush.
-Dialogue: 0,0:06:48.44,0:06:52.12,Default,,0,0,0,,{\pos(355.429,436.857)}We should first install the rightful emperor, then wipe out the eunuchs.
-Dialogue: 0,0:06:53.65,0:06:56.12,Default,,0,0,0,,{\pos(355.429,436.857)}Mèngdé, your words quite suit me.
-Dialogue: 0,0:06:56.87,0:06:58.97,Default,,0,0,0,,{\pos(355.429,436.857)}Who dares assist me and eliminate them?
-Dialogue: 0,0:06:59.80,0:07:02.16,Default,,0,0,0,,{\pos(355.429,436.857)}Give me 5,000 elite troops, to enter the palace.
-Dialogue: 0,0:07:02.20,0:07:06.04,Default,,0,0,0,,{\pos(355.429,436.857)}Coronate the rightful emperor, then kill the eunuchs and restore peace to the realm!
+Dialogue: 0,0:06:48.44,0:06:52.12,Default,,0,0,0,,{\pos(727.014,893.571)}We should first install the rightful emperor, then wipe out the eunuchs.
+Dialogue: 0,0:06:53.65,0:06:56.12,Default,,0,0,0,,{\pos(727.014,893.571)}Mèngdé, your words quite suit me.
+Dialogue: 0,0:06:56.87,0:06:58.97,Default,,0,0,0,,{\pos(727.014,893.571)}Who dares assist me and eliminate them?
+Dialogue: 0,0:06:59.80,0:07:02.16,Default,,0,0,0,,{\pos(727.014,893.571)}Give me 5,000 elite troops, to enter the palace.
+Dialogue: 0,0:07:02.20,0:07:06.04,Default,,0,0,0,,{\pos(727.014,893.571)}Coronate the rightful emperor, then kill the eunuchs and restore peace to the realm!
 Dialogue: 0,0:07:06.10,0:07:08.52,Default,,0,0,0,,With Běnchū's help, I can rest assured!
 Dialogue: 0,0:07:09.32,0:07:09.70,Default,,0,0,0,,Good!
 Dialogue: 0,0:07:09.94,0:07:12.30,Default,,0,0,0,,Summon all the ministers to gather at the palace.
 Dialogue: 0,0:08:09.72,0:08:10.75,Default,,0,0,0,,Your Majesty!
 Dialogue: 0,0:08:11.82,0:08:13.25,Default,,0,0,0,,Your Majesty!
 Dialogue: 0,0:08:16.46,0:08:18.22,Default,,0,0,0,,Your Majesty!
-Dialogue: 0,0:08:23.37,0:08:26.13,Default,,0,0,0,,{\pos(355.429,436.857)}Sir, ambushes outside the court have been cleared.
-Dialogue: 0,0:08:26.27,0:08:28.44,Default,,0,0,0,,{\pos(355.429,436.857)}We dare not venture further inside the palace.
-Dialogue: 0,0:08:28.54,0:08:32.32,Default,,0,0,0,,{\pos(355.429,436.857)}Why don't we eliminate \N the eunuchs and purge the court?
-Dialogue: 0,0:08:32.60,0:08:33.95,Default,,0,0,0,,{\pos(355.429,436.857)}Restore peace to the realm!
-Dialogue: 0,0:08:34.17,0:08:36.08,Default,,0,0,0,,{\pos(355.429,436.857)}Generalissimo, stick to the plan.
-Dialogue: 0,0:08:36.20,0:08:40.64,Default,,0,0,0,,{\pos(355.429,436.857)}Crown the emperor first,\Nthen purge the eunuchs afterwards!
-Dialogue: 0,0:08:45.87,0:08:47.60,Default,,0,0,0,,{\pos(355.429,436.857)}Mèngdé is correct,
-Dialogue: 0,0:08:47.90,0:08:50.65,Default,,0,0,0,,{\pos(355.429,436.857)}the nation can't go on without its leaders!
-Dialogue: 0,0:08:50.70,0:08:52.71,Default,,0,0,0,,{\pos(355.429,436.857)}We should crown the new emperor right now!
+Dialogue: 0,0:08:23.37,0:08:26.13,Default,,0,0,0,,{\pos(727.014,893.571)}Sir, ambushes outside the court have been cleared.
+Dialogue: 0,0:08:26.27,0:08:28.44,Default,,0,0,0,,{\pos(727.014,893.571)}We dare not venture further inside the palace.
+Dialogue: 0,0:08:28.54,0:08:32.32,Default,,0,0,0,,{\pos(727.014,893.571)}Why don't we eliminate \N the eunuchs and purge the court?
+Dialogue: 0,0:08:32.60,0:08:33.95,Default,,0,0,0,,{\pos(727.014,893.571)}Restore peace to the realm!
+Dialogue: 0,0:08:34.17,0:08:36.08,Default,,0,0,0,,{\pos(727.014,893.571)}Generalissimo, stick to the plan.
+Dialogue: 0,0:08:36.20,0:08:40.64,Default,,0,0,0,,{\pos(727.014,893.571)}Crown the emperor first,\Nthen purge the eunuchs afterwards!
+Dialogue: 0,0:08:45.87,0:08:47.60,Default,,0,0,0,,{\pos(727.014,893.571)}Mèngdé is correct,
+Dialogue: 0,0:08:47.90,0:08:50.65,Default,,0,0,0,,{\pos(727.014,893.571)}the nation can't go on without its leaders!
+Dialogue: 0,0:08:50.70,0:08:52.71,Default,,0,0,0,,{\pos(727.014,893.571)}We should crown the new emperor right now!
 Dialogue: 0,0:09:02.42,0:09:06.10,Default,,0,0,0,,This minister requests the Crown Prince to ascend the throne immediately.
 Dialogue: 0,0:09:52.27,0:09:57.25,Default,,0,0,0,,Your minister, Hé Jìn, congratulates\N the Crown Prince on his ascension to the throne!
 Dialogue: 0,0:09:58.52,0:09:59.92,Default,,0,0,0,,Long live!
@@ -208,23 +197,23 @@ Dialogue: 0,0:15:15.70,0:15:18.70,Default,,0,0,0,,That Hé Jìn just established
 Dialogue: 0,0:15:18.97,0:15:21.05,Default,,0,0,0,,He was only one step ahead of us.
 Dialogue: 0,0:15:21.17,0:15:24.57,Default,,0,0,0,,Grand-Empress Dowager, don't give in.\NWhy not take your own way?
 Dialogue: 0,0:15:26.76,0:15:28.60,Default,,0,0,0,,What do you mean by 'take your own way?'
-Dialogue: 0,0:15:29.35,0:15:31.98,Default,,0,0,0,,{\pos(355.429,436.857)}Empress Dowager Hé has Prince Biàn;
-Dialogue: 0,0:15:31.98,0:15:34.97,Default,,0,0,0,,{\pos(355.429,436.857)}Grand-Empress Dowager, don't you have Prince Xié?
-Dialogue: 0,0:15:35.17,0:15:37.67,Default,,0,0,0,,{\pos(355.429,436.857)}Empress Dowager Hé has her elder brother Hé Jìn;
-Dialogue: 0,0:15:37.75,0:15:42.67,Default,,0,0,0,,{\pos(355.429,436.857)}Grand-Empress Dowager, don't you have your own maternal relatives?
-Dialogue: 0,0:15:46.80,0:15:49.88,Default,,0,0,0,,{\pos(355.429,436.857)}In my opinion, it's better to act sooner rather than later.
-Dialogue: 0,0:15:49.94,0:15:51.68,Default,,0,0,0,,{\pos(355.429,436.857)}Tomorrow morning, before the Imperial Court,
-Dialogue: 0,0:15:51.72,0:15:56.22,Default,,0,0,0,,{\pos(355.429,436.857)}the Grand-Empress Dowager may confer the title Prince of Chénliú upon Prince Xié
-Dialogue: 0,0:15:56.22,0:15:59.78,Default,,0,0,0,,{\pos(355.429,436.857)}and appoint her nephew Dǒng Chòng\Nthe General of Flying Cavalry,
-Dialogue: 0,0:15:59.84,0:16:03.38,Default,,0,0,0,,{\pos(355.429,436.857)}in order to check their power.
-Dialogue: 0,0:16:07.70,0:16:08.62,Default,,0,0,0,,{\pos(355.429,436.857)}Good,
-Dialogue: 0,0:16:10.22,0:16:13.37,Default,,0,0,0,,{\pos(355.429,436.857)}I'll hold court from behind the curtain.
+Dialogue: 0,0:15:29.35,0:15:31.98,Default,,0,0,0,,{\pos(727.014,893.571)}Empress Dowager Hé has Prince Biàn;
+Dialogue: 0,0:15:31.98,0:15:34.97,Default,,0,0,0,,{\pos(727.014,893.571)}Grand-Empress Dowager, don't you have Prince Xié?
+Dialogue: 0,0:15:35.17,0:15:37.67,Default,,0,0,0,,{\pos(727.014,893.571)}Empress Dowager Hé has her elder brother Hé Jìn;
+Dialogue: 0,0:15:37.75,0:15:42.67,Default,,0,0,0,,{\pos(727.014,893.571)}Grand-Empress Dowager, don't you have your own maternal relatives?
+Dialogue: 0,0:15:46.80,0:15:49.88,Default,,0,0,0,,{\pos(727.014,893.571)}In my opinion, it's better to act sooner rather than later.
+Dialogue: 0,0:15:49.94,0:15:51.68,Default,,0,0,0,,{\pos(727.014,893.571)}Tomorrow morning, before the Imperial Court,
+Dialogue: 0,0:15:51.72,0:15:56.22,Default,,0,0,0,,{\pos(727.014,893.571)}the Grand-Empress Dowager may confer the title Prince of Chénliú upon Prince Xié
+Dialogue: 0,0:15:56.22,0:15:59.78,Default,,0,0,0,,{\pos(727.014,893.571)}and appoint her nephew Dǒng Chòng\Nthe General of Flying Cavalry,
+Dialogue: 0,0:15:59.84,0:16:03.38,Default,,0,0,0,,{\pos(727.014,893.571)}in order to check their power.
+Dialogue: 0,0:16:07.70,0:16:08.62,Default,,0,0,0,,{\pos(727.014,893.571)}Good,
+Dialogue: 0,0:16:10.22,0:16:13.37,Default,,0,0,0,,{\pos(727.014,893.571)}I'll hold court from behind the curtain.
 Dialogue: 0,0:16:11.62,0:16:20.55,Note (Potential style?),,0,0,0,,Note: Women weren't allowed to attend the court. However, it was an open secret that many Empresses did so from 'behind the curtain'.
 Dialogue: 0,0:16:32.40,0:16:33.17,Default,,0,0,0,,Generalissimo,
 Dialogue: 0,0:16:38.65,0:16:39.65,Default,,0,0,0,,what's the problem?
 Dialogue: 0,0:16:40.52,0:16:43.27,Default,,0,0,0,,This morning, without Generalissimo's presence,
 Dialogue: 0,0:16:43.60,0:16:47.02,Default,,0,0,0,,The Grand-Empress Dowager suddenly appeared in court to listen to the proceedings.
-Dialogue: 0,0:16:47.80,0:16:51.36,Default,,0,0,0,,There was an imperial decree conferring the title Prince of Chénliú on Prince Xié.
+Dialogue: 0,0:16:47.80,0:16:51.36,Default,,0,0,0,,There was an imperial decree conferring the title Price of Chénliú on Prince Xié.
 Dialogue: 0,0:16:51.44,0:16:54.46,Default,,0,0,0,,and promoting Dǒng Chòng to {\i1}General of Flying Cavalry.
 Dialogue: 0,0:16:54.54,0:16:58.44,Default,,0,0,0,,Emphasis was also given for the Ten Attendants\Nto manage the affairs of state.
 Dialogue: 0,0:16:58.65,0:16:59.67,Default,,0,0,0,,Is this true?!
@@ -292,11 +281,11 @@ Dialogue: 0,0:21:46.77,0:21:50.47,Default,,0,0,0,,If a junior slighted an elder\
 Dialogue: 0,0:21:50.70,0:21:53.72,Default,,0,0,0,,Do you think the Emperor is going to punish me?
 Dialogue: 0,0:21:55.50,0:21:59.12,Default,,0,0,0,,You can't use the Emperor to threaten me.\NI'm not afraid.
 Dialogue: 0,0:22:00.85,0:22:04.95,Default,,0,0,0,,Well then, Grand-Empress Dowager,\Nwhat are you afraid of?
-Dialogue: 0,0:22:18.37,0:22:22.30,Default,,0,0,0,,{\pos(355.429,436.857)}Grand-Empress Dowager Dǒng\Nhaving been a concubine,
-Dialogue: 0,0:22:22.60,0:22:24.82,Default,,0,0,0,,{\pos(355.429,436.857)}is unfit to reside in the palace.
-Dialogue: 0,0:22:25.27,0:22:29.50,Default,,0,0,0,,{\pos(355.429,436.857)}With the death of the late emperor,\Nthere is less reason for her to stay.
-Dialogue: 0,0:22:30.10,0:22:33.32,Default,,0,0,0,,{\pos(355.429,436.857)}She is to return to her hometown
-Dialogue: 0,0:22:33.82,0:22:37.05,Default,,0,0,0,,{\pos(355.429,436.857)}and leave for Héjiān effectively immediately.
+Dialogue: 0,0:22:18.37,0:22:22.30,Default,,0,0,0,,{\pos(727.014,893.571)}Grand-Empress Dowager Dǒng\Nhaving been a concubine,
+Dialogue: 0,0:22:22.60,0:22:24.82,Default,,0,0,0,,{\pos(727.014,893.571)}is unfit to reside in the palace.
+Dialogue: 0,0:22:25.27,0:22:29.50,Default,,0,0,0,,{\pos(727.014,893.571)}With the death of the late emperor,\Nthere is less reason for her to stay.
+Dialogue: 0,0:22:30.10,0:22:33.32,Default,,0,0,0,,{\pos(727.014,893.571)}She is to return to her hometown
+Dialogue: 0,0:22:33.82,0:22:37.05,Default,,0,0,0,,{\pos(727.014,893.571)}and leave for Héjiān effectively immediately.
 Dialogue: 0,0:23:18.52,0:23:21.64,Default,,0,0,0,,The Grand-Empress Dowager is not used to your crude meals!
 Dialogue: 0,0:23:21.68,0:23:22.40,Default,,0,0,0,,Get rid of it!
 Dialogue: 0,0:23:22.67,0:23:23.82,Default,,0,0,0,,Bring it over!
@@ -330,20 +319,20 @@ Dialogue: 0,0:27:23.90,0:27:26.45,Default,,0,0,0,,we can do as we please.
 Dialogue: 0,0:27:27.65,0:27:33.35,Default,,0,0,0,,Around the Empress Dowager,\Nwe need to be very careful.
 Dialogue: 0,0:27:35.38,0:27:37.70,Default,,0,0,0,,So long as we can handle the three royals,
 Dialogue: 0,0:27:37.70,0:27:41.57,Default,,0,0,0,,Hé Jìn will fall easily as turning over the palm of hand.
-Dialogue: 0,0:27:50.02,0:27:53.52,Default,,0,0,0,,{\pos(355.429,436.857)}Why shouldn't I want to kill the eunuchs?
-Dialogue: 0,0:27:54.02,0:28:00.17,Default,,0,0,0,,{\pos(355.429,436.857)}The Empress Dowager says\Nthe eunuchs are capable administrators,
-Dialogue: 0,0:28:00.37,0:28:04.98,Default,,0,0,0,,{\pos(355.429,436.857)}that their mandate was established since the prior reign and shouldn't be disregarded.
-Dialogue: 0,0:28:05.60,0:28:09.00,Default,,0,0,0,,{\pos(355.429,436.857)}And since we're still in mourning for the late Emperor.
-Dialogue: 0,0:28:09.00,0:28:13.35,Default,,0,0,0,,{\pos(355.429,436.857)}It's disrespectful to the shrine of the forefathers to kill veteran servants.
-Dialogue: 0,0:28:15.40,0:28:17.77,Default,,0,0,0,,{\pos(355.429,436.857)}What can I do now?
-Dialogue: 0,0:28:18.65,0:28:20.72,Default,,0,0,0,,{\pos(355.429,436.857)}Indecision will cause trouble.
-Dialogue: 0,0:28:22.25,0:28:28.72,Default,,0,0,0,,{\pos(355.429,436.857)}Generalissimo, I, Běnchū, and all the other generals are all ready for your commands.
-Dialogue: 0,0:28:29.95,0:28:32.70,Default,,0,0,0,,{\pos(355.429,436.857)}Zhāng Ràng is spreading rumors.
-Dialogue: 0,0:28:33.02,0:28:35.65,Default,,0,0,0,,{\pos(355.429,436.857)}Why don't we use this excuse to execute them.
-Dialogue: 0,0:28:36.62,0:28:38.74,Default,,0,0,0,,{\pos(355.429,436.857)}We shouldn't waste this opportunity.
-Dialogue: 0,0:28:38.85,0:28:42.80,Default,,0,0,0,,{\pos(355.429,436.857)}The Empress Dowager would never go along.
-Dialogue: 0,0:28:44.55,0:28:48.44,Default,,0,0,0,,{\pos(355.429,436.857)}Generalissimo, you may summon some frontier troops to enter the capital.
-Dialogue: 0,0:28:48.46,0:28:52.82,Default,,0,0,0,,{\pos(355.429,436.857)}Use them to exterminate the eunuchs, and ignore the Empress Dowager!
+Dialogue: 0,0:27:50.02,0:27:53.52,Default,,0,0,0,,{\pos(727.014,893.571)}Why shouldn't I want to kill the eunuchs?
+Dialogue: 0,0:27:54.02,0:28:00.17,Default,,0,0,0,,{\pos(727.014,893.571)}The Empress Dowager says\Nthe eunuchs are capable administrators,
+Dialogue: 0,0:28:00.37,0:28:04.98,Default,,0,0,0,,{\pos(727.014,893.571)}that their mandate was established since the prior reign and shouldn't be disregarded.
+Dialogue: 0,0:28:05.60,0:28:09.00,Default,,0,0,0,,{\pos(727.014,893.571)}And since we're still in mourning for the late Emperor.
+Dialogue: 0,0:28:09.00,0:28:13.35,Default,,0,0,0,,{\pos(727.014,893.571)}It's disrespectful to the shrine of the forefathers to kill veteran servants.
+Dialogue: 0,0:28:15.40,0:28:17.77,Default,,0,0,0,,{\pos(727.014,893.571)}What can I do now?
+Dialogue: 0,0:28:18.65,0:28:20.72,Default,,0,0,0,,{\pos(727.014,893.571)}Indecision will cause trouble.
+Dialogue: 0,0:28:22.25,0:28:28.72,Default,,0,0,0,,{\pos(727.014,893.571)}Generalissimo, I, Běnchū, and all the other generals are all ready for your commands.
+Dialogue: 0,0:28:29.95,0:28:32.70,Default,,0,0,0,,{\pos(727.014,893.571)}Zhāng Ràng is spreading rumors.
+Dialogue: 0,0:28:33.02,0:28:35.65,Default,,0,0,0,,{\pos(727.014,893.571)}Why don't we use this excuse to execute them.
+Dialogue: 0,0:28:36.62,0:28:38.74,Default,,0,0,0,,{\pos(727.014,893.571)}We shouldn't waste this opportunity.
+Dialogue: 0,0:28:38.85,0:28:42.80,Default,,0,0,0,,{\pos(727.014,893.571)}The Empress Dowager would never go along.
+Dialogue: 0,0:28:44.55,0:28:48.44,Default,,0,0,0,,{\pos(727.014,893.571)}Generalissimo, you may summon some frontier troops to enter the capital.
+Dialogue: 0,0:28:48.46,0:28:52.82,Default,,0,0,0,,{\pos(727.014,893.571)}Use them to exterminate the eunuchs, and ignore the Empress Dowager!
 Dialogue: 0,0:28:53.97,0:28:55.15,Default,,0,0,0,,Excellent plan!
 Dialogue: 0,0:28:56.07,0:28:57.52,Default,,0,0,0,,Really excellent plan!
 Dialogue: 0,0:28:57.96,0:28:59.48,Default,,0,0,0,,Call the Registrar; Chén Lín!
@@ -354,21 +343,21 @@ Dialogue: 0,0:29:14.90,0:29:17.52,Default,,0,0,0,,The Empress Dowager humours us
 Dialogue: 0,0:29:17.22,0:29:19.06,Default,,0,0,0,,With you protecting us,
 Dialogue: 0,0:29:19.06,0:29:20.75,Default,,0,0,0,,Whom can compare with you?
 Dialogue: 0,0:29:20.99,0:29:22.08,Default,,0,0,0,,It's true, it's true.
-Dialogue: 0,0:29:28.82,0:29:31.12,Default,,0,0,0,,{\pos(355.429,436.857)}Cáo Cāo pays his respects to the Generalissimo.
-Dialogue: 0,0:29:39.00,0:29:42.75,Default,,0,0,0,,{\pos(355.429,436.857)}Generalissimo,\Nit's an easy matter to remove the eunuchs.
-Dialogue: 0,0:29:42.95,0:29:46.97,Default,,0,0,0,,{\pos(355.429,436.857)}A warden is equal to the task, why summon a frontier army?
-Dialogue: 0,0:29:55.95,0:29:57.67,Default,,0,0,0,,{\pos(355.429,436.857)}A warden is enough?
-Dialogue: 0,0:29:57.80,0:29:58.82,Default,,0,0,0,,{\pos(355.429,436.857)}A warden is enough!
-Dialogue: 0,0:29:59.42,0:30:03.46,Default,,0,0,0,,{\pos(355.429,436.857)}All of the issues come from the ringleaders. No need to exterminate everyone.
-Dialogue: 0,0:30:03.52,0:30:07.10,Default,,0,0,0,,{\pos(355.429,436.857)}If we want to kill everyone,\Nthe plot will leak out, and we'll certainly fail.
-Dialogue: 0,0:30:10.52,0:30:15.10,Default,,0,0,0,,{\pos(355.429,436.857)}Oh... I get it now!
-Dialogue: 0,0:30:16.00,0:30:18.50,Default,,0,0,0,,{\pos(355.429,436.857)}Mèngdé is related to the eunuchs.
-Dialogue: 0,0:30:18.50,0:30:22.05,Default,,0,0,0,,{\pos(355.429,436.857)}It's only natural for him to be soft on them.
+Dialogue: 0,0:29:28.82,0:29:31.12,Default,,0,0,0,,{\pos(727.014,893.571)}Cáo Cāo pays his respects to the Generalissimo.
+Dialogue: 0,0:29:39.00,0:29:42.75,Default,,0,0,0,,{\pos(727.014,893.571)}Generalissimo,\Nit's an easy matter to remove the eunuchs.
+Dialogue: 0,0:29:42.95,0:29:46.97,Default,,0,0,0,,{\pos(727.014,893.571)}A warden is equal to the task, why summon a frontier army?
+Dialogue: 0,0:29:55.95,0:29:57.67,Default,,0,0,0,,{\pos(727.014,893.571)}A warden is enough?
+Dialogue: 0,0:29:57.80,0:29:58.82,Default,,0,0,0,,{\pos(727.014,893.571)}A warden is enough!
+Dialogue: 0,0:29:59.42,0:30:03.46,Default,,0,0,0,,{\pos(727.014,893.571)}All of the issues come from the ringleaders. No need to exterminate everyone.
+Dialogue: 0,0:30:03.52,0:30:07.10,Default,,0,0,0,,{\pos(727.014,893.571)}If we want to kill everyone,\Nthe plot will leak out, and we'll certainly fail.
+Dialogue: 0,0:30:10.52,0:30:15.10,Default,,0,0,0,,{\pos(727.014,893.571)}Oh... I get it now!
+Dialogue: 0,0:30:16.00,0:30:18.50,Default,,0,0,0,,{\pos(727.014,893.571)}Mèngdé is related to the eunuchs.
+Dialogue: 0,0:30:18.50,0:30:22.05,Default,,0,0,0,,{\pos(727.014,893.571)}It's only natural for him to be soft on them.
 Dialogue: 0,0:30:22.11,0:30:26.48,Header,,0,0,0,,Note: Cáo Cāo's father, Cáo Sōng was adopted by the eunuch Cáo Téng.
 Dialogue: 0,0:30:22.35,0:30:22.84,Default,,0,0,0,,You!
-Dialogue: 0,0:30:29.98,0:30:32.50,Style Names,,0,0,0,,{\pos(131,342)\fade(255,0,255,0,540,5000,5000)}Cáo Cāo\NStyled: Mèngdé
-Dialogue: 0,0:30:32.07,0:30:35.55,Default,,0,0,0,,{\pos(355.429,436.857)}The one who ruins the nation, be none other than Hé Jìn!
-Dialogue: 0,0:30:37.34,0:30:39.98,Style Names,,0,0,0,,{\pos(150.714,327)\fade(255,0,255,0,540,2180,2620)}Dīng Yuán\NStyled: Jiànyáng
+Dialogue: 0,0:30:29.98,0:30:32.50,Style Names,,0,0,0,,{\pos(267.955,699.545)\fade(255,0,255,0,540,5000,5000)}Cáo Cāo\NStyled: Mèngdé
+Dialogue: 0,0:30:32.07,0:30:35.55,Default,,0,0,0,,{\pos(727.014,893.571)}The one who ruins the nation, be none other than Hé Jìn!
+Dialogue: 0,0:30:37.34,0:30:39.98,Style Names,,0,0,0,,{\pos(308.279,668.864)\fade(255,0,255,0,540,2180,2620)}Dīng Yuán\NStyled: Jiànyáng
 Dialogue: 0,0:30:37.70,0:30:40.42,Default,,0,0,0,,Dǒng Zhuó is on the table to remove the eunuchs?
 Dialogue: 0,0:30:43.90,0:30:47.40,Default,,0,0,0,,Who doesn't know his relation with the Ten Attendants?
 Dialogue: 0,0:30:47.87,0:30:52.42,Default,,0,0,0,,During the Yellow Turban Rebellion,\Nhe was defeated and suffered heavy casualties.
@@ -380,13 +369,13 @@ Dialogue: 0,0:31:22.72,0:31:23.50,Default,,0,0,0,,So...
 Dialogue: 0,0:31:25.95,0:31:28.60,Default,,0,0,0,,Dǒng Zhuó is coming with 200,000 armored troops.
 Dialogue: 0,0:31:29.25,0:31:33.28,Default,,0,0,0,,The eunuchs are about to be swept away as easily as turning over the palm of hand.
 Dialogue: 0,0:31:34.20,0:31:36.80,Default,,0,0,0,,Generalissimo, Dǒng Zhuó is a rabid wolf.
-Dialogue: 0,0:31:34.42,0:31:36.98,Style Names,,0,0,0,,{\pos(146.708,181)\fade(255,0,255,0,415,2150,2540)}Zhèng Tài
+Dialogue: 0,0:31:34.42,0:31:36.98,Style Names,,0,0,0,,{\pos(300.085,370.227)\fade(255,0,255,0,415,2150,2540)}Zhèng Tài
 Dialogue: 0,0:31:37.07,0:31:39.62,Default,,0,0,0,,Let him in the capital, and he will eat people.
 Dialogue: 0,0:31:40.02,0:31:41.52,Default,,0,0,0,,You're too suspicious!
 Dialogue: 0,0:31:41.95,0:31:44.38,Default,,0,0,0,,He can't possibly be able to do such a thing!
 Dialogue: 0,0:31:44.98,0:31:45.98,Default,,0,0,0,,Generalissimo,
 Dialogue: 0,0:31:46.65,0:31:48.50,Default,,0,0,0,,I know Dǒng Zhuó.
-Dialogue: 0,0:31:45.54,0:31:48.70,Style Names,,0,0,0,,{\pos(114,377)\fade(255,0,255,0,520,2750,3140)}Lú Zhí\NStyled: Zǐgān
+Dialogue: 0,0:31:45.54,0:31:48.70,Style Names,,0,0,0,,{\pos(233.182,771.136)\fade(255,0,255,0,520,2750,3140)}Lú Zhí\NStyled: Zǐgān
 Dialogue: 0,0:31:48.95,0:31:51.55,Default,,0,0,0,,He may seems kind\Nbut is cruel as can be.
 Dialogue: 0,0:31:52.27,0:31:54.75,Default,,0,0,0,,Once in the capital,\Nhe will bring disaster.
 Dialogue: 0,0:31:55.32,0:31:59.10,Default,,0,0,0,,Better to stop him from\Nentering the capital to avoid chaos.
@@ -396,7 +385,7 @@ Dialogue: 0,0:32:05.65,0:32:07.97,Default,,0,0,0,,The order has been given.
 Dialogue: 0,0:32:26.30,0:32:29.45,Default,,0,0,0,,We can no longer bear this office.
 Dialogue: 0,0:32:30.20,0:32:30.87,Default,,0,0,0,,Farewell.
 Dialogue: 0,0:32:35.95,0:32:37.62,Thinking,,0,0,0,,Abandon your post and flee!
-Dialogue: 0,0:32:55.58,0:32:58.10,Style Names,,0,0,0,,{\pos(579.798,331.429)\fade(255,0,255,0,375,2150,2500)}Dǒng Zhuó\NStyled: Zhòngyǐng
+Dialogue: 0,0:32:55.58,0:32:58.10,Style Names,,0,0,0,,{\pos(1185.95,677.923)\fade(255,0,255,0,375,2150,2500)}Dǒng Zhuó\NStyled: Zhòngyǐng
 Dialogue: 0,0:33:01.52,0:33:03.90,Default,,0,0,0,,Empress Dowager!
 Dialogue: 0,0:33:05.05,0:33:08.40,Default,,0,0,0,,The Generalissimo has ordered\Nfrontier armies to enter the capital!
 Dialogue: 0,0:33:08.38,0:33:12.01,Default,,0,0,0,,He plans to kill us! Please save our lives,\NEmpress Dowager, we beg you!
@@ -475,23 +464,23 @@ Dialogue: 0,0:38:54.07,0:38:57.37,Default,,0,0,0,,Search and find the Emperor an
 Dialogue: 0,0:39:14.45,0:39:15.12,Default,,0,0,0,,Your Majesty!
 Dialogue: 0,0:39:16.00,0:39:16.72,Default,,0,0,0,,Your Majesty!
 Dialogue: 0,0:39:17.27,0:39:17.97,Default,,0,0,0,,Your Majesty!
-Dialogue: 0,0:39:19.15,0:39:20.90,Style Names,,0,0,0,,{\pos(141.701,287)}Mǐn Gòng
+Dialogue: 0,0:39:19.15,0:39:20.90,Style Names,,0,0,0,,{\pos(289.843,587.045)}Mǐn Gòng
 Dialogue: 0,0:39:19.62,0:39:20.27,Default,,0,0,0,,Your Majesty!
 Dialogue: 0,0:39:30.42,0:39:31.30,Default,,0,0,0,,Your Majesty!
 Dialogue: 0,0:39:31.65,0:39:32.80,Default,,0,0,0,,Your Majesty!
 Dialogue: 0,0:39:33.72,0:39:34.82,Default,,0,0,0,,Quickly, stand up.
 Dialogue: 0,0:39:51.67,0:39:52.70,Default,,0,0,0,,Who's coming?
 Dialogue: 0,0:40:02.02,0:40:06.50,Default,,0,0,0,,This minister, the Marquis of Áoxiāng and the Overseer of Xīliáng; Dǒng Zhuó has arrived.
-Dialogue: 0,0:40:06.60,0:40:07.80,Style Names,,0,0,0,,{\pos(151,345)}Wáng Yǔn\NStyled: Zǐshī
+Dialogue: 0,0:40:06.60,0:40:07.80,Style Names,,0,0,0,,{\pos(308.863,705.682)}Wáng Yǔn\NStyled: Zǐshī
 Dialogue: 0,0:40:09.10,0:40:10.40,Default,,0,0,0,,You are Dǒng Zhuó?
 Dialogue: 0,0:40:10.67,0:40:12.36,Default,,0,0,0,,This minister is Dǒng Zhuó.
 Dialogue: 0,0:40:12.87,0:40:18.76,Default,,0,0,0,,Back when the Yellow Turbans rebelled, you were defeated and suffered heavy casualties.
 Dialogue: 0,0:40:18.90,0:40:20.14,Default,,0,0,0,,Are you aware of your guilt?
 Dialogue: 0,0:40:20.24,0:40:21.62,Default,,0,0,0,,This minister confesses.
-Dialogue: 0,0:40:21.75,0:40:23.54,Default,,0,0,0,,The new regime is still young,
+Dialogue: 0,0:40:21.75,0:40:23.54,Default,,0,0,0,,The new regime is still young
 Dialogue: 0,0:40:23.54,0:40:27.10,Default,,0,0,0,,and you came just in time for the rescue,\Ndoing us a great service.
-Dialogue: 0,0:40:25.34,0:40:27.30,Style Names,,0,0,0,,{\pos(98.64,325)\fade(255,0,255,0,550,1650,1940)}Lǐ Rú
-Dialogue: 0,0:40:27.46,0:40:28.47,Style Names,,0,0,0,,{\pos(591.34,348)}Lǐ Sù
+Dialogue: 0,0:40:25.34,0:40:27.30,Style Names,,0,0,0,,{\pos(201.763,664.773)\fade(255,0,255,0,550,1650,1940)}Lǐ Rú
+Dialogue: 0,0:40:27.46,0:40:28.47,Style Names,,0,0,0,,{\pos(1209.559,711.818)}Lǐ Sù
 Dialogue: 0,0:40:27.26,0:40:30.94,Default,,0,0,0,,From now on, you have to make up your previous actions by doing good deeds.
 Dialogue: 0,0:40:30.98,0:40:31.96,Default,,0,0,0,,I obey.
 Dialogue: 0,0:40:31.95,0:40:36.37,Default,,0,0,0,,This minister will do everything\Nhe can to assist the Imperial Court.
